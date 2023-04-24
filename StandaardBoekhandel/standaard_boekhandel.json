@@ -1,0 +1,1244 @@
+{
+    "books": [
+        {
+            "title": "Heeft iemand Charlotte Salter gezien?",
+            "author": "Nicci French",
+            "cover_url": "http://books.google.com/books/content?id=FpCaEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Boef",
+            "author": "Jana Elza Wuyts",
+            "cover_url": "https://dummyimage.com/128x198/fff/000000.jpg&text=Afbeelding+niet+gevonden"
+        },
+        {
+            "title": "De doden moeten hun getal hebben",
+            "author": "Jo Claes",
+            "cover_url": "https://dummyimage.com/128x198/fff/000000.jpg&text=Afbeelding+niet+gevonden"
+        },
+        {
+            "title": "Duivelsbocht",
+            "author": "Robert Bryndza",
+            "cover_url": ""
+        },
+        {
+            "title": "Heeft iemand Charlotte Salter gezien?",
+            "author": "Nicci French",
+            "cover_url": "http://books.google.com/books/content?id=FpCaEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Boef",
+            "author": "Jana Elza Wuyts",
+            "cover_url": "https://dummyimage.com/128x198/fff/000000.jpg&text=Afbeelding+niet+gevonden"
+        },
+        {
+            "title": "De doden moeten hun getal hebben",
+            "author": "Jo Claes",
+            "cover_url": "https://dummyimage.com/128x198/fff/000000.jpg&text=Afbeelding+niet+gevonden"
+        },
+        {
+            "title": "Duivelsbocht",
+            "author": "Robert Bryndza",
+            "cover_url": ""
+        },
+        {
+            "title": "It ends with us",
+            "author": "Colleen Hoover",
+            "cover_url": "http://books.google.com/books/content?id=wmnuDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "It ends with us",
+            "author": "Colleen Hoover",
+            "cover_url": "http://books.google.com/books/content?id=wmnuDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "A Good Girl's Guide to Murder",
+            "author": "Holly Jackson",
+            "cover_url": "http://books.google.com/books/content?id=wrUlEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Girl in pieces",
+            "author": "Kathleen Glasgow",
+            "cover_url": ""
+        },
+        {
+            "title": "It starts with us",
+            "author": "Colleen Hoover",
+            "cover_url": "http://books.google.com/books/content?id=CMeVEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "It starts with us",
+            "author": "Colleen Hoover",
+            "cover_url": "http://books.google.com/books/content?id=CMeVEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Twisted Love",
+            "author": "Ana Huang",
+            "cover_url": "http://books.google.com/books/content?id=qwlWzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        {
+            "title": "Moordgids voor lieve meisjes",
+            "author": "Holly Jackson",
+            "cover_url": ""
+        },
+        {
+            "title": "Twisted games",
+            "author": "Ana Huang",
+            "cover_url": "http://books.google.com/books/content?id=qVWNzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        {
+            "title": "Good Girl, Bad Blood",
+            "author": "Holly Jackson",
+            "cover_url": "http://books.google.com/books/content?id=WVObEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Shatter me",
+            "author": "Tahereh Mafi",
+            "cover_url": ""
+        },
+        {
+            "title": "A Thousand Boy Kisses",
+            "author": "Tillie Cole",
+            "cover_url": "http://books.google.com/books/content?id=UGF5vwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        {
+            "title": "The seven husbands of Evelyn Hugo",
+            "author": "Taylor Jenkins Reid",
+            "cover_url": ""
+        },
+        {
+            "title": "Ugly love",
+            "author": "Colleen Hoover",
+            "cover_url": "http://books.google.com/books/content?id=QF1GAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Verity",
+            "author": "Colleen Hoover",
+            "cover_url": "http://books.google.com/books/content?id=ISxGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "As Good As Dead",
+            "author": "Holly Jackson",
+            "cover_url": "http://books.google.com/books/content?id=Vh8YEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Twisted Hate",
+            "author": "Ana Huang",
+            "cover_url": "http://books.google.com/books/content?id=DRP3zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        {
+            "title": "The fine print",
+            "author": "Lauren Asher",
+            "cover_url": "http://books.google.com/books/content?id=WlCzzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        {
+            "title": "A Million Kisses in Your Lifetime",
+            "author": "Monica Murphy",
+            "cover_url": ""
+        },
+        {
+            "title": "King of Wrath",
+            "author": "Ana Huang",
+            "cover_url": ""
+        },
+        {
+            "title": "Twisted lies",
+            "author": "Ana Huang",
+            "cover_url": ""
+        },
+        {
+            "title": "The Love Hypothesis",
+            "author": "Ali Hazelwood",
+            "cover_url": "http://books.google.com/books/content?id=J4QUEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Things we never got over",
+            "author": "Lucy Score",
+            "cover_url": "http://books.google.com/books/content?id=R1d0EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Reminders of Him",
+            "author": "Colleen Hoover",
+            "cover_url": "http://books.google.com/books/content?id=Fzy1zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        {
+            "title": "De prins van toorn",
+            "author": "Kerri Maniscalco",
+            "cover_url": "http://books.google.com/books/content?id=ZDx2EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "The cruel prince",
+            "author": "Holly Black",
+            "cover_url": "http://books.google.com/books/content?id=WFAsDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Daisy Jones & The Six",
+            "author": "Taylor Jenkins Reid",
+            "cover_url": ""
+        },
+        {
+            "title": "One of us is lying",
+            "author": "Karen M. McManus",
+            "cover_url": "http://books.google.com/books/content?id=dy86DQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "November 9",
+            "author": "Colleen Hoover",
+            "cover_url": "http://books.google.com/books/content?id=DHwmDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Terms and Conditions",
+            "author": "Lauren Asher",
+            "cover_url": ""
+        },
+        {
+            "title": "The song of Achilles",
+            "author": "Madeline Miller",
+            "cover_url": ""
+        },
+        {
+            "title": "All your perfects",
+            "author": "Colleen Hoover",
+            "cover_url": "http://books.google.com/books/content?id=YYhgEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "They both die at the end",
+            "author": "Adam Silvera",
+            "cover_url": "http://books.google.com/books/content?id=5pSyDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "The American Roommate Experiment",
+            "author": "Elena Armas",
+            "cover_url": ""
+        },
+        {
+            "title": "The first to die at the end",
+            "author": "Adam Silvera",
+            "cover_url": "http://books.google.com/books/content?id=hcRREAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Love on the brain",
+            "author": "Ali Hazelwood",
+            "cover_url": "http://books.google.com/books/content?id=yDxJEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "A court of thorns and roses",
+            "author": "Sarah J. Maas",
+            "cover_url": "http://books.google.com/books/content?id=GynbBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "The Spanish Love Deception",
+            "author": "Elena Armas",
+            "cover_url": ""
+        },
+        {
+            "title": "Book lovers",
+            "author": "Emily Henry",
+            "cover_url": ""
+        },
+        {
+            "title": "The atlas six",
+            "author": "Olivie Blake",
+            "cover_url": ""
+        },
+        {
+            "title": "Zo lief als de dood",
+            "author": "Holly Jackson",
+            "cover_url": "http://books.google.com/books/content?id=QJ1jEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Once upon a broken heart",
+            "author": "Stephanie Garber",
+            "cover_url": ""
+        },
+        {
+            "title": "Doodleuk",
+            "author": "Holly Jackson",
+            "cover_url": "https://dummyimage.com/128x198/fff/000000.jpg&text=Afbeelding+niet+gevonden"
+        },
+        {
+            "title": "Dochter van de Scharlaken Rozen",
+            "author": "Chloe Gong",
+            "cover_url": "http://books.google.com/books/content?id=guKdEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "You've reached Sam",
+            "author": "Dustin Thao",
+            "cover_url": "http://books.google.com/books/content?id=JURlEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "The midnight library",
+            "author": "Matt Haig",
+            "cover_url": ""
+        },
+        {
+            "title": "De waarheid",
+            "author": "Colleen Hoover",
+            "cover_url": "http://books.google.com/books/content?id=oaHGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "One of us is next",
+            "author": "Karen M. McManus",
+            "cover_url": "http://books.google.com/books/content?id=xfaNEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        {
+            "title": "Een van ons liegt",
+            "author": "Karen M. McManus",
+            "cover_url": "http://books.google.com/books/content?id=x1W1DQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Red, White and Royal Blue",
+            "author": "Casey McQuiston",
+            "cover_url": "http://books.google.com/books/content?id=MG5YEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "This woven kingdom",
+            "author": "Tahereh Mafi",
+            "cover_url": ""
+        },
+        {
+            "title": "Babel",
+            "author": "R.F. Kuang",
+            "cover_url": "http://books.google.com/books/content?id=ZWRQEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "The queen of nothing",
+            "author": "Holly Black",
+            "cover_url": ""
+        },
+        {
+            "title": "Kingdom of the Wicked",
+            "author": "Kerri Maniscalco",
+            "cover_url": ""
+        },
+        {
+            "title": "Cinderella is Dead",
+            "author": "Kalynn Bayron",
+            "cover_url": "http://books.google.com/books/content?id=YSnvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "The final gambit",
+            "author": "Jennifer Lynn Barnes",
+            "cover_url": "http://books.google.com/books/content?id=kSxHEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Magnolia Parks",
+            "author": "Jessa Hastings",
+            "cover_url": "http://books.google.com/books/content?id=E22ZEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Tussen de regels",
+            "author": "Lauren Asher",
+            "cover_url": "http://books.google.com/books/content?id=BianEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "The house in the Cerulean Sea",
+            "author": "TJ Klune",
+            "cover_url": "http://books.google.com/books/content?id=O0iSDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Loveless",
+            "author": "Alice Oseman",
+            "cover_url": "http://books.google.com/books/content?id=3Lt6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Daughter of the Pirate King",
+            "author": "Tricia Levenseller",
+            "cover_url": "http://books.google.com/books/content?id=VH9qEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Malibu rising",
+            "author": "Taylor Jenkins Reid",
+            "cover_url": "http://books.google.com/books/content?id=iuqPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        {
+            "title": "Flock",
+            "author": "Kate Stewart",
+            "cover_url": "https://dummyimage.com/128x198/fff/000000.jpg&text=Afbeelding+niet+gevonden"
+        },
+        {
+            "title": "Het onzichtbare leven van Addie LaRue",
+            "author": "V.E. Schwab",
+            "cover_url": "http://books.google.com/books/content?id=TpROEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Nothing more to tell",
+            "author": "Karen M. McManus",
+            "cover_url": ""
+        },
+        {
+            "title": "Elke zomer daarna",
+            "author": "Carley Fortune",
+            "cover_url": ""
+        },
+        {
+            "title": "De zeven echtgenoten van Evelyn Hugo",
+            "author": "Taylor Jenkins Reid",
+            "cover_url": ""
+        },
+        {
+            "title": "Middernachtbibliotheek",
+            "author": "Matt Haig",
+            "cover_url": ""
+        },
+        {
+            "title": "Hallo, met Sam",
+            "author": "Dustin Thao",
+            "cover_url": "http://books.google.com/books/content?id=yPx6EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Daughter Of The Siren Queen",
+            "author": "Tricia Levenseller",
+            "cover_url": ""
+        },
+        {
+            "title": "Het negende huis",
+            "author": "Leigh Bardugo",
+            "cover_url": "http://books.google.com/books/content?id=FwPWDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "De liefdeshypothese",
+            "author": "Ali Hazelwood",
+            "cover_url": "http://books.google.com/books/content?id=muVaEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Punk 57",
+            "author": "Penelope Douglas",
+            "cover_url": "https://dummyimage.com/128x198/fff/000000.jpg&text=Afbeelding+niet+gevonden"
+        },
+        {
+            "title": "Princess of souls",
+            "author": "Alexandra Christo",
+            "cover_url": "http://books.google.com/books/content?id=Fl1HEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "A touch of darkness",
+            "author": "Scarlett St. Clair",
+            "cover_url": "http://books.google.com/books/content?id=4BZ7xgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        {
+            "title": "The wicked king",
+            "author": "Holly Black",
+            "cover_url": ""
+        },
+        {
+            "title": "Six of crows",
+            "author": "Leigh Bardugo",
+            "cover_url": "http://books.google.com/books/content?id=yhIRBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Six crimson cranes",
+            "author": "Elizabeth Lim",
+            "cover_url": "http://books.google.com/books/content?id=wP0CEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "De duistere profetie",
+            "author": "Tahereh Mafi",
+            "cover_url": "https://dummyimage.com/128x198/fff/000000.jpg&text=Afbeelding+niet+gevonden"
+        },
+        {
+            "title": "Schim en schaduw",
+            "author": "Leigh Bardugo",
+            "cover_url": "http://books.google.com/books/content?id=beJlzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        {
+            "title": "Kingdom of the cursed",
+            "author": "Kerri Maniscalco",
+            "cover_url": "http://books.google.com/books/content?id=AOgPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "De Spaanse liefdesleugen",
+            "author": "Elena Armas",
+            "cover_url": ""
+        },
+        {
+            "title": "Maybe now",
+            "author": "Colleen Hoover",
+            "cover_url": ""
+        },
+        {
+            "title": "The Inheritance Games",
+            "author": "Jennifer Lynn Barnes",
+            "cover_url": "http://books.google.com/books/content?id=XjPUDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Bloodmarked",
+            "author": "Tracy Deonn",
+            "cover_url": "http://books.google.com/books/content?id=S9RJEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Daisy Jones & The Six",
+            "author": "Taylor Jenkins Reid",
+            "cover_url": "http://books.google.com/books/content?id=-piTEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        {
+            "title": "One last stop",
+            "author": "Casey McQuiston",
+            "cover_url": ""
+        },
+        {
+            "title": "Daisy Haites",
+            "author": "Jessa Hastings",
+            "cover_url": ""
+        },
+        {
+            "title": "(01): iron widow",
+            "author": "Xiran Jay Zhao",
+            "cover_url": ""
+        },
+        {
+            "title": "Liefdeloos",
+            "author": "Alice Oseman",
+            "cover_url": ""
+        },
+        {
+            "title": "Finding perfect",
+            "author": "Colleen Hoover",
+            "cover_url": ""
+        },
+        {
+            "title": "Two can keep a secret",
+            "author": "Karen M. McManus",
+            "cover_url": ""
+        },
+        {
+            "title": "Family of liars",
+            "author": "E. Lockhart",
+            "cover_url": "http://books.google.com/books/content?id=kO9FEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "This wicked fate",
+            "author": "Kalynn Bayron",
+            "cover_url": "http://books.google.com/books/content?id=_gZLEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "De laatste zet",
+            "author": "Jennifer Lynn Barnes",
+            "cover_url": "https://dummyimage.com/128x198/fff/000000.jpg&text=Afbeelding+niet+gevonden"
+        },
+        {
+            "title": "Lightlark (the Lightlark Saga Book 1)",
+            "author": "Alex Aster",
+            "cover_url": "http://books.google.com/books/content?id=6TteEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Kingdom of the Feared",
+            "author": "Kerri Maniscalco",
+            "cover_url": "http://books.google.com/books/content?id=Pj5YEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "The Hawthorne Legacy",
+            "author": "Jennifer Lynn Barnes",
+            "cover_url": "http://books.google.com/books/content?id=UQ4PEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Twisted love",
+            "author": "Ana Huang",
+            "cover_url": ""
+        },
+        {
+            "title": "The Invisible Life of Addie Larue",
+            "author": "V.E. Schwab",
+            "cover_url": ""
+        },
+        {
+            "title": "You'll be the Death of Me",
+            "author": "Karen M. McManus",
+            "cover_url": "http://books.google.com/books/content?id=UsMgEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "This poison heart",
+            "author": "Kalynn Bayron",
+            "cover_url": "http://books.google.com/books/content?id=QroaEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Familie liegt nooit",
+            "author": "Karen M. McManus",
+            "cover_url": ""
+        },
+        {
+            "title": "The dragon's promise",
+            "author": "Elizabeth Lim",
+            "cover_url": "http://books.google.com/books/content?id=6WBQEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Anders dan je dacht",
+            "author": "Elle Kennedy",
+            "cover_url": "https://dummyimage.com/128x198/fff/000000.jpg&text=Afbeelding+niet+gevonden"
+        },
+        {
+            "title": "Crooked kingdom",
+            "author": "Leigh Bardugo",
+            "cover_url": "http://books.google.com/books/content?id=8Jh_CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "De gouden enclaves",
+            "author": "Naomi Novik",
+            "cover_url": ""
+        },
+        {
+            "title": "Hof van doorns en rozen",
+            "author": "Sarah J. Maas",
+            "cover_url": "http://books.google.com/books/content?id=4m-fDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Defy the night",
+            "author": "Brigid Kemmerer",
+            "cover_url": "http://books.google.com/books/content?id=MCgfEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "The Kiss Curse",
+            "author": "Erin Sterling",
+            "cover_url": ""
+        },
+        {
+            "title": "Marriage for one",
+            "author": "Ella Maise",
+            "cover_url": "http://books.google.com/books/content?id=rAlwEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "You and Me on Vacation",
+            "author": "Emily Henry",
+            "cover_url": ""
+        },
+        {
+            "title": "Alizeh. Het lot van de djinn",
+            "author": "Tahereh Mafi",
+            "cover_url": ""
+        },
+        {
+            "title": "Het gefluister achter de deur",
+            "author": "TJ Klune",
+            "cover_url": "http://books.google.com/books/content?id=nNqPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Niets meer te zeggen",
+            "author": "Karen M. McManus",
+            "cover_url": ""
+        },
+        {
+            "title": "Legends & Lattes",
+            "author": "Travis Baldree",
+            "cover_url": ""
+        },
+        {
+            "title": "The High Mountain Court",
+            "author": "A.K. Mulford",
+            "cover_url": "http://books.google.com/books/content?id=9a6NzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        {
+            "title": "De erfenis",
+            "author": "Jennifer Lynn Barnes",
+            "cover_url": ""
+        },
+        {
+            "title": "The seven husbands of Evelyn Hugo",
+            "author": "Taylor Jenkins Reid",
+            "cover_url": ""
+        },
+        {
+            "title": "The Long Way Home",
+            "author": "Jessa Hastings",
+            "cover_url": "http://books.google.com/books/content?id=gm2ZEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Falls boys",
+            "author": "Penelope Douglas",
+            "cover_url": "http://books.google.com/books/content?id=3-oZzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        {
+            "title": "Funny You Should Ask",
+            "author": "Elissa Sussman",
+            "cover_url": "http://books.google.com/books/content?id=cgU4EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "The hardest fall",
+            "author": "Ella Maise",
+            "cover_url": ""
+        },
+        {
+            "title": "To Love Jason Thorn",
+            "author": "Ella Maise",
+            "cover_url": "https://dummyimage.com/128x198/fff/000000.jpg&text=Afbeelding+niet+gevonden"
+        },
+        {
+            "title": "I Kissed Shara Wheeler",
+            "author": "Casey McQuiston",
+            "cover_url": ""
+        },
+        {
+            "title": "Ninth house",
+            "author": "Leigh Bardugo",
+            "cover_url": "http://books.google.com/books/content?id=6dt_DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "The Cousins",
+            "author": "Karen M. McManus",
+            "cover_url": ""
+        },
+        {
+            "title": "We were liars",
+            "author": "E. Lockhart",
+            "cover_url": ""
+        },
+        {
+            "title": "Bad girl reputation",
+            "author": "Elle Kennedy",
+            "cover_url": "http://books.google.com/books/content?id=3gBVEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Gallant",
+            "author": "V.E. Schwab",
+            "cover_url": "http://books.google.com/books/content?id=CoM6EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Legendborn",
+            "author": "Tracy Deonn",
+            "cover_url": "http://books.google.com/books/content?id=UaNvEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "List & leugens",
+            "author": "Leigh Bardugo",
+            "cover_url": ""
+        },
+        {
+            "title": "Gild",
+            "author": "Raven Kennedy",
+            "cover_url": ""
+        },
+        {
+            "title": "Delilah Green Doesn't Care",
+            "author": "Ashley Herring Blake",
+            "cover_url": ""
+        },
+        {
+            "title": "Every Summer After",
+            "author": "Carley Fortune",
+            "cover_url": "http://books.google.com/books/content?id=c788EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "To Hate Adam Connor",
+            "author": "Ella Maise",
+            "cover_url": "http://books.google.com/books/content?id=PQlwEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        {
+            "title": "Our violent ends",
+            "author": "Chloe Gong",
+            "cover_url": "http://books.google.com/books/content?id=dy1JEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Beach Read",
+            "author": "Emily Henry",
+            "cover_url": ""
+        },
+        {
+            "title": "De verloren erfgenaam",
+            "author": "Jennifer Lynn Barnes",
+            "cover_url": ""
+        },
+        {
+            "title": "Daughter of the Moon Goddess",
+            "author": "Sue Lynn Tan",
+            "cover_url": ""
+        },
+        {
+            "title": "Het weeshuis in de azuurblauwe zee",
+            "author": "TJ Klune",
+            "cover_url": "http://books.google.com/books/content?id=-vNvEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Good girl complex",
+            "author": "Elle Kennedy",
+            "cover_url": "http://books.google.com/books/content?id=sjYtEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        {
+            "title": "De verbannen koningin",
+            "author": "Holly Black",
+            "cover_url": ""
+        },
+        {
+            "title": "The Ballad of Never After",
+            "author": "Stephanie Garber",
+            "cover_url": "http://books.google.com/books/content?id=f05VEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Kraai & koninkrijk",
+            "author": "Leigh Bardugo",
+            "cover_url": "http://books.google.com/books/content?id=1CeeUmWapLwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Alone With You in the Ether",
+            "author": "Olivie Blake",
+            "cover_url": "http://books.google.com/books/content?id=cJJwEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "These Hollow Vows",
+            "author": "Lexi Ryan",
+            "cover_url": ""
+        },
+        {
+            "title": "Gleam",
+            "author": "Raven Kennedy",
+            "cover_url": "http://books.google.com/books/content?id=XPRsEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "9 november",
+            "author": "Colleen Hoover",
+            "cover_url": "http://books.google.com/books/content?id=DHwmDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Wij leugenaars",
+            "author": "E. Lockhart",
+            "cover_url": "http://books.google.com/books/content?id=V0wFBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "These violent delights",
+            "author": "Chloe Gong",
+            "cover_url": "http://books.google.com/books/content?id=8DkEEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Twisted games",
+            "author": "Ana Huang",
+            "cover_url": ""
+        },
+        {
+            "title": "Een zee van leugens",
+            "author": "E. Lockhart",
+            "cover_url": "http://books.google.com/books/content?id=dc9kEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Verity",
+            "author": "Colleen Hoover",
+            "cover_url": ""
+        },
+        {
+            "title": "Glint",
+            "author": "Raven Kennedy",
+            "cover_url": ""
+        },
+        {
+            "title": "Kaikeyi",
+            "author": "Vaishnavi Patel",
+            "cover_url": ""
+        },
+        {
+            "title": "Almond",
+            "author": "Won-Pyung Sohn",
+            "cover_url": ""
+        },
+        {
+            "title": "The Unhoneymooners",
+            "author": "Christina Lauren",
+            "cover_url": ""
+        },
+        {
+            "title": "Misfit",
+            "author": "Elle Kennedy",
+            "cover_url": "http://books.google.com/books/content?id=gzd-EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "House of Sky and Breath",
+            "author": "Maas Sarah J. Maas",
+            "cover_url": "http://books.google.com/books/content?id=-jMMzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        {
+            "title": "The Golden Enclaves",
+            "author": "Naomi Novik",
+            "cover_url": "http://books.google.com/books/content?id=7qBSEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Well Met",
+            "author": "Jen DeLuca",
+            "cover_url": ""
+        },
+        {
+            "title": "Gallant",
+            "author": "V.E. Schwab",
+            "cover_url": ""
+        },
+        {
+            "title": "Circe",
+            "author": "Madeline Miller",
+            "cover_url": ""
+        },
+        {
+            "title": "A Deadly Education (Scholomance #1)",
+            "author": "Naomi Novik",
+            "cover_url": "http://books.google.com/books/content?id=pGiTEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        {
+            "title": "The Cheat Sheet",
+            "author": "Sarah Adams",
+            "cover_url": ""
+        },
+        {
+            "title": "Wild and Wicked Things",
+            "author": "Francesca May",
+            "cover_url": "http://books.google.com/books/content?id=9AUsEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "The Night and Its Moon",
+            "author": "Piper CJ",
+            "cover_url": ""
+        },
+        {
+            "title": "Get A Life, Chloe Brown",
+            "author": "Talia Hibbert",
+            "cover_url": ""
+        },
+        {
+            "title": "Second First Impressions",
+            "author": "Sally Thorne",
+            "cover_url": "http://books.google.com/books/content?id=lKr8DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Act Your Age, Eve Brown",
+            "author": "Talia Hibbert",
+            "cover_url": "http://books.google.com/books/content?id=FVTWDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Something Wilder",
+            "author": "Christina Lauren",
+            "cover_url": ""
+        },
+        {
+            "title": "It Starts with Us",
+            "author": "Colleen Hoover",
+            "cover_url": "http://books.google.com/books/content?id=CMeVEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "People We Meet on Vacation",
+            "author": "Emily Henry",
+            "cover_url": "https://dummyimage.com/128x198/fff/000000.jpg&text=Afbeelding+niet+gevonden"
+        },
+        {
+            "title": "Stalking Jack the Ripper",
+            "author": "Kerri Maniscalco",
+            "cover_url": ""
+        },
+        {
+            "title": "Boyfriend material",
+            "author": "Alexis Hall",
+            "cover_url": "http://books.google.com/books/content?id=mFPADwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "We Hunt The Flame",
+            "author": "Hafsah Faizal",
+            "cover_url": "http://books.google.com/books/content?id=mr1nDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Inheritance games. Vol. 1",
+            "author": "Jennifer Lynn Barnes",
+            "cover_url": ""
+        },
+        {
+            "title": "A Broken Blade",
+            "author": "Melissa Blair",
+            "cover_url": "http://books.google.com/books/content?id=5qnpzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        {
+            "title": "Eerlijk duurt het langst",
+            "author": "Karen M. McManus",
+            "cover_url": ""
+        },
+        {
+            "title": "Liefde op het tweede gezicht",
+            "author": "Sally Thorne",
+            "cover_url": "https://dummyimage.com/128x198/fff/000000.jpg&text=Afbeelding+niet+gevonden"
+        },
+        {
+            "title": "Hunting Prince Dracula",
+            "author": "Kerri Maniscalco",
+            "cover_url": "http://books.google.com/books/content?id=7VyNDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Well Traveled",
+            "author": "Jen DeLuca",
+            "cover_url": "http://books.google.com/books/content?id=zzhTEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "The Worst Best Man",
+            "author": "Mia Sosa",
+            "cover_url": "http://books.google.com/books/content?id=x_CXDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Punk 57",
+            "author": "Penelope Douglas",
+            "cover_url": ""
+        },
+        {
+            "title": "A Game of Retribution",
+            "author": "Scarlett St. Clair",
+            "cover_url": ""
+        },
+        {
+            "title": "Weather Girl",
+            "author": "Rachel Lynn Solomon",
+            "cover_url": "http://books.google.com/books/content?id=2CcqEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Foul Lady Fortune",
+            "author": "Chloe Gong",
+            "cover_url": ""
+        },
+        {
+            "title": "Well Played",
+            "author": "Jen DeLuca",
+            "cover_url": ""
+        },
+        {
+            "title": "The Ex Hex",
+            "author": "Eric Sterling",
+            "cover_url": ""
+        },
+        {
+            "title": "Kingdom of the Cursed",
+            "author": "Kerri Maniscalco",
+            "cover_url": ""
+        },
+        {
+            "title": "Neverworld wake",
+            "author": "Marisha Pessl",
+            "cover_url": ""
+        },
+        {
+            "title": "Last Night At The Telegraph Club",
+            "author": "Malinda Lo",
+            "cover_url": ""
+        },
+        {
+            "title": "Half Soul",
+            "author": "Olivia Atwater",
+            "cover_url": "http://books.google.com/books/content?id=suZjEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Six Crimson Cranes",
+            "author": "Elizabeth Lim",
+            "cover_url": ""
+        },
+        {
+            "title": "The Marriage Game",
+            "author": "Sara Desai",
+            "cover_url": ""
+        },
+        {
+            "title": "De roos uit het beton",
+            "author": "Angie Thomas",
+            "cover_url": ""
+        },
+        {
+            "title": "The dating plan",
+            "author": "Sara Desai",
+            "cover_url": ""
+        },
+        {
+            "title": "Unravel The Dusk",
+            "author": "Elizabeth Lim",
+            "cover_url": ""
+        },
+        {
+            "title": "De gevangene van Vallenia",
+            "author": "Lynette Noni",
+            "cover_url": "http://books.google.com/books/content?id=NJROEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "The Witches' Blade",
+            "author": "A.K. Mulford",
+            "cover_url": ""
+        },
+        {
+            "title": "Wij leugenaars",
+            "author": "E. Lockhart",
+            "cover_url": ""
+        },
+        {
+            "title": "Hani and Ishu's Guide to Fake Dating",
+            "author": "Adiba Jaigirdar",
+            "cover_url": ""
+        },
+        {
+            "title": "Angelika Frankenstein Makes Her Match",
+            "author": "Sally Thorne",
+            "cover_url": ""
+        },
+        {
+            "title": "Ember of Night",
+            "author": "Molly E Lee",
+            "cover_url": "http://books.google.com/books/content?id=RY3_DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "From Bad To Cursed",
+            "author": "Lana Harper",
+            "cover_url": ""
+        },
+        {
+            "title": "Dief van de nacht",
+            "author": "Holly Black",
+            "cover_url": ""
+        },
+        {
+            "title": "To kill a kingdom",
+            "author": "Alexandra Christo",
+            "cover_url": ""
+        },
+        {
+            "title": "Payback's a Witch",
+            "author": "Lana Harper",
+            "cover_url": "http://books.google.com/books/content?id=o_ceEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Two Metres from You",
+            "author": "Heidi Stephens",
+            "cover_url": ""
+        },
+        {
+            "title": "The Ex Talk",
+            "author": "Rachel Lynn Solomon",
+            "cover_url": "http://books.google.com/books/content?id=y2lnEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "The Stalking Jack the Ripper Series Hardcover Gift Set",
+            "author": "Kerri Maniscalco",
+            "cover_url": ""
+        },
+        {
+            "title": "Our Violent Ends",
+            "author": "Chloe Gong",
+            "cover_url": "http://books.google.com/books/content?id=dy1JEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "The Charm Offensive",
+            "author": "Alison Cochrun",
+            "cover_url": "http://books.google.com/books/content?id=K7YYEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "The road trip",
+            "author": "Beth O'Leary",
+            "cover_url": "http://books.google.com/books/content?id=TsMrzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        {
+            "title": "Misfit",
+            "author": "Elle Kennedy",
+            "cover_url": ""
+        },
+        {
+            "title": "Concrete Rose",
+            "author": "Angie Thomas",
+            "cover_url": "http://books.google.com/books/content?id=NA9fzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        {
+            "title": "Take a Hint, Dani Brown",
+            "author": "Talia Hibbert",
+            "cover_url": ""
+        },
+        {
+            "title": "Zoek het uit, Chloe Brown",
+            "author": "Talia Hibbert",
+            "cover_url": ""
+        },
+        {
+            "title": "Bully",
+            "author": "Penelope Douglas",
+            "cover_url": "http://books.google.com/books/content?id=AwHgAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Book of Night",
+            "author": "Holly Black",
+            "cover_url": ""
+        },
+        {
+            "title": "Wicked Beauty",
+            "author": "Katee Robert",
+            "cover_url": ""
+        },
+        {
+            "title": "Husband Material",
+            "author": "Alexis Hall",
+            "cover_url": ""
+        },
+        {
+            "title": "Window Shopping",
+            "author": "Tessa Bailey",
+            "cover_url": ""
+        },
+        {
+            "title": "Zoen me tot ik zwicht",
+            "author": "Helen Hoang",
+            "cover_url": ""
+        },
+        {
+            "title": "Flock",
+            "author": "Kate Stewart",
+            "cover_url": ""
+        },
+        {
+            "title": "De laatste halte",
+            "author": "Casey McQuiston",
+            "cover_url": "http://books.google.com/books/content?id=yYgkEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "The hating game",
+            "author": "Sally Thorne",
+            "cover_url": "http://books.google.com/books/content?id=5a3rCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Spin the Dawn",
+            "author": "Elizabeth Lim",
+            "cover_url": ""
+        },
+        {
+            "title": "De hemel in het ijs",
+            "author": "Adrienne Young",
+            "cover_url": "http://books.google.com/books/content?id=oqFaDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Glow",
+            "author": "Raven Kennedy",
+            "cover_url": ""
+        },
+        {
+            "title": "Among Thieves",
+            "author": "M.J. Kuhn",
+            "cover_url": "http://books.google.com/books/content?id=KcJrEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "All of Us Villains",
+            "author": "Amanda Foody",
+            "cover_url": "http://books.google.com/books/content?id=ug0NEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Twee kunnen een geheim bewaren als er \u00e9\u00e9n dood is",
+            "author": "C.L. Herman",
+            "cover_url": "https://dummyimage.com/128x198/fff/000000.jpg&text=Afbeelding+niet+gevonden"
+        },
+        {
+            "title": "The no-show",
+            "author": "Karen M. McManus",
+            "cover_url": "https://dummyimage.com/128x198/fff/000000.jpg&text=Afbeelding+niet+gevonden"
+        },
+        {
+            "title": "Well Matched",
+            "author": "Beth O'Leary",
+            "cover_url": ""
+        },
+        {
+            "title": "Ten Thousand Stitches",
+            "author": "Jen DeLuca",
+            "cover_url": "https://dummyimage.com/128x198/fff/000000.jpg&text=Afbeelding+niet+gevonden"
+        },
+        {
+            "title": "De roadtrip",
+            "author": "Olivia Atwater",
+            "cover_url": "https://dummyimage.com/128x198/fff/000000.jpg&text=Afbeelding+niet+gevonden"
+        },
+        {
+            "title": "Fahrenheit 451",
+            "author": "Beth O'Leary",
+            "cover_url": ""
+        },
+        {
+            "title": "Six Crimson Cranes",
+            "author": "Ray Bradbury",
+            "cover_url": ""
+        }
+    ]
+}

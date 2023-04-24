@@ -1,0 +1,1101 @@
+{
+    "books": [
+        {
+            "title": "Oma boef",
+            "author": "David Walliams",
+            "genre": "Humor",
+            "summary": "Ben verveelt zich stierlijk tijdens de wekelijkse logeerpartijtjes bij zijn oma. Voor zover hij weet, is ze vooral dol op Scrabble en koolsoep. Oma blijkt echter een internationale juwelendief die de kroonjuwelen wil stelen. En daarvoor heeft ze de hulp van haar kleinzoon nodig.",
+            "language": "Nederlands",
+            "publication_date": "2021",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789044820645&VLACCnr=10340256&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "It ends with us",
+            "author": "Colleen Hoover",
+            "genre": "Romantische literatuur",
+            "summary": "Een jonge vrouw staat voor een moeilijke keuze als de liefde van haar leven haar mishandelt.",
+            "language": "Nederlands",
+            "publication_date": "2022",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789020550412&VLACCnr=10395508&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "A good girl's guide to murder",
+            "author": "Holly Jackson",
+            "genre": "Thrillers",
+            "summary": "Vijf jaar geleden verdween Andie Bell, drie dagen later bekent haar vriendje Sal dat hij haar vermoord heeft en pleegt zelfmoord. Andie's lichaam wordt echter nooit gevonden. Pip, een klasgenootje van Andie, heeft altijd geloofd dat Sal onschuldig is. Kan ze dat bewijzen zonder zelf gevaar te lopen? Vanaf ca. 15 jaar.",
+            "language": "Engels",
+            "publication_date": "2021",
+            "cover_image": "https://dummyimage.com/440x680/fff/000000.jpg&text=Image+not+found"
+        },
+        {
+            "title": "Girl in pieces",
+            "author": "Kathleen Glasgow",
+            "genre": "Romans",
+            "summary": "Charlie (17) snijdt zichzelf en verblijft in een inrichting. Ze wordt gered door een vriend, maar eindigt snel alleen en moet weer overleven als een meisje met littekens. Als ze verliefd wordt, verliest ze zichzelf. Vanaf ca. 15 jaar.",
+            "language": "Engels",
+            "publication_date": "2017",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9781780749457&VLACCnr=10124905&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "It starts with us",
+            "author": "Colleen Hoover",
+            "genre": "Romantische literatuur",
+            "language": "Nederlands",
+            "publication_date": "2022",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789020550818&VLACCnr=10403471&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Moordgids voor lieve meisjes",
+            "author": "Holly Jackson",
+            "genre": "Thrillers",
+            "summary": "Vijf jaar geleden verdween in een Engels dorp de 17-jarige Andie Bell. Vlak daarna bekent haar vriendje Sal dat hij haar heeft vermoord en pleegt zelfmoord. Andie's lichaam wordt echter nooit gevonden. Pip (17) heeft altijd geloofd dat Sal onschuldig is. Ze besluit haar profielwerkstuk over de zaak schrijven, maar lukt dat zonder zelf gevaar te lopen? Vanaf ca. 15 jaar.",
+            "language": "Nederlands",
+            "publication_date": "2021",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789021422435&VLACCnr=10358345&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Good girl, bad blood",
+            "author": "Holly Jackson",
+            "genre": "Thrillers",
+            "language": "Engels",
+            "publication_date": "2020",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9781405297752&VLACCnr=10328110&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Vrees me",
+            "author": "Tahereh Mafi",
+            "genre": "Romans",
+            "summary": "Julliete (17, ik-figuur) verblijft in een zwaar bewaakte psychiatrische inrichting. Het Herstel wil haar speciale 'gave' gebruiken om de totale macht over de wereld te veroveren. Maar dan krijgt ze een nieuwe celgenoot, die haar de moed geeft om terug te vechten. Vanaf ca. 15 jaar.",
+            "language": "Nederlands",
+            "publication_date": "2015",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789020679861&VLACCnr=9422623&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "De zeven echtgenoten van Evelyn Hugo",
+            "author": "Taylor Jenkins Reid",
+            "genre": "Romans",
+            "summary": "De Amerikaanse filmdiva Evelyn Hugo heeft na jaren mediastilte besloten haar levensverhaal toe te vertrouwen aan de onbekende journalist Monique Grant.",
+            "language": "Nederlands",
+            "publication_date": "2022",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789026356605&VLACCnr=10377258&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Ugly love : a novel",
+            "author": "Colleen Hoover",
+            "genre": "Romantische literatuur",
+            "summary": "Tate Collins wordt smoorverliefd op Miles Archer; Miles draagt echter een diep en donker geheim met zich mee en wil alleen een seksuele relatie.",
+            "language": "Engels",
+            "publication_date": "2014",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9781471136726&VLACCnr=10412284&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Codenaam Verity / Elizabeth Wein",
+            "author": "Elizabeth E. Wein",
+            "genre": "Oorlogsliteratuur",
+            "summary": "Twee jonge vrouwen werken in de Tweede Wereldoorlog als pilote en officier bij een speciale eenheid. Als ze op missie naar Frankrijk moeten, wordt de een gearresteerd en lijkt de ander verongelukt.",
+            "language": "Nederlands",
+            "publication_date": "2013",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789000329540&VLACCnr=8830446&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "As good as dead",
+            "author": "Holly Jackson",
+            "genre": "Thrillers",
+            "summary": "Pip (18, ik-persoon) ontdekt dat nu iemand het op haar heeft gemunt. Ze wordt online bedreigd en gestalkt. Pip probeert te achterhalen wie dat is en dat wordt een race tegen de klok. Tegelijkertijd zoekt ze gerechtigheid, wat mag wel en wat niet? Vanaf ca. 15 jaar.",
+            "language": "Engels",
+            "publication_date": "2021",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9781405298605&VLACCnr=10377297&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Prints in Paris 1900 : van elitair tot populair",
+            "author": "Fleur Roos Rosa de Carvalho",
+            "genre": null,
+            "summary": "Presentatie van de collectie Franse prentkunst van het Van Goghmuseum, met aandacht voor de opdrachtgevers, de verzamelaars en de kunstenaars",
+            "language": "Nederlands",
+            "publication_date": "2017",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789462301672&VLACCnr=10031832&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "De razernij van een koning",
+            "author": "Fiona McIntosh",
+            "genre": "Fantasy",
+            "summary": "De usurpator Loethar heeft zich opgewerkt tot de populaire keizer van Valisar, maar zijn troon wordt hem betwist door twee neven en een nicht en er ontstaat een hevige strijd tussen de vier familieleden.",
+            "language": "Nederlands",
+            "publication_date": "2011",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789024532292&VLACCnr=7916588&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "The love hypothesis",
+            "author": "Ali Hazelwood",
+            "genre": "Romantische literatuur",
+            "language": "Engels",
+            "publication_date": "2021",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9781408725764&VLACCnr=10381280&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Reminders of him",
+            "author": "Colleen Hoover",
+            "genre": "Romantische literatuur",
+            "summary": "Een vrouw hoopt na een tragische fout en een gevangenisstraf op hereniging met haar jonge dochter. Haar familie houdt haar op afstand en er ontwikkelt zich een risicovolle relatie met een man uit haar verleden.",
+            "language": "Nederlands",
+            "publication_date": "2022",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789020548648&VLACCnr=10374093&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "De prinses en de geheimzinnige bibberziekte",
+            "author": "Dirma Van Toorn",
+            "genre": null,
+            "language": "Nederlands",
+            "publication_date": "2017",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789090306858&VLACCnr=10115826&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "The cruel prince",
+            "author": "Holly Black",
+            "genre": "Fantasy",
+            "summary": "Drie mensenkinderen moeten zich staande zien te houden in Faerie, een feee\u0308nwereld. Aangezien ze geen magie hebben, worden ze niet voor vol aangezien. Jude laat dit niet zomaar gebeuren en neemt het heft in eigen handen. Zo wordt ze een belangrijke spil in de op handen zijnde troonsverwisseling. Vanaf ca. 13 jaar.",
+            "language": "Engels",
+            "publication_date": "2022",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9780316310277&VLACCnr=10427121&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Daisy Jones & The Six",
+            "author": "Taylor Jenkins Reid",
+            "genre": "Romans",
+            "summary": "Het wel en wee van een Amerikaanse popgroep vanaf de start, hun grote successen in de jaren zeventig en hun einde na het vertrek van de zangeres.",
+            "language": "Nederlands",
+            "publication_date": "2019",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789026349249&VLACCnr=10225930&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "One of us is lying",
+            "author": "Karen M. McManus",
+            "genre": "Thrillers",
+            "summary": "Vijf leerlingen van Bayview High moeten voor straf nablijven. Een van hen, Simon, zal het klaslokaal echter nooit verlaten... Voor het uur om is, is hij dood. Alle vier medeleerlingen hebben een motief. Wie heeft het gedaan? Vanaf ca. 15 jaar.",
+            "language": "Engels",
+            "publication_date": "2017",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9780141375632&VLACCnr=10098368&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "9 november",
+            "author": "Colleen Hoover",
+            "genre": "Romantische literatuur",
+            "summary": "Twee jonge mensen spreken af elkaar vijf jaar lang op 9 november te ontmoeten, maar als zij na de vijfde ontmoeting het manuscript dat hij hierover bijhoudt onder ogen krijgt, komt ze tot een schokkende ontdekking.",
+            "language": "Nederlands",
+            "publication_date": "2017",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789401908061&VLACCnr=10076101&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Een lied voor Achilles",
+            "author": "Madeline Miller",
+            "genre": "Mythen, sagen en legenden",
+            "summary": "De Griekse mythologische held Achilles vat een bijzondere vriendschap op voor een jongeling die door zijn vader op ca. 12-jarige leeftijd is opgenomen na door zijn eigen vader te zijn verbannen.",
+            "language": "Nederlands",
+            "publication_date": "2021",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789493081222&VLACCnr=10390351&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "All your perfects",
+            "author": "Colleen Hoover",
+            "genre": "Romantische literatuur",
+            "summary": "Zielsverwanten Quinn en Graham kampen na zeven jaar huwelijk met hun onvervulde kinderwens, leven langs elkaar heen en stevenen af op een scheiding.",
+            "language": "Engels",
+            "publication_date": "2022",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9781398519732&VLACCnr=10412174&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "They both die at the end",
+            "author": "Adam Silvera",
+            "genre": "Romans",
+            "summary": "Het bedrijf Death-cast meldt een autistische jongen en een biseksuele jongen, dat ze nog maximaal 24 uur te leven hebben, waarna ze elkaar ontmoeten, en die laatste dag proberen te leven zoals ze nog nooit geleefd hebben.",
+            "language": "Engels",
+            "publication_date": "2017",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9781471166204&VLACCnr=10116294&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "The first to die at the end",
+            "author": "Adam Silvera",
+            "genre": "Romans",
+            "language": "Engels",
+            "publication_date": "2022",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9781398519978&VLACCnr=10425930&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "A court of thorns and roses",
+            "author": "Sarah J. Maas",
+            "genre": "Fantasy",
+            "summary": "Feyre (19) wordt gevangengenomen door een vijandig magisch ras. Ze probeert te ontsnappen, maar raakt steeds meer verstrikt in het leven bij de vijand. Vanaf ca. 15 jaar.",
+            "language": "Engels",
+            "publication_date": "2015",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9781619634442&VLACCnr=10084144&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "The Spanish love deception",
+            "author": "Elena Armas",
+            "genre": "Chicklit",
+            "language": "Engels",
+            "publication_date": "2022",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9781668002520&VLACCnr=10418135&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Book lovers",
+            "author": "Emily Henry",
+            "genre": "Chicklit",
+            "language": "Engels",
+            "publication_date": "2022",
+            "cover_image": "https://dummyimage.com/440x680/fff/000000.jpg&text=Image+not+found"
+        },
+        {
+            "title": "De levens van Jan Six : een familiegeschiedenis",
+            "author": "Geert Mak",
+            "genre": null,
+            "summary": "Geschiedenis van de Amsterdamse patrici\u00ebrsfamilie vanaf de zestiende eeuw tot en met de periode vlak na de Tweede Wereldoorlog.",
+            "language": "Nederlands",
+            "publication_date": "2018",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789045036199&VLACCnr=10121170&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Zo lief als de dood",
+            "author": "Holly Jackson",
+            "genre": "Thrillers",
+            "summary": "Pip (18, ik-persoon) ontdekt dat iemand het op haar heeft gemunt. Ze wordt online bedreigd en gestalkt. Pip probeert te achterhalen wie dat is en dat wordt een race tegen de klok. Tegelijkertijd zoekt ze gerechtigheid, wat mag wel en wat niet? Vanaf ca. 15 jaar.",
+            "language": "Nederlands",
+            "publication_date": "2022",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789021461151&VLACCnr=10379892&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Doodleuk",
+            "author": "Babette Cole",
+            "genre": "Prentenboeken",
+            "language": "Nederlands",
+            "publication_date": "1996",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789065657466&VLACCnr=1674423&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "These violent delights",
+            "author": "Chloe Gong",
+            "genre": "Fantasy",
+            "language": "Engels",
+            "publication_date": "2021",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9781529344530&VLACCnr=10387021&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "You've reached Sam",
+            "author": "Dustin Thao",
+            "genre": "Romans",
+            "language": "Engels",
+            "publication_date": "2022",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9781035006205&VLACCnr=10400653&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "The midnight library",
+            "author": "Matt Haig",
+            "genre": "Romans",
+            "summary": "Na een zelfmoordpoging komt een jonge vrouw terecht in een andere dimensie: een soort bibliotheek waarin de boeken haar de kans geven parallelle levens uit te proberen, gebaseerd op andere keuzes dan die ze in haar oorsponkelijke leven heeft gemaakt.",
+            "language": "Engels",
+            "publication_date": "2021",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9781786892737&VLACCnr=10339629&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Verity",
+            "author": "Colleen Hoover",
+            "genre": "Thrillers",
+            "summary": "De jonge ghostwriter Lowen mag een boekenserie van de in coma liggende schrijfster Verity afmaken en wanneer ze de onvoltooide autobiografie van Verity ontdekt, wordt ze steeds banger hoe meer ze hierin leest.",
+            "language": "Nederlands",
+            "publication_date": "2022",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789020550795&VLACCnr=10403469&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "One of us is next",
+            "author": "Karen M. McManus",
+            "genre": "Thrillers",
+            "summary": "De leerlingen van Bayview Highschool worden gedwongen mee te doen aan het spel 'Truth or Dare'. Daarbij dreigen veel gevaren, zoals vervelende roddels en zelfs de dood. Vanaf ca. 15 jaar.",
+            "language": "Engels",
+            "publication_date": "2020",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9780241376928&VLACCnr=10283269&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Een van ons liegt",
+            "author": "Karen M. McManus",
+            "genre": "Thrillers",
+            "summary": "Vijf leerlingen van Bayview High moeten voor straf nablijven. Een van hen, Simon, zal het klaslokaal echter nooit verlaten... Voor het uur om is, is hij dood. Alle vier medeleerlingen hebben een motief. Wie heeft het gedaan? Vanaf ca. 15 jaar.",
+            "language": "Nederlands",
+            "publication_date": "2021",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789000365272&VLACCnr=10342026&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Red, white & royal blue : a novel",
+            "author": "Casey McQuiston",
+            "genre": "Romantische literatuur",
+            "summary": "Als de zoon van de Amerikaanse president en de Engelse prins Henry een liefdesrelatie krijgen, zijn de poppen aan het dansen, want Henry moet voor erfgenamen zorgen en de Amerikaanse president wil herkozen worden.",
+            "language": "Engels",
+            "publication_date": "2019",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9781250316776&VLACCnr=10272152&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "This woven kingdom",
+            "author": "Tahereh Mafi",
+            "genre": "Fantasy",
+            "language": "Engels",
+            "publication_date": "2022",
+            "cover_image": "https://dummyimage.com/440x680/fff/000000.jpg&text=Image+not+found"
+        },
+        {
+            "title": "Babel",
+            "author": "Jan De Leeuw",
+            "genre": null,
+            "summary": "Alice woont in de toren van Babel. Door een aanslag kan ze zich niet bewegen. Op een dag verschijnt Naomi, waardoor haar wereld groter wordt, maar ook gevaarlijker. Want wie is deze Naomi? Vanaf ca. 15 jaar.",
+            "language": "Nederlands",
+            "publication_date": "2015",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789462910539&VLACCnr=9542959&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "De verbannen koningin",
+            "author": "Holly Black",
+            "genre": "Fantasy",
+            "summary": "Jude is verbannen uit Elfhame als haar tweelingzus haar om hulp vraagt. Wanneer ze instemt haar te helpen, ontdekt ze een complot om de koning en dus ook haar van de troon te stoten. Zal het haar lukken om dit te voorkomen? Vanaf ca. 15 jaar.",
+            "language": "Nederlands",
+            "publication_date": "2021",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789022592847&VLACCnr=10343818&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Kingdom of the wicked",
+            "author": "Kerri Maniscalco",
+            "genre": "Fantasy",
+            "language": "Engels",
+            "publication_date": "2020",
+            "cover_image": "https://dummyimage.com/440x680/fff/000000.jpg&text=Image+not+found"
+        },
+        {
+            "title": "De laatste zet : meer raadsels, meer geheimen, \u00e9\u00e9n winnaar",
+            "author": "Jennifer Lynn Barnes",
+            "genre": "Detectives",
+            "language": "Nederlands",
+            "publication_date": "2022",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789463493666&VLACCnr=10392453&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Tussen de regels",
+            "author": "Donna Leon",
+            "genre": "Detectives",
+            "summary": "Politieman Guido Brunetti doet onderzoek naar de diefstal van waardevolle boeken, ontvreemd uit een Venetiaanse bibliotheek.",
+            "language": "Nederlands",
+            "publication_date": "2015",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789023490968&VLACCnr=9309533&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "The house in the Cerulean Sea",
+            "author": "TJ Klune",
+            "genre": "Fantasy",
+            "summary": "Een 40-jarige homoseksuele maatschappelijk werker moet in een weeshuis een groep magische kinderen begeleiden.",
+            "language": "Engels",
+            "publication_date": "2020",
+            "cover_image": "https://dummyimage.com/440x680/fff/000000.jpg&text=Image+not+found"
+        },
+        {
+            "title": "Loveless",
+            "author": "Alice Oseman",
+            "genre": "Romans",
+            "summary": "Georgia (18) is een Engels meisje dat na haar examen gaat studeren aan Durham University. Ze is nog nooit gekust en heeft nog nooit een echte relatie gehad. Het gedrag van haar vriendinnen zet haar aan het denken over haar eigen seksuele identiteit. Vanaf ca. 16 jaar.",
+            "language": "Engels",
+            "publication_date": "2021",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9781338751932&VLACCnr=10400525&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Malibu rising",
+            "author": "Taylor Jenkins Reid",
+            "genre": "Romans",
+            "summary": "Op de dag van het jaarlijkse feest van Nina Riva hebben zij en haar broers en zusje ieder hun eigen redenen om hier wel of niet naar uit te kijken maar naarmate het feest vordert, worden zij geconfronteerd met onverwachte gasten en geheimen.",
+            "language": "Engels",
+            "publication_date": "2021",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9781786331533&VLACCnr=10352881&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Maar van binnen schreeuw ik",
+            "author": "Elizabeth Flock",
+            "genre": null,
+            "summary": "Een jonge Amerikaanse televisieverslaggeefster raakt overspannen en belandt in een psychiatrische inrichting.",
+            "language": "Nederlands",
+            "publication_date": "2004",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789085500063&VLACCnr=2801964&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Het onzichtbare leven van Addie LaRue",
+            "author": "V.E. Schwab",
+            "genre": "Fantasy",
+            "summary": "Frankrijk, 1714: Addie LaRue is een wanhopige jonge vrouw die een deal met de duivel sluit, waardoor zij het eeuwige leven krijgt, met als gevolg dat niemand zich haar herinnert, totdat ze 300 jaar later Henry ontmoet.",
+            "language": "Nederlands",
+            "publication_date": "2021",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789022591932&VLACCnr=10296671&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Niets meer te zeggen",
+            "author": "Karen M. McManus",
+            "genre": "Thrillers",
+            "language": "Nederlands",
+            "publication_date": "2022",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789000382866&VLACCnr=10394280&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Middernachtbibliotheek",
+            "author": "Matt Haig",
+            "genre": "Romans",
+            "summary": "Na een zelfmoordpoging komt een jonge vrouw terecht in een andere dimensie: een soort bibliotheek waarin de boeken haar de kans geven parallelle levens uit te proberen, gebaseerd op andere keuzes dan die ze in haar oorsponkelijke leven heeft gemaakt.",
+            "language": "Nederlands",
+            "publication_date": "2021",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789048860067&VLACCnr=10322567&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Hallo, met Sam",
+            "author": "Dustin Thao",
+            "genre": "Romans",
+            "language": "Nederlands",
+            "publication_date": "2022",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789021467979&VLACCnr=10394323&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Het negende huis",
+            "author": "Leigh Bardugo",
+            "genre": "Fantasy",
+            "summary": "Alex Stern, die geesten kan zien, wordt ingeschakeld om de geheime genootschappen van de universiteit van Yale in de gaten te houden.",
+            "language": "Nederlands",
+            "publication_date": "2020",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789022590652&VLACCnr=10305982&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "De liefdeshypothese : roman",
+            "author": "Ali Hazelwood",
+            "genre": "Romantische literatuur",
+            "language": "Nederlands",
+            "publication_date": "2022",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789044364859&VLACCnr=10383580&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Punk 57",
+            "author": "Penelope Douglas",
+            "genre": null,
+            "publication_date": "2021",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789492507310&VLACCnr=&CDR=&EAN=&ISMN=&EBS=3283119&coversize=large"
+        },
+        {
+            "title": "De gevallen koning",
+            "author": "Holly Black",
+            "genre": "Fantasy",
+            "summary": "Jude heeft de nieuwe koning Cardan aan haar gebonden. Een jaar lang kan zij hem haar wil opleggen en heerst zij dus over Elfhame. Maar iemand aan het hof probeert haar te verraden. Hierdoor loopt niet alleen zij gevaar, maar ook haar naasten.  Vanaf ca. 16 jaar.",
+            "language": "Nederlands",
+            "publication_date": "2022",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789022594100&VLACCnr=10400466&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Six of crows",
+            "author": "Leigh Bardugo",
+            "genre": "Fantasy",
+            "summary": "Bendeleider Kaz uit Ketterdam krijgt een levensgevaarlijke opdracht waarmee hij goed geld kan verdienen. Maar zullen hij en zijn metgezellen deze uitdaging overleven? Vanaf ca. 15 jaar.",
+            "language": "Engels",
+            "publication_date": "2016",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9781780622286&VLACCnr=10081728&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "De laatste hoop",
+            "author": "Erin Hunter",
+            "genre": "Dierenverhalen",
+            "summary": "Terwijl Lindepoel de nachtelijke trainingen van de krijgers van het Duistere woud bespioneert, gaan Duifvleugel, Gaaiveder en Leeuwvlam op zoek naar de vierde kat uit de profetie. Want die vierde kat is de enige hoop op overleving voor de Clans. Dan barst de strijd los. Vanaf ca. 10 jaar.",
+            "language": "Nederlands",
+            "publication_date": "2019",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789059246409&VLACCnr=10220323&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Shadow and bone",
+            "author": "Leigh Bardugo",
+            "genre": "Fantasy",
+            "summary": "Wanneer Alina de gave van het licht blijkt te hebben, wordt ze opgeleid tot Grisha. Hun leider, de Duisterling, lijkt begaan met het volk van Ravka, maar heeft stiekem andere plannen. Vanaf ca. 15 jaar.",
+            "language": "Nederlands",
+            "publication_date": "2021",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789463493024&VLACCnr=10346143&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Kingdom of the cursed",
+            "author": "Kerri Maniscalco",
+            "genre": "Fantasy",
+            "summary": "Emilia wil nog steeds de moord op haar tweelingzus wreken. Met Wrath reist ze naar de binnenste cirkels van de hel op zoek naar magische objecten die haar meer vertellen over haar verleden. Vanaf ca. 15 jaar.",
+            "language": "Engels",
+            "publication_date": "2021",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9781529350500&VLACCnr=10383760&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Misschien nu",
+            "author": "Colleen Hoover",
+            "genre": "Romantische literatuur",
+            "summary": "De relatie tussen Ridge en Sydney komt onder druk te staan als de ex van Ridge door ziekte op hem is aangewezen.",
+            "language": "Nederlands",
+            "publication_date": "2020",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789020536362&VLACCnr=10308743&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "The inheritance games",
+            "author": "Jennifer Lynn Barnes",
+            "genre": "Detectives",
+            "summary": "De superslimme maar arme Avery (17, ik-persoon) woont bij haar halfzus, maar slaapt vaak in haar auto. Dan erft ze een fortuin van een haar onbekende man. Er is e\u0301e\u0301n voorwaarde: ze moet een jaar in zijn huis wonen, samen met zijn vier onterfde kleinzoons. Wat zit hierachter? En is haar leven wel veilig? Vanaf ca. 15 jaar.",
+            "language": "Engels",
+            "publication_date": "2020",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9780241476178&VLACCnr=10319513&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "One last stop",
+            "author": "Casey McQuiston",
+            "genre": "Romantische literatuur",
+            "language": "Engels",
+            "publication_date": "2021",
+            "cover_image": "https://dummyimage.com/440x680/fff/000000.jpg&text=Image+not+found"
+        },
+        {
+            "title": "Liefdeloos : hoelang nog voor haar verhaal begint?",
+            "author": "Alice Oseman",
+            "genre": "Romans",
+            "language": "Nederlands",
+            "publication_date": "2022",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789000381647&VLACCnr=10394288&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Twee kunnen een geheim bewaren als er \u00e9\u00e9n dood is",
+            "author": "Karen M. McManus",
+            "genre": "Thrillers",
+            "summary": "Ellery (17) moet met haar tweelingbroer Ezra naar de geboorteplaats van hun moeder verhuizen. Hun tante Sarah is daar op 17-jarige leeftijd verdwenen en een meisje is vermoord. Iedereen in het dorp lijkt geheimen te hebben. En dan slaat de moordenaar opnieuw toe. Vanaf ca. 15 jaar.",
+            "language": "Nederlands",
+            "publication_date": "2019",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789000364381&VLACCnr=10184399&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Family of liars",
+            "author": "E. Lockhart",
+            "genre": "Romans",
+            "language": "Engels",
+            "publication_date": "2022",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9781471412356&VLACCnr=10404084&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "De laatste zet",
+            "author": "Sandra Brown",
+            "genre": "Thrillers",
+            "summary": "Billy Panella heeft door valse investeringen van anderen 30 miljoen dollar verduisterd met de hulp van Josh Bennett, die hem achtervolgt om zijn deel te krijgen.",
+            "language": "Nederlands",
+            "publication_date": "2018",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789022582244&VLACCnr=10091436&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "The Hawthorne legacy",
+            "author": "Jennifer Lynn Barnes",
+            "genre": "Detectives",
+            "language": "Engels",
+            "publication_date": "2021",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9780241480724&VLACCnr=10386967&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "You'll be the death of me",
+            "author": "Karen M. McManus",
+            "genre": "Thrillers",
+            "language": "Engels",
+            "publication_date": "2021",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9780241473665&VLACCnr=10381017&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Familie liegt nooit",
+            "author": "Karen M. McManus",
+            "genre": "Thrillers",
+            "summary": "Tieners Milly, Aubrey en Jonah zijn familie, maar kennen elkaar amper. Ze zijn dan ook erg verrast als ze door hun rijke oma worden uitgenodigd. Als ze op het eiland aankomen, blijkt al gauw dat oma iets met ze van plan is. En ze ontdekken dat hun familiegeschiedenis behoorlijk duister is. Vanaf ca. 15 jaar.",
+            "language": "Nederlands",
+            "publication_date": "2022",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789000382880&VLACCnr=10394281&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Anders dan je dacht",
+            "author": "Elle Kennedy",
+            "genre": "Chicklit",
+            "language": "Nederlands",
+            "publication_date": "2022",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789021463995&VLACCnr=10394342&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Crooked kingdom",
+            "author": "Leigh Bardugo",
+            "genre": "Fantasy",
+            "summary": "Inej is ontvoerd door de corrupte koopman Jan Van Eck. Kaz en zijn metgezellen proberen haar in Ketterdam te bevrijden. Vanaf ca. 15 jaar.",
+            "language": "Engels",
+            "publication_date": "2017",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9781780622316&VLACCnr=10242519&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Hof van vleugels en verwoesting",
+            "author": "Sarah J. Maas",
+            "genre": "Fantasy",
+            "summary": "Feyre is als spion teruggekeerd naar het Lentehof om deze ten val te brengen. De oorlog met Hybern begint bijna en ze zoekt informatie over hun plannen. Vanaf ca. 15 jaar.",
+            "language": "Nederlands",
+            "publication_date": "2021",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789000375165&VLACCnr=10336681&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Eat, pray, love : one woman's search for everything across Italy, India and Indonesia",
+            "author": "Elizabeth Gilbert",
+            "genre": "Autobiografische literatuur",
+            "summary": "Na een problematische scheiding maakt een jonge vrouw een spirituele reis naar Italie\u034f\u0308, India en Indonesie\u034f\u0308 in een poging zichzelf te hervinden.",
+            "language": "Engels",
+            "publication_date": "2006",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9780747582885&VLACCnr=3002448&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Het gefluister achter de deur",
+            "author": "TJ Klune",
+            "genre": "Fantasy",
+            "language": "Nederlands",
+            "publication_date": "2022",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789021467924&VLACCnr=10407060&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Erfenis",
+            "author": "Nora Roberts",
+            "genre": "Romantische literatuur",
+            "summary": "Een alleenstaande moeder en dochter raken beiden betrokken bij doodsbedreigingen van een stalker die de tijd neemt om zijn slachtoffers uit de weg te ruimen.",
+            "language": "Nederlands",
+            "publication_date": "2021",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789022592373&VLACCnr=10347474&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Long way home",
+            "author": "Eva Dolan",
+            "genre": "Detectives",
+            "summary": "Twee Engelse rechercheurs onderzoeken de ware toedracht van een brand in een schuurtje, waarbij een Oost-Europeaan is omgekomen.",
+            "language": "Engels",
+            "publication_date": "2014",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9780099584391&VLACCnr=9814997&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Val voor jou",
+            "author": "Tijan",
+            "genre": "Romantische literatuur",
+            "summary": "Het leven van Sam (17, ik-persoon) staat op zijn kop als haar moeder plotseling intrekt bij haar nieuwe vriend in zijn enorme villa. Sam moet mee en krijgt opeens twee stiefbroers. Bad boys Mason en Logan zijn ongeveer van haar leeftijd en gewend altijd hun zin te krijgen. Vanaf ca. 16 jaar.",
+            "language": "Nederlands",
+            "publication_date": "2021",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789026155598&VLACCnr=10318091&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "I kissed Shara Wheeler",
+            "author": "Casey McQuiston",
+            "genre": "Romantische literatuur",
+            "language": "Engels",
+            "publication_date": "2022",
+            "cover_image": "https://dummyimage.com/440x680/fff/000000.jpg&text=Image+not+found"
+        },
+        {
+            "title": "15 dagen zonder hoofd",
+            "author": "Dave Cousins",
+            "genre": null,
+            "summary": "Als zijn aan alcolhol verslaafde moeder verdwijnt, moet Lawrence (14, ik-figuur) voor zijn 6-jarige broertje Jay zorgen. En proberen de radioquiz te winnen, zodat zijn moeder op vakantie kan. Gelukkig helpt zijn vriendin Mina hem. Vanaf ca. 13 jaar.",
+            "language": "Nederlands",
+            "publication_date": "2014",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789048819584&VLACCnr=8960112&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "We were liars",
+            "author": "E. Lockhart",
+            "genre": "Romans",
+            "summary": "Als Cadence 15 jaar is krijgt ze op het prive\u0301-eiland van haar familie een ongeluk. Het enige wat ze zich herinnert, is haar verliefdheid en flarden van gebeurtenissen. Maar niemand wil haar vertellen wat er echt is gebeurd. Vanaf ca. 15 jaar.",
+            "language": "Engels",
+            "publication_date": "2018",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9780385741279&VLACCnr=10362387&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Gallant",
+            "author": "V.E. Schwab",
+            "genre": "Fantasy",
+            "summary": "Een veertienjarig weesmeisje leest in het dagboek van haar verdwenen moeder het advies om weg te blijven van Gallant. Maar dan ontvangt ze een uitnodiging van haar oom om naar Gallant te komen. Vanaf 15 jaar.",
+            "language": "Nederlands",
+            "publication_date": "2022",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789022595213&VLACCnr=10379742&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Legendborn",
+            "author": "Tracy Deonn",
+            "genre": "Fantasy",
+            "language": "Engels",
+            "publication_date": "2020",
+            "cover_image": "https://dummyimage.com/440x680/fff/000000.jpg&text=Image+not+found"
+        },
+        {
+            "title": "List & leugens",
+            "author": "Leigh Bardugo",
+            "genre": "Fantasy",
+            "summary": "Bendeleider Kaz uit Ketterdam krijgt een levensgevaarlijke opdracht waarmee hij goed geld kan verdienen. Maar zullen hij en zijn metgezellen deze uitdaging overleven? Vanaf ca. 15 jaar.",
+            "language": "Nederlands",
+            "publication_date": "2021",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789463492478&VLACCnr=10337575&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Decoratief vergulden : stap voor stap in beeld",
+            "author": "Annie Sloan",
+            "genre": null,
+            "language": "Nederlands",
+            "publication_date": "1997",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789021324920&VLACCnr=1796152&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Toen winter zomer werd",
+            "author": "Emily Henry",
+            "genre": "Chicklit",
+            "summary": "Twee schrijvers met een writer's block, een jonge man en een jonge vrouw die elkaars tegenpolen zijn, gaan een weddenschap aan om een boek in het genre van de ander te schrijven.",
+            "language": "Nederlands",
+            "publication_date": "2022",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789044364934&VLACCnr=10387760&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "De verloren erfgenaam",
+            "author": "Jennifer Lynn Barnes",
+            "genre": "Detectives",
+            "summary": "Avery's leven staat op zijn kop sinds haar opa Tobias Hawthorne haar zijn fortuin naliet. Waarom is haar nog steeds niet duidelijk. Avery (17, ik-persoon) is vastbesloten om antwoorden te vinden, en doet allerlei schokkende ontdekkingen. Vanaf ca. 15 jaar.",
+            "language": "Nederlands",
+            "publication_date": "2021",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789463492775&VLACCnr=10340769&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Het weeshuis in de azuurblauwe zee",
+            "author": "TJ Klune",
+            "genre": "Fantasy",
+            "summary": "Een maatschappelijk werker bij het Ministerie van Toezicht Magische Jongeren onderzoekt of zes magisch begaafde, maar risicovolle jongeren in een weeshuis op een eiland een te groot gevaar voor de samenleving vormen. Vanaf ca. 15 jaar.",
+            "language": "Nederlands",
+            "publication_date": "2022",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789021462684&VLACCnr=10379887&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Kraai & koninkrijk",
+            "author": "Leigh Bardugo",
+            "genre": "Fantasy",
+            "summary": "Inej is ontvoerd door de corrupte koopman Jan Van Eck. Kaz en zijn metgezellen proberen haar in Ketterdam te bevrijden. Vanaf ca. 15 jaar.",
+            "language": "Nederlands",
+            "publication_date": "2021",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789463492485&VLACCnr=10337577&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Wij leugenaars",
+            "author": "E. Lockhart",
+            "genre": "Romans",
+            "summary": "Als Cadence 15 jaar is krijgt ze op het prive\u0301-eiland van haar familie een ongeluk. Het enige wat ze zich herinnert, is haar verliefdheid en flarden van gebeurtenissen. Maar niemand wil haar vertellen wat er echt is gebeurd. Vanaf ca. 15 jaar.",
+            "language": "Nederlands",
+            "publication_date": "2022",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789026164422&VLACCnr=10402394&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Een zee van leugens",
+            "author": "E. Lockhart",
+            "genre": "Romans",
+            "language": "Nederlands",
+            "publication_date": "2022",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789026162428&VLACCnr=10392478&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Het wonderlijke verhaal van Angelino Brown",
+            "author": "David Almond",
+            "genre": "Avonturenverhalen",
+            "summary": "Op een dag vliegt er zomaar een engeltje in het borstzakje van buschauffeur Bert. Het engeltje Angelino brengt veel vreugde in het leven van Bert en zijn vrouw. Maar dan wordt Angelino bedreigd door criminelen. Vanaf ca. 9 jaar.",
+            "language": "Nederlands",
+            "publication_date": "2018",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789045120911&VLACCnr=10093276&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Blundert door",
+            "author": "Holly Smale",
+            "genre": "Chicklit",
+            "summary": "Harriet (15, ik-figuur) gaat voor een speciale modellenklus naar Japan. De avonturen stapelen zich op. Is dat weer onhandigheid van Harriet of is er toch iets anders aan de hand? Vanaf ca. 12 jaar.",
+            "language": "Nederlands",
+            "publication_date": "2019",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789025771041&VLACCnr=10182898&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Alles komt goed : heel je lichaam met medicijnen, affirmaties en intu\u00efties",
+            "author": "Louise L. Hay",
+            "genre": null,
+            "summary": "Zelfhulpboek over holistische heling.",
+            "language": "Nederlands",
+            "publication_date": "2020",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789000322961&VLACCnr=10316044&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Circe",
+            "author": "Madeline Miller",
+            "genre": "Mythen, sagen en legenden",
+            "summary": "Heks Circe uit Homerus\u2019 Odyssee vertelt over haar relatie met Odysseus en wat er gebeurde nadat hun zoon een grote fout maakte.",
+            "language": "Nederlands",
+            "publication_date": "2018",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789492086822&VLACCnr=10159210&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Een dodelijke opleiding",
+            "author": "Naomi Novik",
+            "genre": "Fantasy",
+            "summary": "Galadriel (El, 17) bezit magische krachten en woont op een school voor magie. Het duurt even voordat de gesloten en zelfstandige El bondgenoten heeft maar uiteindelijk ontpopt zij zich tot een sterke en open heldin. Vanaf ca. 15 jaar.",
+            "language": "Nederlands",
+            "publication_date": "2021",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789024592371&VLACCnr=10348068&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Liefde op het tweede gezicht",
+            "author": "Sally Thorne",
+            "genre": "Chicklit",
+            "language": "Nederlands",
+            "publication_date": "2022",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789402710663&VLACCnr=10392156&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Ingepikt!",
+            "author": "Emily Giffin",
+            "genre": "Chicklit",
+            "summary": "Op haar dertigste verjaardag belandt een advocate in New York die nog nooit iets wilds heeft gedaan in haar leven, in bed met de verloofde van haar beste vriendin.",
+            "language": "Nederlands",
+            "publication_date": "2006",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789044315660&VLACCnr=2983979&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "People we meet on vacation",
+            "author": "Emily Henry",
+            "genre": "Chicklit",
+            "summary": "Twee vrienden, twee vakanties, een laatste kans om verliefd te worden.",
+            "language": "Engels",
+            "publication_date": "2021",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9781984806758&VLACCnr=10359297&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Boyfriend material",
+            "author": "Alexis Hall",
+            "genre": "Romantische literatuur",
+            "summary": "Zowel Luc als Oliver, beide dertigers, hebben ieder hun eigen redenen om hun neprelatie voor de buitenwereld in stand te houden.",
+            "language": "Nederlands",
+            "publication_date": "2021",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789020541458&VLACCnr=10318279&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "We hunt the flame",
+            "author": "Hafsah Faizal",
+            "genre": "Fantasy",
+            "language": "Engels",
+            "publication_date": "2019",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9781529034097&VLACCnr=10239968&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Eerlijk duurt het langst",
+            "author": "Karen M. McManus",
+            "genre": "Thrillers",
+            "summary": "De leerlingen van Bayview Highschool worden gedwongen mee te doen aan het spel Truth or Dare. Daarbij dreigen veel gevaren, zoals vervelende roddels en zelfs de dood. Vanaf ca. 15 jaar.",
+            "language": "Nederlands",
+            "publication_date": "2021",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789000380503&VLACCnr=10376064&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Neverworld wake",
+            "author": "Marisha Pessl",
+            "genre": "Thrillers",
+            "summary": "Na de dood van haar vriend heeft Beatrice haar vrienden al een jaar niet gezien. Als ze elkaar weer ontmoeten komen ze vast te zitten in de tijd. Om te ontsnappen moeten ze een gruwelijke beslissing nemen. Vanaf ca. 15 jaar.",
+            "language": "Nederlands",
+            "publication_date": "2018",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789021405278&VLACCnr=10144871&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Half licht",
+            "author": "Sally Green",
+            "genre": "Fantasy",
+            "summary": "Nathan wordt verteerd door wraak op de moordenaar van zijn vader. Maar de Alliantie vraagt Nathan om hulp bij het uitschakelen de meedogenloze Soul, zodat een verbond tussen de zwarte en witte heksen mogelijk wordt. Vanaf ca. 15 jaar.",
+            "language": "Nederlands",
+            "publication_date": "2016",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789048820481&VLACCnr=9770355&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "De roos uit het beton",
+            "author": "Angie Thomas",
+            "genre": "Romans",
+            "summary": "Maverick Carter, ofwel Mav (17, ik-persoon), wordt vader en stopt met drugs dealen voor de gang. Mav werkt hard, heeft moeite met school en is doodop door het zorgen voor zijn kind. De moord op een King Lord zorgt voor onrust, verdriet en wraakzucht. Vanaf ca. 15 jaar.",
+            "language": "Nederlands",
+            "publication_date": "2021",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789048858880&VLACCnr=10313183&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Bij de Penderwicks in de straat",
+            "author": "Jeanne Birdsall",
+            "genre": "Avonturenverhalen",
+            "summary": "De zusjes Rosalind, Skye, Jane en Batty schrikken zich rot: hun vader gaat daten. Stel je voor dat ze een stiefmoeder krijgen! Samen verzinnen ze de gekste plannen om dat te voorkomen. Vanaf ca. 10 jaar.",
+            "language": "Nederlands",
+            "publication_date": "2008",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789055159284&VLACCnr=6904677&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "De gevangene van Vallenia",
+            "author": "Lynette Noni",
+            "genre": "Fantasy",
+            "summary": "Na tien jaar achter de tralies probeert Kiva Meridan de troon voor haar familie te hernemen. Maar al snel belandt ze in een web van intriges aan het hof van de knappe kroonprins.",
+            "language": "Nederlands",
+            "publication_date": "2022",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789022595138&VLACCnr=10379744&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "De laatste nacht op de Titanic",
+            "author": "Walter Lord",
+            "genre": null,
+            "summary": "Ooggetuigenissen van de schipbreuk, gebaseerd op gesprekken met zestig overlevenden. Onder meer de stokers in de ketelruimte en de rijke passagiers in de eerste klas beschrijven hun ervaringen, van de laatste uren voor het zinken tot de reddingsoperatie.",
+            "language": "Nederlands",
+            "publication_date": "2011",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789021549903&VLACCnr=7899714&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Dief van de nacht",
+            "author": "Holly Black",
+            "genre": "Fantasy",
+            "summary": "De jonge barvrouw Charlie knapt als bijverdienste vuile klusjes op, maar bij een moordonderzoek komt ze achter een verband tussen haar vriendje en de zaak\u2026 . Vanaf ca. 15 jaar.",
+            "language": "Nederlands",
+            "publication_date": "2022",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789022594605&VLACCnr=10379760&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Als je het over de duivel hebt : in gesprek met dictators",
+            "author": "Riccardo Orizio",
+            "genre": null,
+            "summary": "Interviews met (ex-)dictators en/of met hun echtgenotes.",
+            "language": "Nederlands",
+            "publication_date": "2003",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789029073288&VLACCnr=2555627&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Het charmeoffensief",
+            "author": "Alison Cochrun",
+            "genre": "Chicklit",
+            "language": "Nederlands",
+            "publication_date": "2022",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789020549201&VLACCnr=10393975&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "The road trip",
+            "author": "Beth O'Leary",
+            "genre": "Romantische literatuur",
+            "language": "Engels",
+            "publication_date": "2022",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9781529409093&VLACCnr=10389856&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Concrete rose",
+            "author": "Angie Thomas",
+            "genre": "Romans",
+            "summary": "Maverick Carter (Mav, 17, ik-persoon) doet niet veel meer dan hangen op straat, basketballen en weed dealen maar als hij na een onenightstand vader wordt en de zorg voor zijn babyzoontje krijgt, zal hij moeten ontdekken wat voor man hij wil zijn.",
+            "language": "Engels",
+            "publication_date": "2021",
+            "cover_image": "https://dummyimage.com/440x680/fff/000000.jpg&text=Image+not+found"
+        },
+        {
+            "title": "Wild vlees en bully-burgers",
+            "author": "Lois-Ann Yamanaka",
+            "genre": "Satiren",
+            "language": "Nederlands",
+            "publication_date": "1996",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789029051293&VLACCnr=1683609&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "The book of night women",
+            "author": "Marlon James",
+            "genre": "Historische literatuur",
+            "summary": "Een slavenmeisje op Jamaica weigert begin 19e eeuw te buigen voor de wetten van geweld op de suikerplantage en ze sluit zich aan bij een groep vrouwen die een opstand voorbereidt.",
+            "language": "Engels",
+            "publication_date": "2015",
+            "cover_image": "https://dummyimage.com/440x680/fff/000000.jpg&text=Image+not+found"
+        },
+        {
+            "title": "Handboek Paint Shop Pro XI",
+            "author": "Studio Visual Steps",
+            "genre": null,
+            "language": "Nederlands",
+            "publication_date": "2007",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789059050259&VLACCnr=3106863&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Zoen me tot ik zwicht",
+            "author": "Helen Hoang",
+            "genre": "Romantische literatuur",
+            "summary": "Een vrouw van dertig die Asperger heeft, vindt het moeilijk om seks te hebben met mannen en huurt daarom een escort in om het te leren.",
+            "language": "Nederlands",
+            "publication_date": "2018",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789044353853&VLACCnr=10149383&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "De laatste halte",
+            "author": "Casey McQuiston",
+            "genre": "Romantische literatuur",
+            "summary": "Als een jonge vrouw de liefde van haar leven ontmoet, besluit ze alles op het spel te zetten om haar te redden als blijkt dat zij vast zit in de tijd en in de metro.",
+            "language": "Nederlands",
+            "publication_date": "2021",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789020542585&VLACCnr=10336992&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "The hating game",
+            "author": "Sally Thorne",
+            "genre": "Chicklit",
+            "summary": "Twee medewerkers van een net gefuseerde Amerikaanse uitgeverij hebben een haat-liefde verhouding maar ze proberen hun loopbaan toch op de rails te zetten.",
+            "language": "Engels",
+            "publication_date": "2016",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9780062439598&VLACCnr=10398728&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Insectenrijk",
+            "author": "Susie Brooks",
+            "genre": null,
+            "summary": "Weet je welke soorten kevers en libellen er zijn? Kijk bij welke groepen tientallen insecten horen. Vrij grote utgave met getekende afbeeldingen van insecten per familie, leuke weetjes en records van insecten. Vanaf ca. 9 t/m 12 jaar.",
+            "language": "Nederlands",
+            "publication_date": "2016",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789059567481&VLACCnr=10064632&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "De hemel in het ijs",
+            "author": "Adrienne Young",
+            "genre": "Fantasy",
+            "summary": "De 17-jarige Vikingdochter Eelyn strijdt met haar clan de Aska al jaren tegen de Riki-clan. Dan ziet ze tijdens een gevecht haar dood gewaande broer Iri, die samen met de Riki strijdt. Eelyn volgt hem en komt bij de Riki als gevangene terecht. Vanaf ca. 15 jaar.",
+            "language": "Nederlands",
+            "publication_date": "2018",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789000360222&VLACCnr=10140022&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Glow",
+            "author": "Ned Beauman",
+            "genre": "Romans",
+            "summary": "In de zoektocht naar het meisje van zijn leven belandt een jongeman midden in een internationaal complot om een nieuwe drug in Londen op de markt te brengen en vecht voor zijn identiteit in een wereld van bedrog.",
+            "language": "Nederlands",
+            "publication_date": "2014",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789046818190&VLACCnr=9167597&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Honour among thieves",
+            "author": "Jeffrey Archer",
+            "genre": "Thrillers",
+            "language": "Engels",
+            "publication_date": "1993",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9780002242882&VLACCnr=1315453&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "All of us Villains",
+            "author": "Amanda Foody",
+            "genre": "Fantasy",
+            "language": "Engels",
+            "publication_date": "2021",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9781250789259&VLACCnr=10390079&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Roadtrip",
+            "author": "Graeme Simsion",
+            "genre": "Romans",
+            "summary": "Een Britse ingenieur die tobt over zijn vechtscheiding en de relatie met zijn puberdochter en een Amerikaanse kunstenares die rouwt om haar overleden man ontmoeten elkaar tijdens een lange pelgrimstocht naar Santiago de Compostella.",
+            "language": "Nederlands",
+            "publication_date": "2021",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789024595181&VLACCnr=10337957&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        },
+        {
+            "title": "Fahrenheit 451",
+            "author": "Ray Bradbury",
+            "genre": "Toekomstromans",
+            "summary": "Schrikbeeld van een maatschappij waarin het boek wordt vernietigd en boekbezitters worden vervolgd.",
+            "language": "Nederlands",
+            "publication_date": "2008",
+            "cover_image": "https://webservices.bibliotheek.be/index.php?func=cover&ISBN=9789031506316&VLACCnr=7340360&CDR=&EAN=&ISMN=&EBS=&coversize=large"
+        }
+    ]
+}
