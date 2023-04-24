@@ -100,5 +100,5 @@ for book in data['books']:
 
 books_dict["books"] = books
 
-with open('api_books.json', 'w') as f:
+with open('./website/api_books.json', 'w') as f:
     json.dump(books_dict, f, indent=4)
