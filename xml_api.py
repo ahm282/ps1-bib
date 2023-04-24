@@ -10,7 +10,7 @@ book_titles = []  # keep track of book titles
 fallback_cover = "https://dummyimage.com/440x680/fff/000000.jpg&text=Image+not+found"
 
 # load scraped books from generated JSON file
-with open("standaard_boekhandel.json") as json_file:
+with open("./StandaardBoekhandel/standaard_boekhandel.json") as json_file:
     data = json.load(json_file)
 
 # Get info from Cultuurconnect API
@@ -75,6 +75,13 @@ for book in data['books']:
                         pub_elem = result.find('publication/year')
                         if pub_elem is not None:
                             book['publication_date'] = pub_elem.text
+
+                        # Series
+                        series_elem = result.find('series/series-title')
+                        if series_elem is not None:
+                            book['series'] = series_elem.text
+                        else:
+                            book['series'] = "no"
 
                         # Cover image URL
                         cover_elem = result.find('coverimages/coverimage')
