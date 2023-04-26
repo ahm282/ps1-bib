@@ -21,7 +21,6 @@ for book in data['books']:
         "refine": "true",
         "facet": "Format(Book)",
         "lang": "nl",
-        "detaillevel": "basic",
         "pagesize": "1",
         "s": "cover"
     }
@@ -94,6 +93,13 @@ for book in data['books']:
                             # Add cover to book
                             book['cover_image'] = large_cover_image_url
 
+                        # Extract "frabl" id from XML response
+                        frabl_elem = result.find('frabl')
+                        if frabl_elem is not None:
+                            frabl = frabl_elem.text
+                            book['frabl'] = frabl
+
+                        # Add book to list of books
                         books.append(book)
 
 books_dict["books"] = books
