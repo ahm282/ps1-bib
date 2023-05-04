@@ -7,8 +7,6 @@ books = []
 books_dict = dict()
 book_titles = []  # keep track of book titles
 
-fallback_cover = "https://dummyimage.com/440x680/fff/000000.jpg&text=Image+not+found"
-
 # load scraped books from generated JSON file
 with open("./StandaardBoekhandel/standaard_boekhandel.json") as json_file:
     data = json.load(json_file)
@@ -23,8 +21,8 @@ for book in data['books']:
         "refine": "true",
         "facet": "Format(Book)",
         "lang": "nl",
-        "detaillevel": "basic",
-        "pagesize": "1"
+        "pagesize": "1",
+        "s": "cover"
     }
 
     # Send the request and get the response
@@ -92,10 +90,16 @@ for book in data['books']:
                             # modify URL to use "large" size
                             large_cover_image_url = cover_image_url.replace("coversize=small", "coversize=large")
 
+                            # Add cover to book
                             book['cover_image'] = large_cover_image_url
-                        else:
-                            book['cover_image'] = fallback_cover
 
+                        # Extract "frabl" id from XML response
+                        frabl_elem = result.find('frabl')
+                        if frabl_elem is not None:
+                            frabl = frabl_elem.text
+                            book['frabl'] = frabl
+
+                        # Add book to list of books
                         books.append(book)
 
 books_dict["books"] = books
