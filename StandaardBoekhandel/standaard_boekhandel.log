@@ -636,3 +636,4 @@
 2023-04-23 22:16:52 ERROR 429: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'books.googleapis.com' for consumer 'project_number:456598788557'.
 2023-04-23 22:16:52 INFO GOOGLE_BOOKS: Six Crimson Cranes by Ray Bradbury, Cover URL: 
 2023-04-23 22:16:52 INFO JSON: JSON file created succesfully
+2023-05-04 21:24:04 INFO JSON: JSON file created succesfully

@@ -1,3 +1,4000 @@
 {
-    "books": []
+    "books": [
+        {
+            "title": "Before The Coffee Gets Cold",
+            "author": "Toshikazu Kawaguchi"
+        },
+        {
+            "title": "Twisted Love",
+            "author": "Ana Huang"
+        },
+        {
+            "title": "It Ends With Us",
+            "author": "Colleen Hoover"
+        },
+        {
+            "title": "It Starts With Us",
+            "author": "Colleen Hoover"
+        },
+        {
+            "title": "Seven Husbands Of Evelyn Hugo",
+            "author": "Taylor Jenkins Reid"
+        },
+        {
+            "title": "The Fine Print",
+            "author": "Lauren Asher"
+        },
+        {
+            "title": "Things We Never Got Over",
+            "author": "Lucy Score"
+        },
+        {
+            "title": "Normal People",
+            "author": "Sally Rooney"
+        },
+        {
+            "title": "The Midnight Library",
+            "author": "Matt Haig"
+        },
+        {
+            "title": "Twisted Games",
+            "author": "Ana Huang"
+        },
+        {
+            "title": "Final Offer",
+            "author": "Lauren Asher"
+        },
+        {
+            "title": "Things We Hide From The Light",
+            "author": "Lucy Score"
+        },
+        {
+            "title": "The Priory Of The Orange Tree",
+            "author": "Samantha Shannon"
+        },
+        {
+            "title": "Twisted Hate",
+            "author": "Ana Huang"
+        },
+        {
+            "title": "The Song Of Achilles",
+            "author": "Madeline Miller"
+        },
+        {
+            "title": "Twisted Lies",
+            "author": "Ana Huang"
+        },
+        {
+            "title": "The Cruel Prince (the Folk Of The Air)",
+            "author": "Holly Black"
+        },
+        {
+            "title": "Love on the Brain",
+            "author": "Ali Hazelwood"
+        },
+        {
+            "title": "Het TikTok Kamp",
+            "author": "Annet Jacobs"
+        },
+        {
+            "title": "Good Girl, Bad Blood",
+            "author": "Holly Jackson"
+        },
+        {
+            "title": "If We Were Villains",
+            "author": "M. L. Rio"
+        },
+        {
+            "title": "Where The Crawdads Sing",
+            "author": "Delia Owens"
+        },
+        {
+            "title": "Terms And Conditions",
+            "author": "Lauren Asher"
+        },
+        {
+            "title": "Hypes - Waarom wordt iets populair?",
+            "author": "Kira Vermont"
+        },
+        {
+            "title": "The Love Hypothesis",
+            "author": "Ali Hazelwood"
+        },
+        {
+            "title": "A Court Of Thorns And Roses",
+            "author": "Sarah J. Maas"
+        },
+        {
+            "title": "Shatter Me",
+            "author": "Tahereh Mafi"
+        },
+        {
+            "title": "As Good As Dead",
+            "author": "Holly Jackson"
+        },
+        {
+            "title": "Ugly Love",
+            "author": "Colleen Hoover"
+        },
+        {
+            "title": "You Can Cook This!",
+            "author": "Max la Manna"
+        },
+        {
+            "title": "CEMI Doeboek 2",
+            "author": "C\u00e9line Dept & Michiel Callebaut"
+        },
+        {
+            "title": "Verity",
+            "author": "Colleen Hoover"
+        },
+        {
+            "title": "A Thousand Boy Kisses",
+            "author": "Tillie Cole"
+        },
+        {
+            "title": "A Good Girl's Guide To Murder",
+            "author": "Holly Jackson"
+        },
+        {
+            "title": "The Way I Used To Be",
+            "author": "Amber Smith"
+        },
+        {
+            "title": "Burn after writing",
+            "author": "Sharon Jones"
+        },
+        {
+            "title": "The Spanish Love Deception",
+            "author": "Elena Armas"
+        },
+        {
+            "title": "Things I Wanted To Say",
+            "author": "Monica Murphy"
+        },
+        {
+            "title": "Burn after writing",
+            "author": "Sharon Jones"
+        },
+        {
+            "title": "The Silent Patient",
+            "author": "Alex Michaelides"
+        },
+        {
+            "title": "Burn after writing",
+            "author": "Sharon Jones"
+        },
+        {
+            "title": "The Poppy War",
+            "author": "R.f. Kuang"
+        },
+        {
+            "title": "De liefdeshypothese",
+            "author": "Ali Hazelwood"
+        },
+        {
+            "title": "Gruwelijk lekker",
+            "author": "Soraya Riem"
+        },
+        {
+            "title": "Je kookt het op TikTok",
+            "author": "TikTok"
+        },
+        {
+            "title": "Burn after writing",
+            "author": "Sharon Jones"
+        },
+        {
+            "title": "A Million Kisses In Your Lifetime",
+            "author": "Monica Murphy"
+        },
+        {
+            "title": "De TikTok Hack",
+            "author": "Annet Jacobs"
+        },
+        {
+            "title": "Tiktologie",
+            "author": "Kirsten Jassies"
+        },
+        {
+            "title": "They Both Die At The End",
+            "author": "Adam Silvera"
+        },
+        {
+            "title": "De liefdeshypothese",
+            "author": "Ali Hazelwood"
+        },
+        {
+            "title": "Daten is k*t",
+            "author": "Laura de Hoog"
+        },
+        {
+            "title": "Circe",
+            "author": "Madeline Miller"
+        },
+        {
+            "title": "TikTok Holiday",
+            "author": "Dani\u00eblle Hartemink & Jip Mendes"
+        },
+        {
+            "title": "Word een echte TikTok ster",
+            "author": "Will Eagle"
+        },
+        {
+            "title": "Bo's Life Advice",
+            "author": "Bo Beljaars"
+        },
+        {
+            "title": "De coolste challenges voor TikTok",
+            "author": "John Green"
+        },
+        {
+            "title": "TikTok Vacay",
+            "author": "Emily Henry"
+        },
+        {
+            "title": "Paper Towns",
+            "author": "Elena Armas"
+        },
+        {
+            "title": "TikTok DIY",
+            "author": "Monica Murphy"
+        },
+        {
+            "title": "Book Lovers",
+            "author": "Hanya Yanagihara"
+        },
+        {
+            "title": "The American Roommate Experiment",
+            "author": "Holly Black"
+        },
+        {
+            "title": "Promises We Meant To Keep",
+            "author": "Stephanie Garber"
+        },
+        {
+            "title": "A Little Life",
+            "author": "Samantha , Shannon"
+        },
+        {
+            "title": "The Wicked King (the Folk Of The Air #2)",
+            "author": "Toshikazu Kawaguchi"
+        },
+        {
+            "title": "Once Upon A Broken Heart",
+            "author": "Jennifer Lynn Barnes"
+        },
+        {
+            "title": "A Day of Fallen Night",
+            "author": "Sarah J. Maas"
+        },
+        {
+            "title": "Tales From The Cafe",
+            "author": "Runyx"
+        },
+        {
+            "title": "The Inheritance Games",
+            "author": "Tahereh Mafi"
+        },
+        {
+            "title": "A Court Of Mist And Fury",
+            "author": "Mona Awad"
+        },
+        {
+            "title": "Gothikana: A Dark Academia Gothic Romance: Tiktok Made Me Buy It!",
+            "author": "Jesper Hesseling"
+        },
+        {
+            "title": "Unravel Me",
+            "author": "Jonas Lips"
+        },
+        {
+            "title": "Bunny",
+            "author": "Sharon Jones"
+        },
+        {
+            "title": "Meester Jesper's TikTok Battle",
+            "author": "Bella Mackie"
+        },
+        {
+            "title": "Tiktok Academy",
+            "author": "Thijs Launspach"
+        },
+        {
+            "title": "Burn after writing - Tie dye",
+            "author": "Colleen , Hoover & Tarryn , Fisher"
+        },
+        {
+            "title": "Hoe vermoord ik mijn familie?",
+            "author": "Scarlett St. Clair"
+        },
+        {
+            "title": "Asociale media",
+            "author": "Holly Black"
+        },
+        {
+            "title": "Never Never",
+            "author": "Naomi Novik"
+        },
+        {
+            "title": "A Touch Of Darkness",
+            "author": "Bernardine Evaristo"
+        },
+        {
+            "title": "The Queen Of Nothing (the Folk Of The Air #3)",
+            "author": "Ali Hazelwood"
+        },
+        {
+            "title": "A Deadly Education",
+            "author": "Kathleen Glasgow"
+        },
+        {
+            "title": "Girl, Woman, Other",
+            "author": "Colleen Hoover"
+        },
+        {
+            "title": "Love On The Brain",
+            "author": "Kathleen Glasgow"
+        },
+        {
+            "title": "You'd Be Home Now",
+            "author": "Gabrielle , Zevin"
+        },
+        {
+            "title": "November 9",
+            "author": "Sayaka Murata"
+        },
+        {
+            "title": "Girl In Pieces",
+            "author": "Sarah J. Maas"
+        },
+        {
+            "title": "Tomorrow, and Tomorrow, and Tomorrow",
+            "author": "Tracy Deonn"
+        },
+        {
+            "title": "Convenience Store Woman",
+            "author": "Emily Henry"
+        },
+        {
+            "title": "A Court Of Silver Flames",
+            "author": "Taylor Jenkins Reid"
+        },
+        {
+            "title": "Legendborn",
+            "author": "Sue Lynn Tan"
+        },
+        {
+            "title": "Beach Read",
+            "author": "Rachael Lippincott & Alyson Derrick"
+        },
+        {
+            "title": "Malibu Rising",
+            "author": "Taylor , Jenkins Reid"
+        },
+        {
+            "title": "Daughter Of The Moon Goddess",
+            "author": "Alice Oseman"
+        },
+        {
+            "title": "She Gets The Girl",
+            "author": "Osamu Dazai"
+        },
+        {
+            "title": "Daisy Jones & The Six",
+            "author": "Marissa Meyer"
+        },
+        {
+            "title": "Solitaire",
+            "author": "Alice Oseman"
+        },
+        {
+            "title": "No Longer Human",
+            "author": "Karen M. Mcmanus"
+        },
+        {
+            "title": "Gilded",
+            "author": "Tessa Bailey"
+        },
+        {
+            "title": "Loveless",
+            "author": "Colleen Hoover"
+        },
+        {
+            "title": "One Of Us Is Lying",
+            "author": "Alice Oseman"
+        },
+        {
+            "title": "Hook, Line, And Sinker",
+            "author": "Leigh Bardugo"
+        },
+        {
+            "title": "All Your Perfects",
+            "author": "Leigh Bardugo"
+        },
+        {
+            "title": "Heartstopper Volume 4",
+            "author": "Christina Lauren"
+        },
+        {
+            "title": "King Of Scars",
+            "author": "Tahereh Mafi"
+        },
+        {
+            "title": "The Shadow And Bone: Siege And Storm",
+            "author": "Christina Henry"
+        },
+        {
+            "title": "Love And Other Words",
+            "author": "Jennifer Lynn Barnes"
+        },
+        {
+            "title": "Ignite Me",
+            "author": "Tessa Bailey"
+        },
+        {
+            "title": "Lost Boy",
+            "author": "Kalynn Bayron"
+        },
+        {
+            "title": "The Hawthorne Legacy",
+            "author": "Kathleen Glasgow"
+        },
+        {
+            "title": "It Happened One Summer",
+            "author": "E. Lockhart"
+        },
+        {
+            "title": "Cinderella Is Dead",
+            "author": "India Holton"
+        },
+        {
+            "title": "How To Make Friends With The Dark",
+            "author": "Sarah J. Maas"
+        },
+        {
+            "title": "We Were Liars",
+            "author": "Emily Henry"
+        },
+        {
+            "title": "The League Of Gentlewomen Witches",
+            "author": "Fredrik Backman"
+        },
+        {
+            "title": "House Of Earth And Blood",
+            "author": "Leigh Bardugo"
+        },
+        {
+            "title": "You And Me On Vacation",
+            "author": "Ciara Smyth"
+        },
+        {
+            "title": "Anxious People",
+            "author": "Lynn Painter"
+        },
+        {
+            "title": "The Shadow And Bone: Ruin And Rising",
+            "author": "R.f. Kuang"
+        },
+        {
+            "title": "The Falling In Love Montage",
+            "author": "Chloe Gong"
+        },
+        {
+            "title": "Mr Wrong Number",
+            "author": "Benjamin Alire Saenz"
+        },
+        {
+            "title": "The Dragon Republic",
+            "author": "Won-pyung Sohn"
+        },
+        {
+            "title": "These Violent Delights",
+            "author": "Mariana Zapata"
+        },
+        {
+            "title": "Aristotle And Dante Discover The Secrets Of The Universe",
+            "author": "Danielle Lori"
+        },
+        {
+            "title": "Almond",
+            "author": "Ana , Huang"
+        },
+        {
+            "title": "From Lukov With Love",
+            "author": "Alice Oseman"
+        },
+        {
+            "title": "The Sweetest Oblivion",
+            "author": "R.f. Kuang"
+        },
+        {
+            "title": "King of Wrath",
+            "author": "Vaishnavi Patel"
+        },
+        {
+            "title": "This Winter",
+            "author": "Casey Mcquiston"
+        },
+        {
+            "title": "The Burning God",
+            "author": "Tracy Deonn"
+        },
+        {
+            "title": "Kaikeyi",
+            "author": "Kacen Callender"
+        },
+        {
+            "title": "One Last Stop",
+            "author": "Angeline Boulley"
+        },
+        {
+            "title": "Bloodmarked",
+            "author": "Rebecca Yarros"
+        },
+        {
+            "title": "Felix Ever After",
+            "author": "Sarah Adams"
+        },
+        {
+            "title": "Firekeeper's Daughter",
+            "author": "Raven Kennedy"
+        },
+        {
+            "title": "The Things We Leave Unfinished",
+            "author": "Tahereh Mafi"
+        },
+        {
+            "title": "The Cheat Sheet",
+            "author": "Namina Forna"
+        },
+        {
+            "title": "Gild",
+            "author": "Sally Thorne"
+        },
+        {
+            "title": "Unite Me",
+            "author": "Christina Lauren"
+        },
+        {
+            "title": "The Gilded Ones",
+            "author": "Alice Oseman"
+        },
+        {
+            "title": "The Hating Game",
+            "author": "Elizabeth Lim"
+        },
+        {
+            "title": "The Unhoneymooners",
+            "author": "Alice Oseman"
+        },
+        {
+            "title": "I Was Born For This",
+            "author": "Tahereh Mafi"
+        },
+        {
+            "title": "Spin The Dawn",
+            "author": "Marie O'regan, Paul Kane, Angela Slatter, James Lovegrove & Alison Littlewood"
+        },
+        {
+            "title": "Radio Silence",
+            "author": "E. Lockhart"
+        },
+        {
+            "title": "Imagine Me",
+            "author": "Benjamin Alire Saenz"
+        },
+        {
+            "title": "Wonderland: An Anthology",
+            "author": "Rachel Lynn Solomon"
+        },
+        {
+            "title": "Family Of Liars",
+            "author": "Kalynn Bayron"
+        },
+        {
+            "title": "Aristotle And Dante Dive Into The Waters Of The World",
+            "author": "Marissa Meyer"
+        },
+        {
+            "title": "The Ex Talk",
+            "author": "Elle Kennedy"
+        },
+        {
+            "title": "This Poison Heart",
+            "author": "Raven Kennedy"
+        },
+        {
+            "title": "Heartless",
+            "author": "Tahereh Mafi"
+        },
+        {
+            "title": "The Deal",
+            "author": "Maas Sarah J. Maas"
+        },
+        {
+            "title": "Glow",
+            "author": "Alexandra Christo"
+        },
+        {
+            "title": "Believe Me",
+            "author": "Karen M. Mcmanus"
+        },
+        {
+            "title": "House Of Sky And Breath",
+            "author": "Tasha Suri"
+        },
+        {
+            "title": "Princess Of Souls",
+            "author": "Naomi Novik"
+        },
+        {
+            "title": "You'll Be The Death Of Me",
+            "author": "Sophie Gonzales & Cale Dietrich"
+        },
+        {
+            "title": "The Jasmine Throne",
+            "author": "Alexandra Christo"
+        },
+        {
+            "title": "The Golden Enclaves",
+            "author": "Jennifer Niven"
+        },
+        {
+            "title": "If This Gets Out",
+            "author": "Kalynn Bayron"
+        },
+        {
+            "title": "To Kill A Kingdom",
+            "author": "Alice Oseman"
+        },
+        {
+            "title": "All The Bright Places",
+            "author": "Rachel Lynn Solomon"
+        },
+        {
+            "title": "This Wicked Fate",
+            "author": "Helen Hoang"
+        },
+        {
+            "title": "Heartstopper Volume 1",
+            "author": "Karen M. Mcmanus"
+        },
+        {
+            "title": "Weather Girl",
+            "author": "Torrey Peters"
+        },
+        {
+            "title": "The Kiss Quotient",
+            "author": "Elizabeth Lim"
+        },
+        {
+            "title": "The Cousins",
+            "author": "Karen M. Mcmanus"
+        },
+        {
+            "title": "Detransition, Baby",
+            "author": "Raven Kennedy"
+        },
+        {
+            "title": "Unravel The Dusk",
+            "author": "Kieran Fanning"
+        },
+        {
+            "title": "Two Can Keep A Secret",
+            "author": "Tanya Byrne"
+        },
+        {
+            "title": "Gleam",
+            "author": "Annet Jacobs"
+        },
+        {
+            "title": "Irish Fairy Tales, Myths And Legends",
+            "author": "Raven Kennedy"
+        },
+        {
+            "title": "Afterlove",
+            "author": "Donna , Tartt"
+        },
+        {
+            "title": "De TikTok Challenge",
+            "author": "Alice Oseman"
+        },
+        {
+            "title": "Glint",
+            "author": "Jen Deluca"
+        },
+        {
+            "title": "The Secret History",
+            "author": "Rosie Danan"
+        },
+        {
+            "title": "The Official Heartstopper Colouring Book",
+            "author": "Cynthia So"
+        },
+        {
+            "title": "Well Met",
+            "author": "Talia Hibbert"
+        },
+        {
+            "title": "The Roommate",
+            "author": "Adiba Jaigirdar"
+        },
+        {
+            "title": "If You Still Recognise Me",
+            "author": "Jenny Han"
+        },
+        {
+            "title": "Get A Life, Chloe Brown",
+            "author": "Jen Deluca"
+        },
+        {
+            "title": "Hani And Ishu's Guide To Fake Dating",
+            "author": "Bolu Babalola"
+        },
+        {
+            "title": "We'll Always Have Summer",
+            "author": "Axie Oh"
+        },
+        {
+            "title": "Well Matched",
+            "author": "Loan Le"
+        },
+        {
+            "title": "Honey & Spice",
+            "author": "Jen Deluca"
+        },
+        {
+            "title": "The Girl Who Fell Beneath The Sea",
+            "author": "Nicola Yoon"
+        },
+        {
+            "title": "A Pho Love Story",
+            "author": "Tessa Bailey"
+        },
+        {
+            "title": "Well Traveled",
+            "author": "John Green"
+        },
+        {
+            "title": "Everything, Everything",
+            "author": "Jen Deluca"
+        },
+        {
+            "title": "Window Shopping",
+            "author": "Kathleen Glasgow & Liz Lawson"
+        },
+        {
+            "title": "Paper Towns",
+            "author": "Naomi Novik"
+        },
+        {
+            "title": "Well Played",
+            "author": "Helen Hoang"
+        },
+        {
+            "title": "The Agathas",
+            "author": "Fredrik Backman"
+        },
+        {
+            "title": "The Golden Enclaves",
+            "author": "Jennifer Saint"
+        },
+        {
+            "title": "The Bride Test",
+            "author": "Akshaya Raman"
+        },
+        {
+            "title": "The Winners",
+            "author": "Isaac Fitzsimons"
+        },
+        {
+            "title": "Elektra",
+            "author": "Leigh Bardugo"
+        },
+        {
+            "title": "The Ivory Key",
+            "author": "Kevin Van Whye"
+        },
+        {
+            "title": "The Passing Playbook",
+            "author": "Stephanie Perkins"
+        },
+        {
+            "title": "Rule Of Wolves (king Of Scars Book 2)",
+            "author": "Julie , Caplin"
+        },
+        {
+            "title": "Date Me, Bryson Keller",
+            "author": "Tiktok"
+        },
+        {
+            "title": "Anna And The French Kiss",
+            "author": "Vanessa Len"
+        },
+        {
+            "title": "Die kleine Bucht in Kroatien",
+            "author": "Jennifer Dugan"
+        },
+        {
+            "title": "As Cooked On Tiktok",
+            "author": "Valentina Mussi"
+        },
+        {
+            "title": "Only A Monster",
+            "author": "Olivie , Blake"
+        },
+        {
+            "title": "Melt With You",
+            "author": "Laura , Nowlin"
+        },
+        {
+            "title": "The Unofficial Tiktok Cookbook",
+            "author": "Sarah J. Maas"
+        },
+        {
+            "title": "The Atlas Six",
+            "author": "Jessie , Burton"
+        },
+        {
+            "title": "If He Had Been with Me",
+            "author": "Emily Henry"
+        },
+        {
+            "title": "People We Meet On Vacation",
+            "author": "Sarah , Hawley"
+        },
+        {
+            "title": "A Court Of Thorns And Roses Paperback Box Set (5 Books)",
+            "author": "Samantha , Shannon"
+        },
+        {
+            "title": "Medusa",
+            "author": "Leigh Bardugo"
+        },
+        {
+            "title": "Happy Place",
+            "author": "Markus Zusak"
+        },
+        {
+            "title": "A Witch's Guide to Fake Dating a Demon",
+            "author": "Lynn , Painter"
+        },
+        {
+            "title": "A Day of Fallen Night",
+            "author": "R. F. , Kuang"
+        },
+        {
+            "title": "Six Of Crows",
+            "author": "Ocean , Vuong"
+        },
+        {
+            "title": "The Book Thief",
+            "author": "Sally Rooney"
+        },
+        {
+            "title": "The Love Wager",
+            "author": "Leigh , Bardugo"
+        },
+        {
+            "title": "Babel",
+            "author": "Taylor , Jenkins Reid"
+        },
+        {
+            "title": "On Earth We're Briefly Gorgeous",
+            "author": "NoViolet , Bulawayo"
+        },
+        {
+            "title": "Conversations With Friends",
+            "author": "M. L. Rio"
+        },
+        {
+            "title": "Ninth House",
+            "author": "Elsie Silver"
+        },
+        {
+            "title": "One True Loves",
+            "author": "Sarah J. , Maas"
+        },
+        {
+            "title": "Glory",
+            "author": "Dustin , Thao"
+        },
+        {
+            "title": "If We Were Villains - Illustrated Edition: The Sensational Tiktok Book Club Pick",
+            "author": "Colleen , Hoover"
+        },
+        {
+            "title": "Flawless",
+            "author": "India Holton"
+        },
+        {
+            "title": "House of Earth and Blood",
+            "author": "Emily Henry"
+        },
+        {
+            "title": "You've Reached Sam",
+            "author": "Saara , El-Arifi"
+        },
+        {
+            "title": "It Ends With Us. Collector's Edition",
+            "author": "Elsie Silver"
+        },
+        {
+            "title": "The Wisteria Society Of Lady Scoundrels",
+            "author": "Elle , Kennedy"
+        },
+        {
+            "title": "Happy Place",
+            "author": "Dana , Schwartz"
+        },
+        {
+            "title": "The Final Strife",
+            "author": "Alicia Thompson"
+        },
+        {
+            "title": "Heartless",
+            "author": "Elsie Silver"
+        },
+        {
+            "title": "Rogue",
+            "author": "Alice , Slater"
+        },
+        {
+            "title": "Immortality: A Love Story",
+            "author": "Laura , Thalassa"
+        },
+        {
+            "title": "Love In The Time Of Serial Killers",
+            "author": "Kristina , Forest"
+        },
+        {
+            "title": "Powerless",
+            "author": "Alice Oseman"
+        },
+        {
+            "title": "Death of a Bookseller",
+            "author": "Dana , Schwartz"
+        },
+        {
+            "title": "Bewitched",
+            "author": "Hannah , Jewell"
+        },
+        {
+            "title": "The Neighbor Favor",
+            "author": "Mariana Zapata"
+        },
+        {
+            "title": "Nick And Charlie",
+            "author": "Mariana Zapata"
+        },
+        {
+            "title": "Immortality: A Love Story",
+            "author": "Matt , Haig"
+        },
+        {
+            "title": "We Need Snowflakes",
+            "author": "Seth Andrew , Noto"
+        },
+        {
+            "title": "The Wall Of Winnipeg And Me",
+            "author": "Anonym"
+        },
+        {
+            "title": "All Rhodes Lead Here",
+            "author": "Aurora , Graves"
+        },
+        {
+            "title": "Die Mitternachtsbibliothek",
+            "author": "Grace , Morris"
+        },
+        {
+            "title": "Digital Bible",
+            "author": "Mario , Haro Salazar & Diana , Espinoza Alc\u00edvar"
+        },
+        {
+            "title": "Instagram und TikTok im Vergleich. Einfluss und Reichweite",
+            "author": "Florian , Sommer"
+        },
+        {
+            "title": "Anything for the Devil",
+            "author": "Florian , Sommer"
+        },
+        {
+            "title": "my thoughts displayed",
+            "author": "Mario , Haro Salazar & Diana , Espinoza Alc\u00edvar"
+        },
+        {
+            "title": "TikTok como ferramenta para construir a consci\u00eancia da marca",
+            "author": "Mario , Haro Salazar & Diana , Espinoza Alc\u00edvar"
+        },
+        {
+            "title": "Social Media Marketing f\u00fcr Gr\u00fcnder und Start-ups",
+            "author": "Mario , Haro Salazar & Diana , Espinoza Alc\u00edvar"
+        },
+        {
+            "title": "Social Media Marketing f\u00fcr Gr\u00fcnder und Start-ups",
+            "author": "Mario , Haro Salazar & Diana , Espinoza Alc\u00edvar"
+        },
+        {
+            "title": "TikTok come strumento per costruire la consapevolezza del marchio",
+            "author": "Mario , Haro Salazar & Diana , Espinoza Alsiwar"
+        },
+        {
+            "title": "TikTok como herramienta para crear conciencia de marca",
+            "author": "Kristan Higgins"
+        },
+        {
+            "title": "TikTok als Instrument zur Steigerung der Markenbekanntheit",
+            "author": "Emma , Hegemann"
+        },
+        {
+            "title": "TikTok, un outil pour renforcer la notori\u00e9t\u00e9 de la marque",
+            "author": "Savannah , Warner"
+        },
+        {
+            "title": "TikTok kak instrument powysheniq uznawaemosti brenda",
+            "author": "Vahid , Matejko"
+        },
+        {
+            "title": "Pack Up The Moon",
+            "author": "Vahid , Matejko"
+        },
+        {
+            "title": "Unn\u00fctzes Wissen f\u00fcr Teenies",
+            "author": "Vahid , Matejko"
+        },
+        {
+            "title": "Dream Keeper: As seen on Tiktok",
+            "author": "Vahid , Matejko"
+        },
+        {
+            "title": "Sea Shanty Play-Alongs for Soprano Recorder",
+            "author": "Vahid , Matejko"
+        },
+        {
+            "title": "Sea Shanty Play-Alongs for Soprano, Alto & Tenor Saxophone",
+            "author": "Vahid , Matejko"
+        },
+        {
+            "title": "Sea Shanty Play-Alongs for Flute",
+            "author": "Vahid , Matejko"
+        },
+        {
+            "title": "Sea Shanty Play-Alongs for Accordion, opt. Piano",
+            "author": "Fats Timbo"
+        },
+        {
+            "title": "Sea Shanty Play-Alongs for Violin",
+            "author": "Estefania Elisa"
+        },
+        {
+            "title": "Sea Shanty Play-Alongs for Trumpet, opt. Baritone T.C. in Bb",
+            "author": "Vahid , Matejko"
+        },
+        {
+            "title": "Sea Shanty Play-Alongs for Trombone, opt. Baritone B.C.",
+            "author": "Vahid , Matejko"
+        },
+        {
+            "title": "Main Character Energy",
+            "author": "Vahid , Matejko"
+        },
+        {
+            "title": "Good Night! Sch\u00fclerkalender 2023 / 2024",
+            "author": "Vahid , Matejko"
+        },
+        {
+            "title": "Vahid Matejkos Shanty Play-Alongs f\u00fcr Sopran, Alt und Tenor Saxophon (inkl. Bb- und Eb-Stimmen)",
+            "author": "Vahid , Matejko"
+        },
+        {
+            "title": "Vahid Matejkos Shanty Play-Alongs f\u00fcr Klarinette in Bb",
+            "author": "Tristan , Bouillet, Influence4you & St\u00e9phane , Bouillet"
+        },
+        {
+            "title": "Vahid Matejkos Shanty Play-Alongs f\u00fcr Trompete, opt. Baritonhorn (Violinschl\u00fcssel)",
+            "author": "Anonym"
+        },
+        {
+            "title": "Vahid Matejkos Shanty Play-Alongs f\u00fcr Violine",
+            "author": "Berit , Glanz"
+        },
+        {
+            "title": "Vahid Matejkos Shanty Play-Alongs f\u00fcr Posaune, opt. Baritonhorn (Bassschl\u00fcssel)",
+            "author": "Lucy , Score"
+        },
+        {
+            "title": "Influenceur, comment vivre de sa passion ?",
+            "author": "Anton Marquardt"
+        },
+        {
+            "title": "Jugendsprache und Kiezdeutsch in den sozialen Medien. Verwendung und Unterschiede in TikTok, WhatsApp und Instagram",
+            "author": "Memphis Central High Classmates of 1959"
+        },
+        {
+            "title": "Filter",
+            "author": "Mitch Lane"
+        },
+        {
+            "title": "Things We Never Got Over",
+            "author": "Baek , Sehee"
+        },
+        {
+            "title": "#1 AUF SOCIAL MEDIA",
+            "author": "Ferdi , \u00dcnl\u00fc"
+        },
+        {
+            "title": "From Rock Around the Clock to Tiktok: Eighty Years of Life, Learning and Hope",
+            "author": "Carina , Berry"
+        },
+        {
+            "title": "Feed Your Family For Under A Fiver",
+            "author": "Laura , Sophie"
+        },
+        {
+            "title": "Ich will sterben, aber Tteokbokki essen will ich auch",
+            "author": "Mario , Haro Salazar & Diana , Espinoza Alc\u00edvar"
+        },
+        {
+            "title": "Lass kochen! Mit Keladam's Kitchen",
+            "author": "Rachel , Smythe"
+        },
+        {
+            "title": "Mein Leben, meine Regeln",
+            "author": "Oliver , Uschmann & Sylvia , Witt"
+        },
+        {
+            "title": "Tasty but make it vegan",
+            "author": "Carley , Fortune"
+        },
+        {
+            "title": "TikTok as a Tool for Building Brand Awareness",
+            "author": "Bianca , Iosivoni"
+        },
+        {
+            "title": "Lore Olympus - Teil 3",
+            "author": "Stella , Tack"
+        },
+        {
+            "title": "Alles, was du denkst",
+            "author": "Ashley , Audrain"
+        },
+        {
+            "title": "F\u00fcnf Sommer mit dir",
+            "author": "Susanne , Kaiser"
+        },
+        {
+            "title": "SORRY. Ich habe es nur f\u00fcr dich getan",
+            "author": "Lena , Havek"
+        },
+        {
+            "title": "Black Bird Academy - T\u00f6te die Dunkelheit",
+            "author": "Wissensbert"
+        },
+        {
+            "title": "Der Verdacht",
+            "author": "Holly , Jackson"
+        },
+        {
+            "title": "Backlash - Die neue Gewalt gegen Frauen",
+            "author": "Unlabeled"
+        },
+        {
+            "title": "Paulas Papier-Labyrinth",
+            "author": "SparkofPhoenix"
+        },
+        {
+            "title": "Du dachtest, du kennst die Welt...",
+            "author": "Paula , Wolf"
+        },
+        {
+            "title": "Five Survive",
+            "author": "Sarah , Stankewitz"
+        },
+        {
+            "title": "(Art)iculate Yourself",
+            "author": "Tessa , Bailey"
+        },
+        {
+            "title": "SparkofPhoenix Sch\u00fclerkalender 2023 / 2024",
+            "author": "Paige , Toon"
+        },
+        {
+            "title": "Make up your own story",
+            "author": "Nechama , Birnbaum"
+        },
+        {
+            "title": "Dream and Dare",
+            "author": "Ruby , Dixon"
+        },
+        {
+            "title": "It happened one Summer",
+            "author": "Kate , Stewart"
+        },
+        {
+            "title": "Am Ende gibt es nur uns",
+            "author": "Holly , Black"
+        },
+        {
+            "title": "Das M\u00e4dchen mit dem roten Zopf",
+            "author": "Sarah Adams"
+        },
+        {
+            "title": "Ice Planet Barbarians - Harlow und Rukh",
+            "author": "Malinda , Lo"
+        },
+        {
+            "title": "The Ravenhood - Flock",
+            "author": "Alexandria , Bellefleur"
+        },
+        {
+            "title": "ELFENERBE - Der gestohlene Thron",
+            "author": "Olivie , Blake"
+        },
+        {
+            "title": "Practice Makes Perfect",
+            "author": "Taylor Jenkins , Reid"
+        },
+        {
+            "title": "Last night at the Telegraph Club",
+            "author": "Ana , Huang"
+        },
+        {
+            "title": "The Fianc\u00e9e Farce",
+            "author": "Katee , Robert"
+        },
+        {
+            "title": "The Atlas Paradox",
+            "author": "Morgane , Moncomble"
+        },
+        {
+            "title": "Malibu Rising",
+            "author": "Elle , Kennedy"
+        },
+        {
+            "title": "Twisted Games",
+            "author": "Mimi , Matthews"
+        },
+        {
+            "title": "Neon Gods - Eros & Psyche",
+            "author": "Samantha , Shannon"
+        },
+        {
+            "title": "Count On You",
+            "author": "Kiley , Roache"
+        },
+        {
+            "title": "Ever Since I Needed You",
+            "author": "Laura , Kneidl"
+        },
+        {
+            "title": "Belles of London - Die Wahrheit deiner Worte",
+            "author": "Axis"
+        },
+        {
+            "title": "Der Orden des geheimen Baumes - Die K\u00f6nigin",
+            "author": "Axis"
+        },
+        {
+            "title": "# Death for You",
+            "author": "Adam , Silvera"
+        },
+        {
+            "title": "Vergiss uns. Nicht.",
+            "author": "Ottessa , Moshfegh"
+        },
+        {
+            "title": "Parent Guides to Social Media: 5 Conversation Starters: Teen Fomo / Influencers / Instagram / Tiktok / Youtube",
+            "author": "Jessa Hastings"
+        },
+        {
+            "title": "A Parent's Guide to Tiktok",
+            "author": "Katherine , Webber & Catherine , Doyle"
+        },
+        {
+            "title": "The First to Die at the End",
+            "author": "Holly , Jackson"
+        },
+        {
+            "title": "My Year of Rest and Relaxation",
+            "author": "Hanya , Yanagihara"
+        },
+        {
+            "title": "Magnolia Parks",
+            "author": "Kerri Maniscalco"
+        },
+        {
+            "title": "Cursed Crowns",
+            "author": "Casey Mcquiston"
+        },
+        {
+            "title": "Kill Joy",
+            "author": "Elizabeth , Lim"
+        },
+        {
+            "title": "A Little Life",
+            "author": "Alice Oseman"
+        },
+        {
+            "title": "Kingdom Of The Wicked",
+            "author": "Alice Oseman"
+        },
+        {
+            "title": "Red, White & Royal Blue",
+            "author": "Ali , Hazelwood"
+        },
+        {
+            "title": "Six Crimson Cranes",
+            "author": "Megan , Clawson"
+        },
+        {
+            "title": "Heartstopper Volume 1",
+            "author": "Alice Oseman"
+        },
+        {
+            "title": "Heartstopper Volume 3",
+            "author": "Colleen , Hoover"
+        },
+        {
+            "title": "Loathe To Love You",
+            "author": "Hayley , Morris"
+        },
+        {
+            "title": "Falling Hard for the Royal Guard",
+            "author": "K. A. , Tucker"
+        },
+        {
+            "title": "Heartstopper Volume 2",
+            "author": "K. A. , Tucker"
+        },
+        {
+            "title": "Maybe Someday",
+            "author": "Kristan Higgins"
+        },
+        {
+            "title": "Me vs Brain",
+            "author": "Kristan Higgins"
+        },
+        {
+            "title": "A Fate of Wrath and Flame",
+            "author": "Kristan Higgins"
+        },
+        {
+            "title": "A Curse of Blood and Stone",
+            "author": "Kristan Higgins"
+        },
+        {
+            "title": "Always The Last To Know",
+            "author": "Tahereh , Mafi"
+        },
+        {
+            "title": "Good Luck With That",
+            "author": "M. L. , Rio"
+        },
+        {
+            "title": "Life And Other Inconveniences",
+            "author": "Alice , Oseman"
+        },
+        {
+            "title": "Out Of The Clear Blue Sky",
+            "author": "Fats , Timbo"
+        },
+        {
+            "title": "Shatter Me",
+            "author": "Monica , Murphy"
+        },
+        {
+            "title": "If We Were Villains. Wenn aus Freunden Feinde werden",
+            "author": "Hayley , Kiyoko"
+        },
+        {
+            "title": "Heartstopper Volume 2",
+            "author": "Jessa , Hastings"
+        },
+        {
+            "title": "Main Character Energy",
+            "author": "Sarah J. , Maas"
+        },
+        {
+            "title": "I'll Always Be With You",
+            "author": "Ana , Huang"
+        },
+        {
+            "title": "Girls like girls - Sag mir nicht, wie ich mich f\u00fchle",
+            "author": "Felix M. , Berndt"
+        },
+        {
+            "title": "Untitled",
+            "author": "Dave , Eggers"
+        },
+        {
+            "title": "House of Sky and Breath",
+            "author": "R. F. , Kuang"
+        },
+        {
+            "title": "King of Pride",
+            "author": "Kate , Dramis"
+        },
+        {
+            "title": "Doc Felix - Feel good",
+            "author": "Kate , Stewart"
+        },
+        {
+            "title": "Every (deutsche Ausgabe)",
+            "author": "Bolu Babalola"
+        },
+        {
+            "title": "Yellowface",
+            "author": "Kate , Stewart"
+        },
+        {
+            "title": "The Curse of Saints",
+            "author": "Ottessa , Moshfegh"
+        },
+        {
+            "title": "The Ravenhood - Exodus",
+            "author": "Jeffrey , Marsh"
+        },
+        {
+            "title": "Honey & Spice",
+            "author": "Mhairi , McFarlane"
+        },
+        {
+            "title": "The Finish Line",
+            "author": "Ella Maise"
+        },
+        {
+            "title": "Lapvona",
+            "author": "Christina , Lauren"
+        },
+        {
+            "title": "Take Your Own Advice",
+            "author": "Erin , Morgenstern"
+        },
+        {
+            "title": "Between Us",
+            "author": "Colleen , Hoover"
+        },
+        {
+            "title": "Charlie, Love And Cliches",
+            "author": "Roger , Fisher & William , Ury"
+        },
+        {
+            "title": "The True Love Experiment",
+            "author": "Olivie , Blake"
+        },
+        {
+            "title": "The Starless Sea",
+            "author": "Jennifer L. , Armentrout"
+        },
+        {
+            "title": "Hopeless",
+            "author": "Erin Morgenstern"
+        },
+        {
+            "title": "Getting to Yes",
+            "author": "Leigh , Bardugo"
+        },
+        {
+            "title": "The Atlas Paradox",
+            "author": "Tahereh , Mafi"
+        },
+        {
+            "title": "The Problem With Forever",
+            "author": "Beth , O'Leary"
+        },
+        {
+            "title": "The Night Circus",
+            "author": "Colleen , Hoover"
+        },
+        {
+            "title": "Hell Bent",
+            "author": "Dana , Schwartz"
+        },
+        {
+            "title": "This Woven Kingdom",
+            "author": "Lexi , Ryan"
+        },
+        {
+            "title": "The No-Show",
+            "author": "India , Holton"
+        },
+        {
+            "title": "Confess",
+            "author": "Naomi Novik"
+        },
+        {
+            "title": "Anatomy: A Love Story",
+            "author": "Tess Sharpe"
+        },
+        {
+            "title": "These Hollow Vows",
+            "author": "Tahereh , Mafi"
+        },
+        {
+            "title": "The Secret Service of Tea and Treason",
+            "author": "A.K. , Mulford"
+        },
+        {
+            "title": "The Last Graduate",
+            "author": "Francesca May"
+        },
+        {
+            "title": "The Girls I've Been",
+            "author": "Jenny , Han"
+        },
+        {
+            "title": "Shatter Me",
+            "author": "Bethan , Roberts"
+        },
+        {
+            "title": "The High Mountain Court",
+            "author": "Gabrielle , Zevin"
+        },
+        {
+            "title": "Wild And Wicked Things",
+            "author": "Karen M. Mcmanus"
+        },
+        {
+            "title": "The Summer I Turned Pretty",
+            "author": "Madeline , Miller"
+        },
+        {
+            "title": "My Policeman. Tie-In",
+            "author": "Erik J. , Brown"
+        },
+        {
+            "title": "Tomorrow, and Tomorrow, and Tomorrow",
+            "author": "Catherine , Doyle & Katherine , Webber"
+        },
+        {
+            "title": "One Of Us Is Next",
+            "author": "Elle (author) Kennedy"
+        },
+        {
+            "title": "The Song of Achilles. Anniversary Edition",
+            "author": "Scarlett St. , Clair"
+        },
+        {
+            "title": "All That's Left in the World",
+            "author": "Jenny , Han"
+        },
+        {
+            "title": "Twin Crowns",
+            "author": "Mary E. , Pearson"
+        },
+        {
+            "title": "Good Girl Complex",
+            "author": "Victoria , Aveyard"
+        },
+        {
+            "title": "A Touch of Ruin",
+            "author": "Alice , Oseman"
+        },
+        {
+            "title": "The Summer I Turned Pretty. TV Tie-In",
+            "author": "Tamara Ireland , Stone"
+        },
+        {
+            "title": "Vow of Thieves",
+            "author": "Elizabeth , Lim"
+        },
+        {
+            "title": "Red Queen 1",
+            "author": "Colleen , Hoover"
+        },
+        {
+            "title": "Heartstopper Volume 1",
+            "author": "Bethan , Roberts"
+        },
+        {
+            "title": "Every Last Word",
+            "author": "Scarlett , St. Clair"
+        },
+        {
+            "title": "The Dragon's Promise",
+            "author": "Maureen , Johnson"
+        },
+        {
+            "title": "Slammed",
+            "author": "Chloe , Gong"
+        },
+        {
+            "title": "My Policeman",
+            "author": "Tessa , Bailey"
+        },
+        {
+            "title": "A Touch of Malice",
+            "author": "Riley , Sager"
+        },
+        {
+            "title": "Truly Devious",
+            "author": "Jessa , Hastings"
+        },
+        {
+            "title": "Our Violent Ends",
+            "author": "Brigid , Kemmerer"
+        },
+        {
+            "title": "My Killer Vacation",
+            "author": "Ottessa , Moshfegh"
+        },
+        {
+            "title": "The House Across the Lake",
+            "author": "Phoebe , Luckhurst"
+        },
+        {
+            "title": "Daisy Haites",
+            "author": "Elle , Kennedy"
+        },
+        {
+            "title": "A Curse So Dark and Lonely",
+            "author": "Mazey Eddings"
+        },
+        {
+            "title": "My Year of Rest and Relaxation",
+            "author": "Beth , O'Leary"
+        },
+        {
+            "title": "The Back Up Man",
+            "author": "Taylor , Jenkins Reid"
+        },
+        {
+            "title": "The Mistake",
+            "author": "Casey Mcquiston"
+        },
+        {
+            "title": "The Plus One",
+            "author": "Colleen , Hoover"
+        },
+        {
+            "title": "The Flatshare",
+            "author": "Scarlett St. Clair"
+        },
+        {
+            "title": "Maybe in Another Life",
+            "author": "Elif , Batuman"
+        },
+        {
+            "title": "I Kissed Shara Wheeler",
+            "author": "Olivie , Blake"
+        },
+        {
+            "title": "Verity",
+            "author": "Danielle L. Jensen"
+        },
+        {
+            "title": "King Of Battle And Blood",
+            "author": "Beth , O'Leary"
+        },
+        {
+            "title": "The Idiot",
+            "author": "Sarah Adams"
+        },
+        {
+            "title": "The Atlas Paradox",
+            "author": "Brigid , Kemmerer"
+        },
+        {
+            "title": "The Bridge Kingdom",
+            "author": "Elle (author) Kennedy"
+        },
+        {
+            "title": "The Road Trip",
+            "author": "Becky , Albertalli"
+        },
+        {
+            "title": "When In Rome",
+            "author": "Elle , Kennedy"
+        },
+        {
+            "title": "Defy the Night",
+            "author": "Donna , Tartt"
+        },
+        {
+            "title": "Bad Girl Reputation",
+            "author": "Tia , Williams"
+        },
+        {
+            "title": "Simon vs the Homo Sapiens Agenda",
+            "author": "Brigid , Kemmerer"
+        },
+        {
+            "title": "The Score",
+            "author": "Colleen , Hoover"
+        },
+        {
+            "title": "The Secret History. 30th Anniversary Edition",
+            "author": "Amy , Lea"
+        },
+        {
+            "title": "Seven Days in June",
+            "author": "Jenny Han"
+        },
+        {
+            "title": "Defend the Dawn",
+            "author": "Colleen , Hoover"
+        },
+        {
+            "title": "Losing Hope",
+            "author": "Ottessa , Moshfegh"
+        },
+        {
+            "title": "Set On You",
+            "author": "Melissa Blair"
+        },
+        {
+            "title": "The Summer I Turned Pretty",
+            "author": "Jesse Q , Sutanto"
+        },
+        {
+            "title": "Finding Perfect",
+            "author": "Stephanie , Garber"
+        },
+        {
+            "title": "Lapvona",
+            "author": "Malinda , Lo"
+        },
+        {
+            "title": "A Broken Blade",
+            "author": "Colleen , Hoover"
+        },
+        {
+            "title": "Well, That Was Unexpected",
+            "author": "Albert , Camus"
+        },
+        {
+            "title": "The Ballad of Never After",
+            "author": "Danielle L. , Jensen"
+        },
+        {
+            "title": "Last Night at the Telegraph Club",
+            "author": "Holly , Jackson"
+        },
+        {
+            "title": "Point of Retreat",
+            "author": "Camryn , Garrett"
+        },
+        {
+            "title": "The Stranger",
+            "author": "Adam , Silvera"
+        },
+        {
+            "title": "The Inadequate Heir",
+            "author": "Chloe , Gong"
+        },
+        {
+            "title": "Five Survive",
+            "author": "Christina , Lauren"
+        },
+        {
+            "title": "Friday I'm in Love",
+            "author": "Jessa , Hastings"
+        },
+        {
+            "title": "The First to Die at the End",
+            "author": "Christina , Lauren"
+        },
+        {
+            "title": "Foul Lady Fortune",
+            "author": "A.K. , Mulford"
+        },
+        {
+            "title": "The Soulmate Equation",
+            "author": "Sarah J. Maas"
+        },
+        {
+            "title": "The Long Way Home",
+            "author": "Kyle Thomas, John Reppion & Leah Moore"
+        },
+        {
+            "title": "Something Wilder",
+            "author": "Talia , Hibbert"
+        },
+        {
+            "title": "The Witches' Blade",
+            "author": "Colleen , Hoover"
+        },
+        {
+            "title": "House Of Sky And Breath",
+            "author": "Danielle L. , Jensen"
+        },
+        {
+            "title": "Guardian Of The Realm",
+            "author": "Scarlett , St. Clair"
+        },
+        {
+            "title": "Act Your Age, Eve Brown",
+            "author": "Ottessa , Moshfegh"
+        },
+        {
+            "title": "This Girl",
+            "author": "Keri , Smith"
+        },
+        {
+            "title": "The Traitor Queen",
+            "author": "Meghan , Quinn"
+        },
+        {
+            "title": "A Game of Retribution",
+            "author": "Meghan , Quinn"
+        },
+        {
+            "title": "Eileen",
+            "author": "Beth , O'Leary"
+        },
+        {
+            "title": "Wreck This Journal",
+            "author": "Ottessa , Moshfegh"
+        },
+        {
+            "title": "A Not So Meet Cute",
+            "author": "Bret Easton , Ellis"
+        },
+        {
+            "title": "So Not Meant To Be",
+            "author": "Jacqueline , Wilson"
+        },
+        {
+            "title": "The Switch",
+            "author": "Brigid , Kemmerer"
+        },
+        {
+            "title": "My Year of Rest and Relaxation",
+            "author": "Mark Z. , Danielewski"
+        },
+        {
+            "title": "American Psycho",
+            "author": "Elizabeth , Lim"
+        },
+        {
+            "title": "Baby Love",
+            "author": "Samantha , Shannon"
+        },
+        {
+            "title": "A Vow So Bold and Deadly",
+            "author": "Hayley , Morris"
+        },
+        {
+            "title": "House of Leaves",
+            "author": "Riley Sager"
+        },
+        {
+            "title": "The Dragon's Promise",
+            "author": "Colleen , Hoover"
+        },
+        {
+            "title": "The Bone Season 01",
+            "author": "Sarah , Lotz"
+        },
+        {
+            "title": "Me vs Brain",
+            "author": "Ocean , Vuong"
+        },
+        {
+            "title": "Survive The Night",
+            "author": "E. , Lockhart"
+        },
+        {
+            "title": "Finding Cinderella",
+            "author": "Karen M. Mcmanus"
+        },
+        {
+            "title": "Impossible",
+            "author": "Natasha , Ngan"
+        },
+        {
+            "title": "Time is a Mother",
+            "author": "Jane , Austen"
+        },
+        {
+            "title": "Family of Liars",
+            "author": "Sharon , Jones"
+        },
+        {
+            "title": "Karen M. Mcmanus Boxset",
+            "author": "John , Grisham"
+        },
+        {
+            "title": "Girls of Paper and Fire",
+            "author": "Holly , Jackson"
+        },
+        {
+            "title": "Persuasion (Vintage Classics Austen Series)",
+            "author": "Alison , Cochrun"
+        },
+        {
+            "title": "Burn After Writing",
+            "author": "Karen M. Mcmanus"
+        },
+        {
+            "title": "The Boys from Biloxi",
+            "author": "Faridah Abike-iyimide"
+        },
+        {
+            "title": "Five Survive",
+            "author": "Hafsah , Faizal"
+        },
+        {
+            "title": "Kiss Her Once for Me",
+            "author": "Rory , Power"
+        },
+        {
+            "title": "One Of Us Is Lying",
+            "author": "Brigid , Kemmerer"
+        },
+        {
+            "title": "Ace Of Spades",
+            "author": "Franz Kafka"
+        },
+        {
+            "title": "We Free the Stars",
+            "author": "Raphael , Bob-Waksberg"
+        },
+        {
+            "title": "Wilder Girls",
+            "author": "Lexi , Ryan"
+        },
+        {
+            "title": "A Heart So Fierce and Broken",
+            "author": "Kat Delacorte"
+        },
+        {
+            "title": "Letters To Milena",
+            "author": "Emily , Houghton"
+        },
+        {
+            "title": "Someone Who Will Love You in All Your Damaged Glory",
+            "author": "Brigid , Kemmerer"
+        },
+        {
+            "title": "These Twisted Bonds",
+            "author": "Kristin Cashore"
+        },
+        {
+            "title": "With Fire In Their Blood",
+            "author": "Axie Oh"
+        },
+        {
+            "title": "Last Time We Met",
+            "author": "Colleen , Hoover"
+        },
+        {
+            "title": "Forging Silver into Stars",
+            "author": "Sara Desai"
+        },
+        {
+            "title": "Graceling",
+            "author": "Erin Sterling"
+        },
+        {
+            "title": "The Girl Who Fell Beneath The Sea",
+            "author": "Victoria , Aveyard"
+        },
+        {
+            "title": "It Starts with Us",
+            "author": "Lyssa Kay , Adams"
+        },
+        {
+            "title": "The Dating Plan",
+            "author": "Haruki , Murakami"
+        },
+        {
+            "title": "The Kiss Curse",
+            "author": "Mona Awad"
+        },
+        {
+            "title": "Realm Breaker",
+            "author": "Isabella , Dorta"
+        },
+        {
+            "title": "The Bromance Book Club",
+            "author": "A.K. , Mulford"
+        },
+        {
+            "title": "Norwegian Wood",
+            "author": "Peng , Shepherd"
+        },
+        {
+            "title": "13 Ways Of Looking At A Fat Girl",
+            "author": "Heather , Darwent"
+        },
+        {
+            "title": "The Letters I Will Never Send",
+            "author": "Tess , James-Mackey"
+        },
+        {
+            "title": "The Rogue Crown",
+            "author": "Tucker , Shaw"
+        },
+        {
+            "title": "The Cartographers",
+            "author": "Chloe , Gong"
+        },
+        {
+            "title": "The Things We Do To Our Friends",
+            "author": "Natasha , Ngan"
+        },
+        {
+            "title": "Someone is Watching You",
+            "author": "Dustin , Thao"
+        },
+        {
+            "title": "When You Call My Name",
+            "author": "Victoria , Aveyard"
+        },
+        {
+            "title": "Foul Lady Fortune",
+            "author": "Mary , Watson"
+        },
+        {
+            "title": "Girls of Fate and Fury",
+            "author": "Elle , Kennedy"
+        },
+        {
+            "title": "You've Reached Sam",
+            "author": "Victoria , Aveyard"
+        },
+        {
+            "title": "Blade Breaker",
+            "author": "Haruki , Murakami"
+        },
+        {
+            "title": "Blood to Poison",
+            "author": "Sue Lynn Tan"
+        },
+        {
+            "title": "The Goal",
+            "author": "Amanda Foody & C. L.. Herman"
+        },
+        {
+            "title": "War Storm",
+            "author": "Lexi , Ryan"
+        },
+        {
+            "title": "Kafka on the Shore",
+            "author": "Alicia , Thompson"
+        },
+        {
+            "title": "Daughter Of The Moon Goddess",
+            "author": "Emily M. , Danforth"
+        },
+        {
+            "title": "All Of Us Villains",
+            "author": "Elizabeth May & L.r. Lam"
+        },
+        {
+            "title": "These Twisted Bonds",
+            "author": "Francesca May"
+        },
+        {
+            "title": "Love in the Time of Serial Killers",
+            "author": "Jessie , Burton"
+        },
+        {
+            "title": "Plain Bad Heroines",
+            "author": "Amber , Smith"
+        },
+        {
+            "title": "Seven Mercies",
+            "author": "Ottessa , Moshfegh"
+        },
+        {
+            "title": "Wild And Wicked Things",
+            "author": "Whitney , Hanson"
+        },
+        {
+            "title": "Medusa",
+            "author": "Beth , O'Leary"
+        },
+        {
+            "title": "The Way I Used to Be",
+            "author": "Julie , Murphy & Sierra , Simone"
+        },
+        {
+            "title": "Eileen",
+            "author": "XiXi , Tian"
+        },
+        {
+            "title": "Climate",
+            "author": "Miranda , Dickinson"
+        },
+        {
+            "title": "The Flatshare. TV Tie-In",
+            "author": "Karen M. , McManus"
+        },
+        {
+            "title": "A Merry Little Meet Cute",
+            "author": "Tahereh , Mafi"
+        },
+        {
+            "title": "This Place is Still Beautiful",
+            "author": "Kathryn , Purdie"
+        },
+        {
+            "title": "The Start of Something",
+            "author": "E. Lockhart"
+        },
+        {
+            "title": "One Of Us Is Lying. Collector's Edition",
+            "author": "Nina , Varela"
+        },
+        {
+            "title": "This Woven Kingdom",
+            "author": "Adam , Silvera"
+        },
+        {
+            "title": "Bone Crier's Moon",
+            "author": "Tomi , Adeyemi"
+        },
+        {
+            "title": "Again Again",
+            "author": "Mazey Eddings"
+        },
+        {
+            "title": "Crier's War",
+            "author": "Tahereh , Mafi"
+        },
+        {
+            "title": "They Both Die at the End",
+            "author": "E. , Lockhart"
+        },
+        {
+            "title": "Children of Blood and Bone",
+            "author": "James , Baldwin"
+        },
+        {
+            "title": "Lizzie Blake's Best Mistake",
+            "author": "Mariana Zapata"
+        },
+        {
+            "title": "A Very Large Expanse of Sea",
+            "author": "Mariana Zapata"
+        },
+        {
+            "title": "We Were Liars",
+            "author": "Gordon Ramsay"
+        },
+        {
+            "title": "If Beale Street Could Talk",
+            "author": "Kevin Van , Whye"
+        },
+        {
+            "title": "Dear Aaron",
+            "author": "M.j. Kuhn"
+        },
+        {
+            "title": "Rhythm, Chord & Malykhin",
+            "author": "Simone de , Beauvoir"
+        },
+        {
+            "title": "As Cooked On Tiktok",
+            "author": "Erin Sterling"
+        },
+        {
+            "title": "Nate Plus One",
+            "author": "Kate Bromley"
+        },
+        {
+            "title": "Among Thieves",
+            "author": "Ari , Herstand"
+        },
+        {
+            "title": "The Woman Destroyed",
+            "author": "Rebecca , Serle"
+        },
+        {
+            "title": "The Kiss Curse",
+            "author": "Samantha , Shannon"
+        },
+        {
+            "title": "Here For The Drama",
+            "author": "Mariana Zapata"
+        },
+        {
+            "title": "How To Make It in the New Music Business",
+            "author": "M.j. Kuhn"
+        },
+        {
+            "title": "In Five Years",
+            "author": "W Eagle"
+        },
+        {
+            "title": "The Bone Season 02. The Mime Order",
+            "author": "Falon , Ballard"
+        },
+        {
+            "title": "The Best Thing",
+            "author": "V.e. Schwab"
+        },
+        {
+            "title": "Among Thieves",
+            "author": "Mazey Eddings"
+        },
+        {
+            "title": "Making Tiktok Videos",
+            "author": "Jake Maia , Arlow"
+        },
+        {
+            "title": "Just My Type",
+            "author": "Katie , Zhao"
+        },
+        {
+            "title": "Gallant",
+            "author": "Megan , Nolan"
+        },
+        {
+            "title": "A Brush With Love",
+            "author": "Ruby , Dixon"
+        },
+        {
+            "title": "How to Excavate a Heart",
+            "author": "Erin Sterling"
+        },
+        {
+            "title": "The Lies We Tell",
+            "author": "Erik J. , Brown"
+        },
+        {
+            "title": "Acts of Desperation",
+            "author": "Lyssa , Kay Adams"
+        },
+        {
+            "title": "Ice Planet Barbarians",
+            "author": "June CL , Tan"
+        },
+        {
+            "title": "The Ex Hex",
+            "author": "Alison , Cochrun"
+        },
+        {
+            "title": "All That's Left in the World",
+            "author": "Lyssa Kay , Adams"
+        },
+        {
+            "title": "Undercover Bromance",
+            "author": "Kristin , Cashore"
+        },
+        {
+            "title": "Jade Fire Gold",
+            "author": "Elizabeth May & Laura Lam"
+        },
+        {
+            "title": "The Charm Offensive",
+            "author": "V. E. , Schwab"
+        },
+        {
+            "title": "Isn't it Bromantic?",
+            "author": "Holly , Bourne"
+        },
+        {
+            "title": "Fire",
+            "author": "Natasha , Ngan"
+        },
+        {
+            "title": "Seven Devils",
+            "author": "Saundra , Mitchell, Bob , Martin, Chad , Beguelin & Matthew , Sklar"
+        },
+        {
+            "title": "Das unsichtbare Leben der Addie LaRue",
+            "author": "Becky , Albertalli"
+        },
+        {
+            "title": "Pretending",
+            "author": "Samantha , Shannon"
+        },
+        {
+            "title": "Girls of Storm and Shadow",
+            "author": "Victoria , Aveyard"
+        },
+        {
+            "title": "The Prom",
+            "author": "Nick Cutter"
+        },
+        {
+            "title": "Simon vs. the Homo Sapiens Agenda. Love Simon. Film Tie-In",
+            "author": "E. Lockhart"
+        },
+        {
+            "title": "The Song Rising",
+            "author": "Sally Thorne"
+        },
+        {
+            "title": "Red Queen 1",
+            "author": "Francis Bourgeois"
+        },
+        {
+            "title": "The Troop",
+            "author": "Mariana Zapata"
+        },
+        {
+            "title": "Genuine Fraud",
+            "author": "Mariana Zapata"
+        },
+        {
+            "title": "Angelika Frankenstein Makes Her Match",
+            "author": "Miranda , Dickinson"
+        },
+        {
+            "title": "The Trainspotter's Notebook",
+            "author": "Kathleen , Glasgow"
+        },
+        {
+            "title": "When Gracie Met The Grump",
+            "author": "Erin Sterling"
+        },
+        {
+            "title": "Lingus",
+            "author": "Krista , Ritchie & Becca , Ritchie"
+        },
+        {
+            "title": "All My Love",
+            "author": "Shirlene , Obuobi"
+        },
+        {
+            "title": "Girl in Pieces",
+            "author": "Meryl , Wilsner"
+        },
+        {
+            "title": "The Kiss Curse",
+            "author": "Malinda , Lo"
+        },
+        {
+            "title": "Ricochet",
+            "author": "Marissa , Stapley"
+        },
+        {
+            "title": "On Rotation",
+            "author": "Taylor Jenkins , Reid"
+        },
+        {
+            "title": "Mistakes Were Made",
+            "author": "D Kaye"
+        },
+        {
+            "title": "A Scatter of Light",
+            "author": "Charles , Arthur"
+        },
+        {
+            "title": "Lucky",
+            "author": "Riley , Sager"
+        },
+        {
+            "title": "Die sieben M\u00e4nner der Evelyn Hugo",
+            "author": "Noviolet , Bulawayo"
+        },
+        {
+            "title": "Tiktok: Creativity And Culture In Short Video",
+            "author": "Alexia Mason"
+        },
+        {
+            "title": "Social Warming",
+            "author": "Tia , Williams"
+        },
+        {
+            "title": "The House Across the Lake",
+            "author": "Sanjena , Sathian"
+        },
+        {
+            "title": "Glory",
+            "author": "Elizabeth May & L.r. Lam"
+        },
+        {
+            "title": "Rock Paper Killers",
+            "author": "Chloe , Gong"
+        },
+        {
+            "title": "The Perfect Find",
+            "author": "Lauren , Owen"
+        },
+        {
+            "title": "Gold Diggers",
+            "author": "Sarah , Lotz"
+        },
+        {
+            "title": "Seven Mercies",
+            "author": "Evie , Meg & This Trippy Hippie"
+        },
+        {
+            "title": "Our Violent Ends",
+            "author": "Anya , Omah"
+        },
+        {
+            "title": "Small Angels",
+            "author": "Ali , Hazelwood"
+        },
+        {
+            "title": "Impossible",
+            "author": "Henn , Kim"
+        },
+        {
+            "title": "My Nonidentical Twin",
+            "author": "Erin , Morgenstern"
+        },
+        {
+            "title": "Nebelschimmer",
+            "author": "Adrienne , Young"
+        },
+        {
+            "title": "The Love Hypothesis",
+            "author": "Christina , Lauren"
+        },
+        {
+            "title": "Starry Night, Blurry Dreams",
+            "author": "Mora , Montgomery"
+        },
+        {
+            "title": "The Starless Sea",
+            "author": "Holly , Tuppen"
+        },
+        {
+            "title": "Namesake",
+            "author": "V. S. , Santoni"
+        },
+        {
+            "title": "The Honey-Don't List",
+            "author": "L. C. , Rosen"
+        },
+        {
+            "title": "Lab Partners",
+            "author": "Nir , Eyal"
+        },
+        {
+            "title": "Sustainable Travel",
+            "author": "Kathryn , Purdie"
+        },
+        {
+            "title": "I'm a Gay Wizard",
+            "author": "Rainbow , Rowell"
+        },
+        {
+            "title": "Camp",
+            "author": "Mark , Wolynn"
+        },
+        {
+            "title": "Indistractable",
+            "author": "Markus , Zusak"
+        },
+        {
+            "title": "Bone Crier's Moon",
+            "author": "John , Green"
+        },
+        {
+            "title": "Pumpkinheads",
+            "author": "Erin , Gruwell"
+        },
+        {
+            "title": "It Didn't Start with You",
+            "author": "Bret Easton , Ellis"
+        },
+        {
+            "title": "The Book Thief. Film Tie-In",
+            "author": "Studio Press"
+        },
+        {
+            "title": "Will Grayson, Will Grayson",
+            "author": "Coinneach , MacLeod"
+        },
+        {
+            "title": "The Freedom Writers Diary. 10th Anniversary Edition",
+            "author": "Chloe , Gong"
+        },
+        {
+            "title": "American Psycho",
+            "author": "Keri , Smith"
+        },
+        {
+            "title": "What I Love About Me",
+            "author": "Ariel House"
+        },
+        {
+            "title": "The Hebridean Baker: My Scottish Island Kitchen",
+            "author": "Vahid , Matejko"
+        },
+        {
+            "title": "Our Violent Ends",
+            "author": "SocialMediaExperte , Vincent Hohne"
+        },
+        {
+            "title": "Wreck This Journal: Now in Color",
+            "author": "Jawad , Elbennar"
+        },
+        {
+            "title": "TikTok",
+            "author": "Kate , Marchant"
+        },
+        {
+            "title": "Aquiles en TikTok",
+            "author": "Vahid , Matejko"
+        },
+        {
+            "title": "The Ultimate Handbook for TikTok Advertising",
+            "author": "Vahid , Matejko"
+        },
+        {
+            "title": "Sea Shanty Play-Alongs for Clarinet in Bb",
+            "author": "Vahid , Matejko"
+        },
+        {
+            "title": "So startest Du auf Instagram und TikTok durch",
+            "author": "Anonym"
+        },
+        {
+            "title": "Burn Book After Writing",
+            "author": "Aly Martinez"
+        },
+        {
+            "title": "Whistleblower - Between Love and Truth",
+            "author": "Jonas , Labudda"
+        },
+        {
+            "title": "Vahid Matejkos Shanty Play-Alongs f\u00fcr Sopran-Blockfl\u00f6te in C",
+            "author": "Chris , Stokel-Walker"
+        },
+        {
+            "title": "Vahid Matejkos Shanty Play-Alongs f\u00fcr Querfl\u00f6te",
+            "author": "Lena , Lautenschl\u00e4ger"
+        },
+        {
+            "title": "Vahid Matejkos Shanty Play-Alongs f\u00fcr Akkordeon, opt. Piano",
+            "author": "Baraa , Bolat"
+        },
+        {
+            "title": "Selbstdarstellung auf Instagram. Welche Bedeutung hat die Selbstinszenierung f\u00fcr die Identit\u00e4tsbildung von Jugendlichen?",
+            "author": "Anna , Strigl"
+        },
+        {
+            "title": "From The Embers",
+            "author": "Henri , Purnell"
+        },
+        {
+            "title": "Influencer:innenvideos auf TikTok und YouTube f\u00fcr den Deutschunterricht",
+            "author": "Nadine , Breaty"
+        },
+        {
+            "title": "Tiktok Boom: China's Dynamite App and the Superpower Race for Social Media",
+            "author": "videozeugs"
+        },
+        {
+            "title": "Wie Fu\u00dfballvereine \u00fcber TikTok mit ihren Fans kommunizieren. Besonderheiten in der Ansprache der jungen Zielgruppe und Handlungsempfehlungen",
+            "author": "Chantal , Marshall"
+        },
+        {
+            "title": "Lerne wer du bist",
+            "author": "Annette , Reis"
+        },
+        {
+            "title": "Annas Haircare-Hacks",
+            "author": "Paul , Pramann"
+        },
+        {
+            "title": "Henri Purnell. Das H\u00e4kelbuch",
+            "author": "Peet , Montzingo & Rockwell , Sands"
+        },
+        {
+            "title": "Only Kind of Broken",
+            "author": "Natalie , Haynes"
+        },
+        {
+            "title": "Take It Easy - Schulplaner 2023/2024 von Feli @videozeugs",
+            "author": "Rebecca Yarros"
+        },
+        {
+            "title": "Popkultur 2.0",
+            "author": "Rebecca Yarros"
+        },
+        {
+            "title": "Marketing Thee Podcast 101",
+            "author": "Bretman , Rock"
+        },
+        {
+            "title": "DREAM THE RED EARTH",
+            "author": "Lyssa Kay Adams"
+        },
+        {
+            "title": "TikTok und selbstverletzendes Verhalten. F\u00f6rdert der Algorithmus von TikTok das selbstverletzende Verhalten von Jugendlichen?",
+            "author": "B. , Celeste"
+        },
+        {
+            "title": "Welchen Einfluss haben digitale Medien auf Kinder im Grundschulalter?",
+            "author": "Chloe , Liese"
+        },
+        {
+            "title": "Little Imperfections",
+            "author": "Marco , Perner"
+        },
+        {
+            "title": "STONE BLIND - Der Blick der Medusa",
+            "author": "Stephanie , Garber"
+        },
+        {
+            "title": "The Last Letter",
+            "author": "Jefferson , Guerrero"
+        },
+        {
+            "title": "Great And Precious Things",
+            "author": "Herbert , King"
+        },
+        {
+            "title": "You're That B*tch",
+            "author": "Emilia , Di Martino"
+        },
+        {
+            "title": "A Very Merry Bromance",
+            "author": "Chloe Liese"
+        },
+        {
+            "title": "Vor uns die D\u00e4mmerung",
+            "author": "Leetha G. Reyson"
+        },
+        {
+            "title": "Everything for You",
+            "author": "Elena , Armas"
+        },
+        {
+            "title": "750 Tipps und Tricks rund um Social Media",
+            "author": "F\u00e1tima , Mart\u00ednez L\u00f3pez"
+        },
+        {
+            "title": "Caraval",
+            "author": "Elaia , Mart\u00ednez Garc\u00eda"
+        },
+        {
+            "title": "Hacks Mentales Poderosos",
+            "author": "Julia , Men\u00fa Garc\u00eda"
+        },
+        {
+            "title": "TIK TOK YOUR BUSINESS TO SUCCESS",
+            "author": "Meghan , Quinn"
+        },
+        {
+            "title": "La prisionera de oro. El nuevo fen\u00f3meno de fantas\u00eda que arrasa en Tiktok con m\u00e1s de 500.000 ejemplares vendidos.",
+            "author": "Aguska , Mnich & Patrick , B\u00e4urer"
+        },
+        {
+            "title": "Indexing \u00bfChav\u00bf on Social Media",
+            "author": "Fabian , Strehlow & Philipp , Strehlow"
+        },
+        {
+            "title": "Only When It's Us",
+            "author": "Daniel , Illy"
+        },
+        {
+            "title": "HOW TO GAIN MONEY WITH TIKTOK",
+            "author": "Khaby , Lame"
+        },
+        {
+            "title": "The American Roommate Experiment - Die gro\u00dfe Liebe findet Platz in der kleinsten Wohnung",
+            "author": "Colleen , Hoover"
+        },
+        {
+            "title": "El libro de TikTok : la gu\u00eda imprescindible para emprendedores, profesionales y empresas",
+            "author": "Colleen , Hoover"
+        },
+        {
+            "title": "Elashow 1. Un concurs a TikTok",
+            "author": "Dustin , Thao"
+        },
+        {
+            "title": "Las locas aventuras de las hermanas de TikTok",
+            "author": "Pascal , Gurk"
+        },
+        {
+            "title": "A Long Time Coming",
+            "author": "Carlyn , Greenwald"
+        },
+        {
+            "title": "Freestyle Football mit Aguska & Patrick. Lerne von den Weltmeistern",
+            "author": "Stan , White"
+        },
+        {
+            "title": "Fabi und Phils Total Food Coma -Das ultra Tiktok Trend-Rezeptebuch",
+            "author": "Olivie , Blake"
+        },
+        {
+            "title": "Ratgeber Daueronline in Sozialen Netzwerken",
+            "author": "Mona , Kasten"
+        },
+        {
+            "title": "Supereasy - Mein Comicroman",
+            "author": "Natalie Jade , Hutchinson"
+        },
+        {
+            "title": "Maybe Someday",
+            "author": "Michaela , Kahmke"
+        },
+        {
+            "title": "Maybe Not",
+            "author": "Little Brother Books"
+        },
+        {
+            "title": "Bleib bei mir, Sam",
+            "author": "Elena , Armas"
+        },
+        {
+            "title": "Die Skill-Bibel",
+            "author": "Falon , Ballard"
+        },
+        {
+            "title": "Sizzle Reel",
+            "author": "Claire , Contreras"
+        },
+        {
+            "title": "SOCIAL MEDIA MARKETING",
+            "author": "Anja , Sp\u00e4gele"
+        },
+        {
+            "title": "One for My Enemy",
+            "author": "Alex , Aster"
+        },
+        {
+            "title": "Fragile Heart",
+            "author": "Genc , Heta"
+        },
+        {
+            "title": "Manifest Your Dreams",
+            "author": "Raven Kennedy"
+        },
+        {
+            "title": "Der digitale K\u00e4fig - Eine Generation ist gefangen",
+            "author": "Jordan Smith"
+        },
+        {
+            "title": "Tiktok Ultimate Guide By Gameswarrior 2023 Edition",
+            "author": "Margaret , Knecht"
+        },
+        {
+            "title": "Spanish Love Deception - Manchmal f\u00fchrt die halbe Wahrheit zur ganz gro\u00dfen Liebe",
+            "author": "Valeria , Shashenok"
+        },
+        {
+            "title": "Just My Type",
+            "author": "Shelby , Leigh"
+        },
+        {
+            "title": "Because I Need You",
+            "author": "Tahereh , Mafi"
+        },
+        {
+            "title": "Gen Z",
+            "author": "Nadine , Voigt"
+        },
+        {
+            "title": "TikTok-Marketing",
+            "author": "Itsmanjuu"
+        },
+        {
+            "title": "Lightlark",
+            "author": "Sherin , Alrasho"
+        },
+        {
+            "title": "Soziale Netzwerke in Unternehmen. Bekanntheit, Kundenbeziehung und das Unternehmensimage",
+            "author": "Jessiebluegrey"
+        },
+        {
+            "title": "Glow",
+            "author": "Elif-Sima , Bayrak"
+        },
+        {
+            "title": "Tiktok Algorithms 2022 $15,000/month Guide To Escape Your Job And Build An Successful Social Media Marketing Business From Home Using Your Personal Account, Branding, Seo, Influencer",
+            "author": "Tanya , Byrne"
+        },
+        {
+            "title": "B.A.B.E. - Dandelion Cover",
+            "author": "Krista , Ritchie & Becca , Ritchie"
+        },
+        {
+            "title": "24. Februar... und der Himmel war nicht mehr blau",
+            "author": "Holly , Jackson"
+        },
+        {
+            "title": "Changing with the Tides",
+            "author": "Katee , Robert"
+        },
+        {
+            "title": "This Woven Kingdom",
+            "author": "Rachel , Smythe"
+        },
+        {
+            "title": "Eintausendundeine Idee (1001) - Das Kreativbuch",
+            "author": "Elle , Kennedy"
+        },
+        {
+            "title": "Glow up your life - Mal dich gl\u00fccklich",
+            "author": "Rachel , Smythe"
+        },
+        {
+            "title": "I am your Food - Das Kochbuch",
+            "author": "Brittainy C. , Cherry"
+        },
+        {
+            "title": "Das reizend kreative Bullet Journal - vom TikTok-Star jessiebluegrey - Bring dein Leben endlich unter Kontrolle",
+            "author": "Julesboringlife"
+        },
+        {
+            "title": "Bloom to Inspire",
+            "author": "Emir , Bayrak"
+        },
+        {
+            "title": "Everlove - Bis \u00fcbers Ende dieser Welt hinaus",
+            "author": "Twenty4tim"
+        },
+        {
+            "title": "Addicted to You",
+            "author": "Annika , Zimmermann"
+        },
+        {
+            "title": "Good Girl, Bad Blood",
+            "author": "Sayaka , Murata"
+        },
+        {
+            "title": "Neon Gods - Hades & Persephone",
+            "author": "Chloe , Gong"
+        },
+        {
+            "title": "Lore Olympus - Teil 2",
+            "author": "Niklas , Kolorz"
+        },
+        {
+            "title": "Ever Since I Loved You",
+            "author": "Edwin , Simmons"
+        },
+        {
+            "title": "Lore Olympus - Teil 1",
+            "author": "Christina , Hunger"
+        },
+        {
+            "title": "Denn ohne Musik werden wir ertrinken",
+            "author": "Talia , Hibbert"
+        },
+        {
+            "title": "My Not so Boring Life",
+            "author": "Taylor , Jenkins Reid"
+        },
+        {
+            "title": "Lass mal machen. Ideen und Challenges f\u00fcr jede Situation",
+            "author": "Stefan , Scheller"
+        },
+        {
+            "title": "4-ever mit euch",
+            "author": "Andrea Davis"
+        },
+        {
+            "title": "3 AM Questions - Fragen f\u00fcr 3 Uhr nachts",
+            "author": "Ariana , Godoy"
+        },
+        {
+            "title": "Zeremonie des Lebens",
+            "author": "Penelope , Douglas"
+        },
+        {
+            "title": "Welch grausames Ende",
+            "author": "Ruby , Dixon"
+        },
+        {
+            "title": "(Fast) Alles einfach erkl\u00e4rt",
+            "author": "Ruby , Dixon"
+        },
+        {
+            "title": "Incre\u00edbles y Sencillos Hacks para la Vida",
+            "author": "Emily , Stephenson"
+        },
+        {
+            "title": "How Stella Learned to Talk",
+            "author": "Samantha , Shannon"
+        },
+        {
+            "title": "Falling for Eve Brown",
+            "author": "Erin , Sterling"
+        },
+        {
+            "title": "Carrie Soto is Back",
+            "author": "Ayla , Dade"
+        },
+        {
+            "title": "Praxisleitfaden erfolgreiche Personalgewinnung f\u00fcr KMU",
+            "author": "Herbert King"
+        },
+        {
+            "title": "Everything You Always Wanted To Know About Puberty - And Shouldn't Learn On Tiktok",
+            "author": "Laura , Borgnolo"
+        },
+        {
+            "title": "Through my Heart - Ich begehre nur dich",
+            "author": "Laura Jane , Williams"
+        },
+        {
+            "title": "Punk 57",
+            "author": "Elizabeth , Davis"
+        },
+        {
+            "title": "Ice Planet Barbarians - Kira und Aehako",
+            "author": "Corina , Pahrmann & Katja , Kupka"
+        },
+        {
+            "title": "Ice Planet Barbarians - Georgie und Vektal",
+            "author": "Aiden , Thomas"
+        },
+        {
+            "title": "Kochen wie auf TikTok",
+            "author": "E. , Lockhart"
+        },
+        {
+            "title": "Der Orden des geheimen Baumes - Die Magierin",
+            "author": "E. , Lockhart"
+        },
+        {
+            "title": "Ex Hex",
+            "author": "Olivie , Blake"
+        },
+        {
+            "title": "Like Shadows We Hide",
+            "author": "Mona , Kasten"
+        },
+        {
+            "title": "Let's Tik Tok",
+            "author": "Meagan , Brandy"
+        },
+        {
+            "title": "Die Relevanz von Audio- und Videoqualit\u00e4t auf TikTok",
+            "author": "Malinda , Lo"
+        },
+        {
+            "title": "Just for December",
+            "author": "Melissa C. , Hill & Anja , Stapor"
+        },
+        {
+            "title": "The Player Next Door",
+            "author": "Zoulfa , Katouh"
+        },
+        {
+            "title": "Social Media Marketing - Praxishandbuch f\u00fcr Facebook, Instagram, TikTok & Co.",
+            "author": "Diana , Espinoza Alc\u00edvar & Mario , Haro Salazar"
+        },
+        {
+            "title": "Wendy & Peter. Verloren im Nimmerwald",
+            "author": "Adam , Silvera"
+        },
+        {
+            "title": "Family of Liars. Wie wir L\u00fcgner wurden. L\u00fcgner-Reihe 2 (Auf TikTok gefeierter New-York-Times-Bestseller!)",
+            "author": "Sarah , Adams"
+        },
+        {
+            "title": "We Were Liars. Solange wir l\u00fcgen. L\u00fcgner-Reihe 1 (Auf TikTok gefeierter New-York-Times-Bestseller!)",
+            "author": "Fionn Greger"
+        },
+        {
+            "title": "The Atlas Six",
+            "author": "Tanja , Sch\u00fcbel"
+        },
+        {
+            "title": "Mood Reader",
+            "author": "Rachel , Serrin"
+        },
+        {
+            "title": "Lonely Heart",
+            "author": "Rachel , Serrin"
+        },
+        {
+            "title": "Boys of Brayshaw High",
+            "author": "Tea , Ivo\u00bf"
+        },
+        {
+            "title": "A Scatter of Light",
+            "author": "Fredrik Backman"
+        },
+        {
+            "title": "Lupus Noctis",
+            "author": "Kc , Davis"
+        },
+        {
+            "title": "All die Farben, die ich dir versprach",
+            "author": "Miriam , Lemmert"
+        },
+        {
+            "title": "POSICIONA #1 en TIKTOK tus videos y monetiza",
+            "author": "Kai , Strittmatter"
+        },
+        {
+            "title": "The First to Die at the End",
+            "author": "Paula , McLain"
+        },
+        {
+            "title": "The Cheat Sheet",
+            "author": "Kate , Eichhorn"
+        },
+        {
+            "title": "Things I Learned On Tiktok",
+            "author": "Derya , Tavas"
+        },
+        {
+            "title": "Frauenbild und Sexismus in Zeiten von TikTok und MeToo. Analyse der Haltung der Generation Z gegen\u00fcber den Visionen von Alice Schwarzer und Simone de Beauvoir",
+            "author": "Lucy-Marie , Mende"
+        },
+        {
+            "title": "Behold the Sins",
+            "author": "Dorothee , H\u00fcbner"
+        },
+        {
+            "title": "Behold the Sins",
+            "author": "Luisa , Stroh"
+        },
+        {
+            "title": "Tiktok Cultures In The United States",
+            "author": "Kara , McDowell"
+        },
+        {
+            "title": "Mediensozialisation. Welchen Einfluss haben soziale Medien auf Jugendliche?",
+            "author": "John , Shackelford"
+        },
+        {
+            "title": "The Winners",
+            "author": "Markus , Grom"
+        },
+        {
+            "title": "How to Keep House While Drowning",
+            "author": "Claire , Contreras"
+        },
+        {
+            "title": "Die Vermarktung des Kindes im Influencer-Marketing",
+            "author": "D Kaye"
+        },
+        {
+            "title": "Gebrauchsanweisung f\u00fcr China",
+            "author": "Max La , Manna"
+        },
+        {
+            "title": "When the Stars Go Dark",
+            "author": "Ali , Hazelwood"
+        },
+        {
+            "title": "Content",
+            "author": "Nikola , Hotel"
+        },
+        {
+            "title": "100 geniale Manga-Zeichentricks",
+            "author": "Valentin , Gr\u00fcner"
+        },
+        {
+            "title": "Get creative now! Malen mit TikTok-Artist derya.tavas",
+            "author": "Beatriz , Iznaola Duque"
+        },
+        {
+            "title": "Eyes and Lips - Vom TikTok Star e.l.u.c.e.y",
+            "author": "Lena , Ma"
+        },
+        {
+            "title": "Zeichnen in 5 Minuten - 100 Motive von Architektur bis Zauberei",
+            "author": "Sarah , Stankewitz"
+        },
+        {
+            "title": "Modern Acrylics - Von Social-Media-Star Luisa Stroh alias isi_carolina",
+            "author": "Sarah , Stankewitz"
+        },
+        {
+            "title": "Just for Clicks",
+            "author": "Taylor Jenkins , Reid"
+        },
+        {
+            "title": "Social Media Marketing for Beginners",
+            "author": "Alina , B\u00e4r"
+        },
+        {
+            "title": "Shopping Posts in Social Media. Ein Vergleich des Social Commerce auf verschiedenen sozialen Netzwerken",
+            "author": "Roxanne , LeBlanc"
+        },
+        {
+            "title": "Leyendas y Otras Mentiras",
+            "author": "Naomi , Jon"
+        },
+        {
+            "title": "Tiktok: Creativity And Culture In Short Video",
+            "author": "Coupleontour"
+        },
+        {
+            "title": "Total vegan - Zero Waste",
+            "author": "Annika , Zimmermann"
+        },
+        {
+            "title": "Die theoretische Unwahrscheinlichkeit von Liebe - Die deutsche Ausgabe von \u00bbThe Love Hypothesis\u00ab",
+            "author": "Tracy , Deonn"
+        },
+        {
+            "title": "Dark Ivy - Wenn ich falle",
+            "author": "Nena , Tramountani"
+        },
+        {
+            "title": "L\u00f6wenland",
+            "author": "Kate Elizabeth , Russell"
+        },
+        {
+            "title": "Gu\u00eda pr\u00e1ctica de TikTok : la aplicaci\u00f3n de v\u00eddeos cortos de m\u00e1s \u00e9xito en la actualidad",
+            "author": "Franz , Kafka"
+        },
+        {
+            "title": "The Eradication of Humanity by Social Media",
+            "author": "R. F. , Kuang"
+        },
+        {
+            "title": "Shatter and Shine",
+            "author": "Sophie , Gonzales"
+        },
+        {
+            "title": "Rise and Fall",
+            "author": "Merit , Niemeitz"
+        },
+        {
+            "title": "Daisy Jones & The Six",
+            "author": "Merit , Niemeitz"
+        },
+        {
+            "title": "TikTok f\u00fcr Einzelhandelsunternehmen. Entwicklung eines Methodenbaukastens",
+            "author": "Scarlett St. , Clair"
+        },
+        {
+            "title": "North Stone",
+            "author": "Scarlett , St. Clair"
+        },
+        {
+            "title": "Join the Challenge... and Face the Chaos!",
+            "author": "Scarlett St. , Clair"
+        },
+        {
+            "title": "Together on Tour. Eine regenbogenbunte Reise",
+            "author": "L. J. , Shen"
+        },
+        {
+            "title": "3 AM Questions - Fragen f\u00fcr 3 Uhr nachts",
+            "author": "Alexis , Hall"
+        },
+        {
+            "title": "Die digitale Transformation der Medien",
+            "author": "Alexis , Hall"
+        },
+        {
+            "title": "Legendborn - Der geheime Bund",
+            "author": "Lena , Kiefer"
+        },
+        {
+            "title": "The Way We Melt",
+            "author": "Lena , Kiefer"
+        },
+        {
+            "title": "Meine dunkle Vanessa",
+            "author": "Lena , Kiefer"
+        },
+        {
+            "title": "Die Verwandlung",
+            "author": "Bethany , Clift"
+        },
+        {
+            "title": "Im Zeichen der Mohnblume - Die Erl\u00f6serin",
+            "author": "Noelle"
+        },
+        {
+            "title": "Theoretisch perfekt",
+            "author": "Julia von , Lucadou"
+        },
+        {
+            "title": "No Longer Lost - Mulberry Mansion",
+            "author": "Sarah J. , Maas"
+        },
+        {
+            "title": "No Longer Yours - Mulberry Mansion",
+            "author": "St\u00e9phane , Bouillet & Influence4you"
+        },
+        {
+            "title": "A Touch of Malice",
+            "author": "Ariana , Godoy"
+        },
+        {
+            "title": "A Touch of Ruin",
+            "author": "Brianna , Wiest"
+        },
+        {
+            "title": "A Touch of Darkness",
+            "author": "Colleen , Hoover"
+        },
+        {
+            "title": "Love Like Fire",
+            "author": "Molly , James"
+        },
+        {
+            "title": "Forever Material",
+            "author": "Relaxing Mugiwara"
+        },
+        {
+            "title": "Boyfriend Material",
+            "author": "Millane , Friesen"
+        },
+        {
+            "title": "Westwell - Hot & Cold",
+            "author": "Natalie , Thomson"
+        },
+        {
+            "title": "Westwell - Bright & Dark",
+            "author": "Anna , Savas"
+        },
+        {
+            "title": "Westwell - Heavy & Light",
+            "author": "Anna , Savas"
+        },
+        {
+            "title": "Last One at the Party",
+            "author": "Carley , Fortune"
+        },
+        {
+            "title": "The Unraveling Of Luna Forester",
+            "author": "Amy , Lea"
+        },
+        {
+            "title": "Tick Tack",
+            "author": "Christian , Kr\u00f6mer"
+        },
+        {
+            "title": "Crescent City 02 - Wenn ein Stern erstrahlt",
+            "author": "Investingwizard Press"
+        },
+        {
+            "title": "TikTok: A Creative Guide",
+            "author": "Bolu Babalola"
+        },
+        {
+            "title": "Through my Window - Ich sehe nur dich",
+            "author": "Valentina , Mussi"
+        },
+        {
+            "title": "101 Essays, die dein Leben ver\u00e4ndern werden",
+            "author": "St\u00e9phane , Bouillet & Agence , Influence4you"
+        },
+        {
+            "title": "F\u00fcr immer ein Teil von dir",
+            "author": "Erika , Rischko & Ingo , Frob\u00f6se"
+        },
+        {
+            "title": "Skip to the End",
+            "author": "Laura Jane , Williams"
+        },
+        {
+            "title": "Tiktok Marketing",
+            "author": "Lexi , Ryan"
+        },
+        {
+            "title": "Monday Motivation",
+            "author": "Kim , Weinand"
+        },
+        {
+            "title": "Wrap-Hacks im TikTok-Style",
+            "author": "Lexi , Ryan"
+        },
+        {
+            "title": "Four Houses of Oxford, Band 2: Gewinne das Spiel (Epische Romantasy f\u00fcr alle Fans des TikTok-Trends Dark Academia)",
+            "author": "Martina , Kippes"
+        },
+        {
+            "title": "Four Houses of Oxford, Band 1: Brich die Regeln (Epische Romantasy f\u00fcr alle Fans des TikTok-Trends Dark Academia)",
+            "author": "Katie , Abey"
+        },
+        {
+            "title": "Every Summer After",
+            "author": "Christiane , Germann & Wolfgang , Ainetter"
+        },
+        {
+            "title": "Set on You",
+            "author": "Adidas Wilson"
+        },
+        {
+            "title": "MIR DOCH WOSCHD!",
+            "author": "Cedi , Solms"
+        },
+        {
+            "title": "Tiktok Marketing With Tiktok Seo & Algorithm Ultimate Money Guide",
+            "author": "Patrick , Rosenthal"
+        },
+        {
+            "title": "Honey & Spice",
+            "author": "Cornelia , Czaker"
+        },
+        {
+            "title": "Das inoffizielle Kochbuch zu TikTok",
+            "author": "Dave , Eggers"
+        },
+        {
+            "title": "50 id\u00e9es et + pour vos campagnes d'influence sur TikTok",
+            "author": "Carolin , Wahl"
+        },
+        {
+            "title": "F\u00fcr Fitness ist es nie zu sp\u00e4t",
+            "author": "Carolin , Wahl"
+        },
+        {
+            "title": "Cybersecurity als Unternehmensleitungsaufgabe",
+            "author": "Carolin , Wahl"
+        },
+        {
+            "title": "One Night With You",
+            "author": "Michael , Branding"
+        },
+        {
+            "title": "These Hollow Vows",
+            "author": "Michael , Branding"
+        },
+        {
+            "title": "Choreographie als Kulturtechnik",
+            "author": "Brandon's , Business Guides"
+        },
+        {
+            "title": "Local Marketing",
+            "author": "Brandon's Business , Guides"
+        },
+        {
+            "title": "These Hollow Vows",
+            "author": "Lanaarts23"
+        },
+        {
+            "title": "Erfolgsfaktoren von Werbekampagnen auf TikTok am Beispiel der Modebranche",
+            "author": "Brit , Bennett"
+        },
+        {
+            "title": "We Feel Happy",
+            "author": "Anya , Omah"
+        },
+        {
+            "title": "Social Media f\u00fcr Beh\u00f6rden",
+            "author": "Isabell , Beer"
+        },
+        {
+            "title": "Social Media Marketing - Ultimate User Guide To Facebook, Instagram, Youtube, Blogging, Twitter, Linkedin, Tiktok, Pinterest",
+            "author": "Kathrin , Habermann"
+        },
+        {
+            "title": "Junge, das musst du wissen",
+            "author": "Trevor (lecturer In The Women's Gender & Sexuality Studies Program Boffone"
+        },
+        {
+            "title": "Teenie-Kochbuch",
+            "author": "Sarah , Sprinz"
+        },
+        {
+            "title": "Kein Business ohne Text",
+            "author": "Sarah , Sprinz"
+        },
+        {
+            "title": "Every (deutsche Ausgabe)",
+            "author": "Sarah , Sprinz"
+        },
+        {
+            "title": "Vielleicht nie (Vielleicht-Trilogie, Band 2)",
+            "author": "Ava , Reed"
+        },
+        {
+            "title": "Vielleicht irgendwann (Vielleicht-Trilogie, Band 3)",
+            "author": "L. J. , Shen"
+        },
+        {
+            "title": "Vielleicht jetzt (Vielleicht-Trilogie, Band 1)",
+            "author": "Ava , Reed"
+        },
+        {
+            "title": "Social Media Marketing  2021",
+            "author": "Will , Eagle"
+        },
+        {
+            "title": "Social Media Marketing for Beginners 2021",
+            "author": "Michael , Branding"
+        },
+        {
+            "title": "Social Media Marketing Algorithms- Tiktok & Twitch",
+            "author": "Michael , Branding"
+        },
+        {
+            "title": "Social Media Marketing Algorithms For Beginners 2021 (2 in 1)",
+            "author": "Charli , D'Amelio"
+        },
+        {
+            "title": "Kunst mit Lana - Zeichnen mit dem TikTok-Star Lanaarts23",
+            "author": "Morgan , Rogers"
+        },
+        {
+            "title": "Die verschwindende H\u00e4lfte",
+            "author": "Evans Mary Ann Evans"
+        },
+        {
+            "title": "Gewitterleuchten",
+            "author": "Evans Mary Ann Evans"
+        },
+        {
+            "title": "Bis einer stirbt",
+            "author": "Evans Mary Ann Evans"
+        },
+        {
+            "title": "Eltern-Guide Social Media",
+            "author": "Evans Mary Ann Evans"
+        },
+        {
+            "title": "Renegades",
+            "author": "Toshikazu , Kawaguchi"
+        },
+        {
+            "title": "Dunbridge Academy - Anytime",
+            "author": "Christian , Montag"
+        },
+        {
+            "title": "Dunbridge Academy - Anyone",
+            "author": "Anne , Rice"
+        },
+        {
+            "title": "Dunbridge Academy - Anywhere",
+            "author": "Sophie , Gonzales"
+        },
+        {
+            "title": "Whitestone Hospital - Drowning Souls",
+            "author": "Holly , Black"
+        },
+        {
+            "title": "Boston Belles - Monster",
+            "author": "Colleen , Hoover"
+        },
+        {
+            "title": "Whitestone Hospital - High Hopes",
+            "author": "Mariana , Leky"
+        },
+        {
+            "title": "Das Tik-Tok Buch",
+            "author": "Michael , Branding"
+        },
+        {
+            "title": "Social Media Marketing",
+            "author": "Michael , Branding"
+        },
+        {
+            "title": "Social Media Marketing",
+            "author": "Michael , Branding"
+        },
+        {
+            "title": "Absolut Charli - Hinter den Kulissen",
+            "author": "Natasha , Ngan"
+        },
+        {
+            "title": "Honey Girl",
+            "author": "Michael , Terhaag & Christian , Schwarz"
+        },
+        {
+            "title": "Tiktok Social Media Video Tracker And Planner",
+            "author": "Beth , O'Leary"
+        },
+        {
+            "title": "Tiktok Social Media Video Tracker And Planner",
+            "author": "Thomas , Dobbelstein & Niklas , Walz"
+        },
+        {
+            "title": "Tiktok Social Media Video Tracker And Planner",
+            "author": "Emily , Houghton"
+        },
+        {
+            "title": "Tiktok Social Media Video Tracker And Planner",
+            "author": "Samson , Floyd"
+        },
+        {
+            "title": "Bevor der Kaffee kalt wird",
+            "author": "Brandon Smith"
+        },
+        {
+            "title": "Du geh\u00f6rst uns!",
+            "author": "Will Eagle"
+        },
+        {
+            "title": "Interview mit einem Vampir",
+            "author": "Anastasia , Olson"
+        },
+        {
+            "title": "Nur fast am Boden zerst\u00f6rt",
+            "author": "Bartmann"
+        },
+        {
+            "title": "Wie der K\u00f6nig von Elfenheim lernte, Geschichten zu hassen",
+            "author": "@Dieserdad & Tobias , B\u00fccklein"
+        },
+        {
+            "title": "Soon May The Wellerman Come",
+            "author": "Negah , Amiri"
+        },
+        {
+            "title": "Layla",
+            "author": "J Stay"
+        },
+        {
+            "title": "What You Can See From Here",
+            "author": "Mikki , Kendall"
+        },
+        {
+            "title": "Social Media Marketing for Beginners 2021",
+            "author": "Carrie Hope , Fletcher"
+        },
+        {
+            "title": "Social Media Marketing  2021",
+            "author": "Angelika , Sommer"
+        },
+        {
+            "title": "Social Media Marketing for Beginners 2021",
+            "author": "Angelika , Sommer"
+        },
+        {
+            "title": "Girls of Fate and Fury",
+            "author": "Brandon's , Business Guides"
+        },
+        {
+            "title": "Influencer-Marketing",
+            "author": "Brandon's Business , Guides"
+        },
+        {
+            "title": "The No-Show",
+            "author": "Chris Stokel-walker"
+        },
+        {
+            "title": "TikTok und Instagram",
+            "author": "Joe , Pulizzi"
+        },
+        {
+            "title": "Before I Saw You",
+            "author": "twenty4tim"
+        },
+        {
+            "title": "The TikTok Playbook; A 7-Day Roadtrip To Start Your Personal Brand As An Influencer On The Newest Social Media Platform",
+            "author": "Coupleontour"
+        },
+        {
+            "title": "Seo Mastery 2021",
+            "author": "Dalia"
+        },
+        {
+            "title": "Get Tiktok Famous Fast",
+            "author": "Tim Hendrik , Walter"
+        },
+        {
+            "title": "TikTok Marketing for Viral Sales",
+            "author": "Helen , Hoang"
+        },
+        {
+            "title": "Bartmanns geniale Englischstunde",
+            "author": "Holger , Volland"
+        },
+        {
+            "title": "TikTok, Snapchat und Instagram - Der Elternratgeber",
+            "author": "Jaron , Lanier"
+        },
+        {
+            "title": "Was Frauen denken, aber nicht sagen",
+            "author": "Lilly , Lucas"
+        },
+        {
+            "title": "Tiktok For Dummies",
+            "author": "Casey , McQuiston"
+        },
+        {
+            "title": "Hood Feminism",
+            "author": "L. J. , Shen"
+        },
+        {
+            "title": "With This Kiss",
+            "author": "L. J. , Shen"
+        },
+        {
+            "title": "Egirl Style Coloring Book",
+            "author": "Brandon's Business , Guides"
+        },
+        {
+            "title": "Egirl Style Coloring Book",
+            "author": "Brandon's , Business Guides"
+        },
+        {
+            "title": "Social Media Marketing for Business Mastery (3 in 1)",
+            "author": "Bethany , Clift"
+        },
+        {
+            "title": "Instagram And YouTube Marketing For Business",
+            "author": "Anna , Bailey"
+        },
+        {
+            "title": "Tiktok Boom",
+            "author": "Dave Jorgenson"
+        },
+        {
+            "title": "Content Inc.",
+            "author": "Paige , Toon"
+        },
+        {
+            "title": "Ein Eimer Farbe f\u00fcr dein Leben",
+            "author": "Jean Kyoung , Frazier"
+        },
+        {
+            "title": "Love on Tour",
+            "author": "Holly , Miller"
+        },
+        {
+            "title": "Keep going! 60 Sekunden Du",
+            "author": "George , Orwell"
+        },
+        {
+            "title": "#5MinutenJura",
+            "author": "George , Orwell"
+        },
+        {
+            "title": "The Kiss Quotient",
+            "author": "Michelle , Zauner"
+        },
+        {
+            "title": "Die Zukunft ist smart. Du auch?",
+            "author": "Sarah J. , Maas"
+        },
+        {
+            "title": "Wem geh\u00f6rt die Zukunft?",
+            "author": "Malcolm Croft"
+        },
+        {
+            "title": "New Chances",
+            "author": "Scholastic"
+        },
+        {
+            "title": "One Last Stop",
+            "author": "James , McBride"
+        },
+        {
+            "title": "Boston Belles - Villain",
+            "author": "C. D. Bangs"
+        },
+        {
+            "title": "Boston Belles - Hunter",
+            "author": "Marie Elisabeth , M\u00fcller & Devadas , Rajaram"
+        },
+        {
+            "title": "Instagram And YouTube Marketing For Business",
+            "author": "Ralph , Homuth"
+        },
+        {
+            "title": "Social Media Marketing for Business Mastery (3 in 1)",
+            "author": "Mona , Awad"
+        },
+        {
+            "title": "Last One at the Party",
+            "author": "Jen , Brister"
+        },
+        {
+            "title": "Influencer Marketing",
+            "author": "L. Frank , Baum"
+        },
+        {
+            "title": "Tall Bones",
+            "author": "Jana , Cr\u00e4mer"
+        },
+        {
+            "title": "Make A Tiktok Every Day",
+            "author": "Brit , Bennett"
+        },
+        {
+            "title": "Make A Tiktok Every Day",
+            "author": "Kyle , Brach"
+        },
+        {
+            "title": "Someone I Used to Know",
+            "author": "Kiley , Reid"
+        },
+        {
+            "title": "Pizza Girl",
+            "author": "Talia , Hibbert"
+        },
+        {
+            "title": "The Sight of You",
+            "author": "Sarah J. , Maas"
+        },
+        {
+            "title": "1984",
+            "author": "Jennifer L. , Armentrout"
+        },
+        {
+            "title": "Farm der Tiere",
+            "author": "Sarah , Hogle"
+        },
+        {
+            "title": "Crying in H Mart",
+            "author": "R. F. , Kuang"
+        },
+        {
+            "title": "Das Reich der sieben H\u00f6fe - Sterne und Schwerter",
+            "author": "Emily M. , Danforth"
+        },
+        {
+            "title": "Tiktok Famous - The Ultimate Fan Book",
+            "author": "Jia , Tolentino"
+        },
+        {
+            "title": "Tiktok: The Ultimate Unofficial Guide!",
+            "author": "Chanel , Miller"
+        },
+        {
+            "title": "Deacon King Kong",
+            "author": "Sarah J. , Maas"
+        },
+        {
+            "title": "Tiktok Stars",
+            "author": "Raffaella , Iannaccone"
+        },
+        {
+            "title": "Social Storytelling",
+            "author": "Hazel , Prior"
+        },
+        {
+            "title": "Vom Influencer zum Insolvenzer",
+            "author": "Erika , Vanacore"
+        },
+        {
+            "title": "Bunny",
+            "author": "Becky , Albertalli & Adam , Silvera"
+        },
+        {
+            "title": "The Other Mother",
+            "author": "Abigail Hing , Wen"
+        },
+        {
+            "title": "Kleine magische Geschichten von Oz",
+            "author": "Mona , Awad"
+        },
+        {
+            "title": "Unvergleichlich Du! 2. Wie du deine beste Freundin bleibst",
+            "author": "Helen , Hoang"
+        },
+        {
+            "title": "Die verschwindende H\u00e4lfte",
+            "author": "Alexandra , Christo"
+        },
+        {
+            "title": "Hacks for Tiktok: 150 Tips and Tricks for Editing and Posting Videos, Getting Likes, Keeping Your Fans Happy, and Making Money",
+            "author": "Madeline , Miller"
+        },
+        {
+            "title": "Such a Fun Age",
+            "author": "Sarah J. , Maas"
+        },
+        {
+            "title": "Kissing Chloe Brown",
+            "author": "Jana , Cr\u00e4mer"
+        },
+        {
+            "title": "Das Reich der Sieben H\u00f6fe - Flammen und Finsternis",
+            "author": "Colleen , Hoover"
+        },
+        {
+            "title": "Morgen lieb ich dich f\u00fcr immer",
+            "author": "Savannah , Brown"
+        },
+        {
+            "title": "Ist f\u00fcr immer nicht viel schlimmer?",
+            "author": "Roshani , Chokshi"
+        },
+        {
+            "title": "Im Zeichen der Mohnblume - Die Kaiserin",
+            "author": "Stella , Tack"
+        },
+        {
+            "title": "Plain Bad Heroines",
+            "author": "Gabby , Rivera"
+        },
+        {
+            "title": "Trick Mirror",
+            "author": "John , Green"
+        },
+        {
+            "title": "Know My Name",
+            "author": "L. F. Baum"
+        },
+        {
+            "title": "Crescent City 01 - Wenn das Dunkel erwacht",
+            "author": "Lyman Frank , Baum"
+        },
+        {
+            "title": "Fare Soldi Con TikTok: La Prima Guida Che Ti Insegna Dalla A alla Z Come Diventare Influencer Di Successo e Fare Business Con Il Social TikTo",
+            "author": "Emily , Crown"
+        },
+        {
+            "title": "Ellie and the Harpmaker",
+            "author": "Bianca , Iosivoni"
+        },
+        {
+            "title": "ANCHE TU PUOI FARCELA",
+            "author": "Helen , Hoang"
+        },
+        {
+            "title": "What If It's Us",
+            "author": "Helen , Hoang"
+        },
+        {
+            "title": "Loveboat, Taipei",
+            "author": "E. , Lockhart"
+        },
+        {
+            "title": "13 Ways of Looking at a Fat Girl",
+            "author": "Agustina , Bazterrica"
+        },
+        {
+            "title": "Heart Story",
+            "author": "Jo , Nesb\u00f8"
+        },
+        {
+            "title": "Elian und Lira - Das wilde Herz der See",
+            "author": "R. F. , Kuang"
+        },
+        {
+            "title": "Das Lied des Achill",
+            "author": "Oyinkan , Braithwaite"
+        },
+        {
+            "title": "Das Reich der sieben H\u00f6fe 1 - Dornen und Rosen",
+            "author": "Jennifer , Niven"
+        },
+        {
+            "title": "Unvergleichlich Du! 1. Wie du deine beste Freundin wirst",
+            "author": "Sarah , Stankewitz"
+        },
+        {
+            "title": "Verity",
+            "author": "Holly , Black"
+        },
+        {
+            "title": "The Things We Don't See",
+            "author": "Nina , Varela"
+        },
+        {
+            "title": "The Silvered Serpents",
+            "author": "Lucy , Dillon"
+        },
+        {
+            "title": "Night of Crowns, Band 2: K\u00e4mpf um dein Herz (TikTok-Trend Dark Academia: epische Romantasy von SPIEGEL-Bestsellerautorin Stella Tack)",
+            "author": "Erin , Morgenstern"
+        },
+        {
+            "title": "Juliet Takes a Breath",
+            "author": "Lilly , Lucas"
+        },
+        {
+            "title": "Looking for Alaska. Movie Tie-In",
+            "author": "L. C. , Rosen"
+        },
+        {
+            "title": "Ozma Of Oz - A Record Of Her Adventures With Dorothy Gale Of Kansas, The Yellow Hen, The Scarecrow, The Tin Woodman, Tiktok, The Cowardly Lion And The Hungry Tiger, Besides Other Good People Too Numerous To Mention Faithfully Recorded Herein",
+            "author": "Holly , Black"
+        },
+        {
+            "title": "Ozma Of Oz: A Record Of Her Adventures With Dorothy Gale Of Kansas, The Yellow Hen, The Scarecrow, The Tin Woodman, Tiktok, The Co",
+            "author": "James , Baldwin"
+        },
+        {
+            "title": "Songs of our past",
+            "author": "Paige , Toon"
+        },
+        {
+            "title": "Finding Back to Us",
+            "author": "Studio Press"
+        },
+        {
+            "title": "Kissing Lessons",
+            "author": "Adrienne , Young"
+        },
+        {
+            "title": "Love Challenge",
+            "author": "Iwan , Turgenjew"
+        },
+        {
+            "title": "Random Minis: We Were Liars",
+            "author": "Colleen , Hoover"
+        },
+        {
+            "title": "Wie die Schweine",
+            "author": "Sarah J. , Maas"
+        },
+        {
+            "title": "Macbeth",
+            "author": "Brigid , Kemmerer"
+        },
+        {
+            "title": "Im Zeichen der Mohnblume - Die Schamanin",
+            "author": "Franz , Kafka"
+        },
+        {
+            "title": "My Sister, the Serial Killer",
+            "author": "Adrienne , Young"
+        },
+        {
+            "title": "All the Bright Places",
+            "author": "Georgia , Hunter"
+        },
+        {
+            "title": "Perfectly Broken",
+            "author": "David , Grann"
+        },
+        {
+            "title": "ELFENK\u00d6NIG",
+            "author": "Emily , Danforth"
+        },
+        {
+            "title": "Crier's War",
+            "author": "Victoria , Aveyard"
+        },
+        {
+            "title": "Unexpected Lessons in Love",
+            "author": "Brit , Bennett"
+        },
+        {
+            "title": "The Starless Sea",
+            "author": "Christina , Lauren"
+        },
+        {
+            "title": "New Beginnings",
+            "author": "Taylor , Jenkins Reid"
+        },
+        {
+            "title": "Jack of Hearts (And Other Parts)",
+            "author": "Jasmine , Guillory"
+        },
+        {
+            "title": "ELFENKRONE",
+            "author": "Katherine , Arden"
+        },
+        {
+            "title": "If Beale Street Could Talk (Movie Tie-In)",
+            "author": "Maureen , Johnson"
+        },
+        {
+            "title": "One Perfect Christmas and Other Stories",
+            "author": "Colleen , Hoover"
+        },
+        {
+            "title": "What I Love About You",
+            "author": "Sarah J. , Maas"
+        },
+        {
+            "title": "Sky in the Deep",
+            "author": "Anne , Tyler"
+        },
+        {
+            "title": "Das Adelsgut",
+            "author": "Jill , Santopolo"
+        },
+        {
+            "title": "All Your Perfects",
+            "author": "Elle , Kennedy"
+        },
+        {
+            "title": "Das Reich der sieben H\u00f6fe 3 - Sterne und Schwerter",
+            "author": "Jennifer L. , Armentrout"
+        },
+        {
+            "title": "More Than We Can Tell",
+            "author": "Elle , Kennedy"
+        },
+        {
+            "title": "Das Schloss",
+            "author": "Sarah J. , Maas"
+        },
+        {
+            "title": "Sky in the Deep",
+            "author": "Elle , Kennedy"
+        },
+        {
+            "title": "We Were the Lucky Ones",
+            "author": "Elle , Kennedy"
+        },
+        {
+            "title": "Killers of the Flower Moon",
+            "author": "Bessel , Van der Kolk"
+        },
+        {
+            "title": "The Miseducation of Cameron Post",
+            "author": "Tahereh , Mafi"
+        },
+        {
+            "title": "Red Queen. Collector's Edition",
+            "author": "Colleen , Hoover"
+        }
+    ]
 }
