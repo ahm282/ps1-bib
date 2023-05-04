@@ -53,11 +53,11 @@ for title, author, cover in zip(books_titles, authors, cover_images):
     # next_page = soup.select_one(".c-pagination__link--nextprev--next")
 
     # if next_page != None:
-    #     url = "https://www.donner.nl" + next_page["href"]
-    #     res = requests.get(url)
+    #     URL = "https://www.donner.nl" + next_page["href"]
+    #     res = requests.get(URL)
     #     soup = BeautifulSoup(res.text, "lxml")
     # else:
-    #     url = None
+    #     URL = None
 
 books_dict = {"books":all_books}
 
