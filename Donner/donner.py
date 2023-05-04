@@ -1,7 +1,7 @@
 """
 This script collects book information from a Donner.nl shelf and cover images from Google Books API.
-The information collected includes: book titles (Donner.nl), author names (Donner.nl),
-and cover images (Google Books API). The data collected is then saved in a JSON file.
+The information collected includes: book titles (Donner.nl), author names (Donner.nl).
+The data collected is then saved in a JSON file.
 Additionally, this script implements error handling and logging to keep track
 of the information being processed.
 
