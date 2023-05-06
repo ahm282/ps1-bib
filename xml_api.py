@@ -63,6 +63,8 @@ for book in data['books']:
                         summary_elem = result.find('summaries/summary')
                         if summary_elem is not None:
                             book['summary'] = summary_elem.text
+                        else:
+                            book['summary'] = None
 
                         # Language
                         language_elem = result.find('languages/language')
@@ -79,7 +81,7 @@ for book in data['books']:
                         if series_elem is not None:
                             book['series'] = series_elem.text
                         else:
-                            book['series'] = "no"
+                            book['series'] = None
 
                         # Cover image URL
                         cover_elem = result.find('coverimages/coverimage')

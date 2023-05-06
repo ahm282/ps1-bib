@@ -66,17 +66,18 @@ a {
 .book-div {
     height: 100vh;
     scroll-snap-align: start;
-    
+
     display: flex;
     align-items: center;
     justify-content: center;
-    
+
     margin-top: 1em;
     margin-bottom: 1em;
-    
-    padding-top: 100px; /* Set padding top to the height of the sticky header */
+
+    padding-top: 100px;
+    /* Set padding top to the height of the sticky header */
     padding-bottom: 50px;
-    
+
     border-bottom: 2px solid #B3B3B3;
 }
 
@@ -121,9 +122,10 @@ footer {
     padding: 1em 0em;
     border-top: 2px solid #B3B3B3;
 }
+
 .blur {
     backdrop-filter: blur(5px);
-    background-color: rgba(0,0,0,0.5);
+    background-color: rgba(0, 0, 0, 0.5);
     z-index: 99;
 }
 
