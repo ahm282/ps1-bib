@@ -1,56 +1,127 @@
 fetch("api_books.json")
     .then((response) => response.json())
-    .then((data) => {
-        const booksContainer = document.querySelector("#books-container");
-        for (const book of data.books) {
-            const bookDiv = document.createElement("div");
+    .then((booksData) => {
+        fetch("availability.json")
+            .then((response) => response.json())
+            .then((availabilityData) => {
+                const booksContainer = document.querySelector("#books-container");
+                for (const book of booksData.books) {
+                    const bookDiv = document.createElement("div");
+                    bookDiv.classList.add("book-div");
 
-            const cover = document.createElement("img");
-            cover.classList.add("book-cover");
+                    const cover = document.createElement("img");
+                    cover.classList.add("book-cover");
 
-            cover.src = book.cover_image;
-            cover.alt = book.title;
-            bookDiv.appendChild(cover);
+                    cover.src = book.cover_image;
+                    cover.alt = book.title;
+                    bookDiv.appendChild(cover);
 
-            const infoDiv = document.createElement("div");
-            infoDiv.classList.add("book-info");
+                    const infoAvailabilityDiv = document.createElement("div");
+                    infoAvailabilityDiv.classList.add("book-info-availability");
 
-            const title = document.createElement("h3");
-            bookDiv.classList.add("book-div");
-            title.classList.add("book-title");
+                    const infoDiv = document.createElement("div");
+                    infoDiv.classList.add("book-info");
 
-            title.textContent = book.title + " (" + book.publication_date + ")";
-            infoDiv.appendChild(title);
+                    // Title
+                    const title = document.createElement("h2");
+                    title.classList.add("book-title");
+                    title.textContent = book.title + " (" + book.publication_date + ")";
+                    infoDiv.appendChild(title);
 
-            const author = document.createElement("p");
-            author.classList.add("book-author");
+                    // Author
+                    const author = document.createElement("h4");
+                    author.classList.add("book-author");
+                    author.textContent = book.author;
+                    infoDiv.appendChild(author);
 
-            author.textContent = book.author;
-            infoDiv.appendChild(author);
+                    // Genre
+                    if (book.genre !== null) {
+                        const genre = document.createElement("p");
+                        genre.classList.add("book-genre");
+                        genre.textContent = "Genre: " + book.genre;
+                        infoDiv.appendChild(genre);
+                    }
 
-            const genre = document.createElement("h3");
-            bookDiv.classList.add("book-div");
-            genre.classList.add("book-genre");
+                    // Language
+                    const language = document.createElement("p");
+                    language.classList.add("book-language");
+                    language.textContent = "Taal: " + book.language;
+                    infoDiv.appendChild(language);
 
-            genre.textContent = book.genre;
-            infoDiv.appendChild(genre);
+                    // Series
+                    if (book.series !== null) {
+                        const series = document.createElement("p");
+                        series.classList.add("book-language");
+                        series.textContent = "Series: " + book.series;
+                        infoDiv.appendChild(series);
+                    }
 
-            const language = document.createElement("h3");
-            bookDiv.classList.add("book-div");
-            language.classList.add("book-language");
+                    // Summary
+                    if (book.summary !== null) {
+                        const summary = document.createElement("p");
+                        summary.classList.add("book-summary");
+                        summary.textContent = book.summary;
+                        infoDiv.appendChild(summary);
+                    }
 
-            language.textContent = book.language;
-            infoDiv.appendChild(language);
+                    // Availability
+                    const availabilityDiv = document.createElement("div");
+                    availabilityDiv.classList.add("book-availability");
 
-            const summary = document.createElement("h3");
-            bookDiv.classList.add("book-div");
-            summary.classList.add("book-summary");
+                    if (availabilityData[book.title]) {
+                        // get library object
+                        const firstLocation = availabilityData[book.title].locations[0];
+                        const locationName = Object.keys(firstLocation)[0]; // get the name of the library location
+                        const locationData = firstLocation[locationName]; // get the object containing the location data
 
-            summary.textContent = book.summary;
-            infoDiv.appendChild(summary);
+                        // get status
+                        const status = document.createElement("p");
+                        status.classList.add("book-status");
+                        status.textContent = "Status: " + locationData.status;
+                        availabilityDiv.appendChild(status);
 
-            bookDiv.appendChild(infoDiv);
-            booksContainer.appendChild(bookDiv);
+                        // if status is !== "Aanwezig", get the due date
+                        if (
+                            locationData.status !== "Aanwezig" &&
+                            locationData.status !== "Niet beschikbaar"
+                        ) {
+                            // get due date
+                            const dueDate = document.createElement("p");
+                            dueDate.classList.add("book-due-date");
+                            dueDate.textContent = "Due date: " + locationData.due_date;
+                            availabilityDiv.appendChild(dueDate);
+                        }
 
-        }
+                        // get sublocation
+                        const sublocation = document.createElement("p");
+                        sublocation.classList.add("book-sublocation");
+                        sublocation.textContent = "Sublocation: " + locationData.sublocation;
+                        availabilityDiv.appendChild(sublocation);
+
+                        if (locationData.shelfmark !== null) {
+                            // get shelfmark
+                            const shelfmark = document.createElement("p");
+                            shelfmark.classList.add("book-shelfmark");
+                            shelfmark.textContent = "Shelfmark: " + locationData.shelfmark;
+                            availabilityDiv.appendChild(shelfmark);
+                        }
+                    } else {
+                        const notAvailable = document.createElement("p");
+                        notAvailable.classList.add("book-not-available");
+                        notAvailable.textContent = "Niet beschikbaar";
+                        availabilityDiv.appendChild(notAvailable);
+                    }
+
+                    // create div for info and availability
+                    const positioningDiv = document.createElement("div");
+                    positioningDiv.classList.add("positioning-div");
+
+                    positioningDiv.appendChild(infoDiv);
+                    positioningDiv.appendChild(availabilityDiv);
+
+                    infoAvailabilityDiv.appendChild(positioningDiv);
+                    bookDiv.appendChild(infoAvailabilityDiv);
+                    booksContainer.appendChild(bookDiv);
+                }
+            });
     });

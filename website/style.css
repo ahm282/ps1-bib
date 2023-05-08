@@ -24,7 +24,7 @@ header {
     left: 0;
     background-color: #111;
     width: 100%;
-    padding: 1em 0 0.5em 0;
+    padding-top: 0.5em;
     border-bottom: 2px solid #ffffdd;
 }
 
@@ -40,14 +40,6 @@ h1 {
     text-align: center;
 }
 
-h2 {
-    font-size: 1rem;
-    font-family: 'Open Sans', sans-serif;
-    margin-top: 0.75em;
-    margin-left: 0.5em;
-    color: #333;
-}
-
 a {
     color: #6EAFB5;
 }
@@ -58,21 +50,12 @@ a {
 }
 
 /* Books */
-/* 
-#books-container {
-
-} */
 
 .book-div {
     height: 100vh;
     scroll-snap-align: start;
 
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
-    margin-top: 1em;
-    margin-bottom: 1em;
+    display: relative;
 
     padding-top: 100px;
     /* Set padding top to the height of the sticky header */
@@ -81,35 +64,90 @@ a {
     border-bottom: 2px solid #B3B3B3;
 }
 
+.positioning-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+}
+
 .book-div:last-child {
     border-bottom: unset;
 }
 
 .book-cover {
-    margin-inline: 1em;
-    height: 65vh;
+    position: absolute;
+    left: 0;
+    right: 0;
+
+    margin: 0 auto;
+
+    height: 70vh;
+    width: 450px;
     max-width: 90%;
+
     border: 2px solid #ffffdd;
     border-radius: 7px;
 }
 
-.book-info {
-    margin-left: 0.5em;
+.book-info-availability {
+    position: absolute;
+    left: 0;
+    right: 0;
+
+    margin: 0 auto;
+    padding: 1em 1em;
+
+    height: 70vh;
+    width: 450px;
+    max-width: 90%;
+
+    color: #FAF9F6;
+    font-family: 'Open Sans', sans-serif;
+
+    /* background blur */
+    background-color: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(8px);
+    border-radius: 7px;
 }
 
 .book-title {
-    margin-top: 0.5em;
-    font-size: 1.25rem;
+    margin-top: 1em;
+    font-size: 1.75rem;
     padding-right: 0.3em;
     font-family: 'Montserrat', sans-serif;
-    color: #444;
+    color: #FAF9F6;
 }
 
 .book-author {
     margin-top: 0.5em;
-    font-family: 'Lora', serif;
-    color: #333;
+    font-family: 'Montserrat', serif;
+    font-size: 1rem;
     font-style: italic;
+}
+
+.book-genre {
+    margin: 1em 0 1em 0;
+}
+
+.book-language {
+    margin: 0 0 1em 0;
+}
+
+.book-summary {
+    font-size: 1rem;
+}
+
+.book-availability {
+    padding: 0.5em 0;
+}
+
+.book-status,
+.book-due-date,
+.book-sublocation,
+.book-shelfmark {
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
 }
 
 footer {
@@ -121,15 +159,4 @@ footer {
     text-align: center;
     padding: 1em 0em;
     border-top: 2px solid #B3B3B3;
-}
-
-.blur {
-    backdrop-filter: blur(5px);
-    background-color: rgba(0, 0, 0, 0.5);
-    z-index: 99;
-}
-
-.dateTitle {
-    background-color: hotpink;
-    display: flex;
 }
