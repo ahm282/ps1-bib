@@ -1,4 +1,175 @@
 {
+    "De onschuld": {
+        "locations": [
+            {
+                "Bibliotheek Elsschot (Antwerpen)": {
+                    "status": "Niet beschikbaar",
+                    "sublocation": "Nederlandstalig",
+                    "shelfmark": "[V] CHEV",
+                    "specimen_count": 1
+                }
+            },
+            {
+                "Bibliotheek Hoboken (Hoboken)": {
+                    "status": "Aanwezig",
+                    "sublocation": "Nederlandstalig",
+                    "shelfmark": "CHEV",
+                    "specimen_count": 1
+                }
+            },
+            {
+                "Bibliotheek Luchtbal (Antwerpen)": {
+                    "status": "Aanwezig",
+                    "sublocation": "Nederlandstalig",
+                    "shelfmark": "CHEV",
+                    "specimen_count": 1
+                }
+            },
+            {
+                "Bibliotheek Sint-Andries (Antwerpen)": {
+                    "status": "Aanwezig",
+                    "sublocation": "Nederlandstalig",
+                    "shelfmark": "CHEV",
+                    "specimen_count": 1
+                }
+            },
+            {
+                "Centrale": {
+                    "status": "Aanwezig",
+                    "sublocation": "Bibpunt - fictie volwassenen",
+                    "shelfmark": "CHEV",
+                    "specimen_count": 1
+                }
+            }
+        ],
+        "frabl": "7309DE3F47F1ACA0"
+    },
+    "Kom hier dat ik u kus": {
+        "locations": [
+            {
+                "Bibliotheek Permeke (Antwerpen)": {
+                    "status": "Aanwezig",
+                    "sublocation": "Nederlandstalig",
+                    "shelfmark": "OPDE",
+                    "due_date": "30-05-2023",
+                    "specimen_count": 4
+                }
+            },
+            {
+                "Bibliotheek Arena (Deurne)": {
+                    "status": "2 items aanwezig",
+                    "sublocation": "Nederlandstalig",
+                    "shelfmark": "OPDE",
+                    "specimen_count": 2
+                }
+            },
+            {
+                "Bibliotheek Bist (Wilrijk)": {
+                    "status": "Aanwezig",
+                    "due_date": "20-05-2023",
+                    "sublocation": "Nederlandstalig",
+                    "shelfmark": "OPDE",
+                    "specimen_count": 2
+                }
+            },
+            {
+                "Bibliotheek Brederode (Antwerpen)": {
+                    "status": "Niet beschikbaar",
+                    "sublocation": "Nederlandstalig",
+                    "shelfmark": "OPDE",
+                    "specimen_count": 2
+                }
+            },
+            {
+                "Bibliotheek Couwelaar (Deurne)": {
+                    "status": "Op transport",
+                    "due_date": "23-05-2023",
+                    "sublocation": "Nederlandstalig",
+                    "shelfmark": "OPDE",
+                    "specimen_count": 3
+                }
+            },
+            {
+                "Bibliotheek De Poort (Berchem)": {
+                    "status": "Uitgeleend",
+                    "sublocation": "Nederlandstalig",
+                    "shelfmark": "OPDE",
+                    "due_date": "18-04-2023",
+                    "specimen_count": 2
+                }
+            },
+            {
+                "Bibliotheek Driehoek (Ekeren)": {
+                    "status": "2 items aanwezig",
+                    "due_date": "24-05-2023",
+                    "sublocation": "Nederlandstalig",
+                    "shelfmark": "OPDE",
+                    "specimen_count": 2
+                }
+            },
+            {
+                "Bibliotheek Elsschot (Antwerpen)": {
+                    "status": "Aanwezig",
+                    "due_date": "01-06-2023",
+                    "sublocation": "Nederlandstalig",
+                    "shelfmark": "[V] OPDE",
+                    "specimen_count": 2
+                }
+            },
+            {
+                "Bibliotheek Hoboken (Hoboken)": {
+                    "status": "Uitgeleend",
+                    "sublocation": "Nederlandstalig",
+                    "shelfmark": "OPDE",
+                    "due_date": "10-05-2023",
+                    "specimen_count": 2
+                }
+            },
+            {
+                "Bibliotheek Kielpark (Antwerpen)": {
+                    "status": "Aanwezig",
+                    "sublocation": "Nederlandstalig",
+                    "shelfmark": "OPDE",
+                    "specimen_count": 1
+                }
+            },
+            {
+                "Bibliotheek Park (Merksem)": {
+                    "status": "Uitgeleend",
+                    "due_date": "19-05-2023",
+                    "sublocation": "Nederlandstalig",
+                    "shelfmark": "OPDE",
+                    "specimen_count": 1
+                }
+            },
+            {
+                "Bibliotheek Sint-Andries (Antwerpen)": {
+                    "status": "Aanwezig",
+                    "sublocation": "Nederlandstalig",
+                    "shelfmark": "OPDE",
+                    "specimen_count": 2
+                }
+            },
+            {
+                "Bibliotheek Viswater (Berendrecht)": {
+                    "status": "Aanwezig",
+                    "sublocation": "Nederlandstalig",
+                    "shelfmark": "OPDE",
+                    "specimen_count": 1
+                }
+            },
+            {
+                "Centrale": {
+                    "status": "Uitgeleend",
+                    "sublocation": "Bibpunt - fictie volwassenen",
+                    "shelfmark": "OPDE",
+                    "due_date": "16-04-2019",
+                    "specimen_count": 2
+                }
+            }
+        ],
+        "frabl": "6CFB0C7DF3F1ACA0"
+    },
     "Oma boef": {
         "locations": [
             {
@@ -22,7 +193,7 @@
             {
                 "Bibliotheek Bist (Wilrijk)": {
                     "status": "Uitgeleend",
-                    "due_date": "10-05-2023",
+                    "due_date": "10-06-2023",
                     "sublocation": "Nederlandstalige jeugdfictie (9-11 jaar)",
                     "shelfmark": "WALL",
                     "specimen_count": 1
@@ -57,7 +228,7 @@
             },
             {
                 "Bibliotheek Luchtbal (Antwerpen)": {
-                    "status": "Aanwezig",
+                    "status": "Op transport",
                     "due_date": "22-06-2023",
                     "sublocation": "Nederlandstalige jeugdfictie (9-11 jaar)",
                     "shelfmark": "WALL",
@@ -123,9 +294,9 @@
             {
                 "Bibliotheek Driehoek (Ekeren)": {
                     "status": "Uitgeleend",
-                    "due_date": "31-05-2023",
                     "sublocation": "Nederlandstalig",
                     "shelfmark": "HOOV",
+                    "due_date": "31-05-2023",
                     "specimen_count": 2
                 }
             },
@@ -149,7 +320,7 @@
             },
             {
                 "Bibliotheek Kielpark (Antwerpen)": {
-                    "status": "Gereserveerd",
+                    "status": "Aanwezig",
                     "sublocation": "Nederlandstalig",
                     "shelfmark": "HOOV",
                     "specimen_count": 1
@@ -214,7 +385,7 @@
             },
             {
                 "Bibliotheek Bist (Wilrijk)": {
-                    "status": "Op transport",
+                    "status": "Aanwezig",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar) ",
                     "shelfmark": "GLAS",
                     "specimen_count": 1
@@ -240,7 +411,8 @@
             },
             {
                 "Bibliotheek Driehoek (Ekeren)": {
-                    "status": "Aanwezig",
+                    "status": "Uitgeleend",
+                    "due_date": "01-07-2023",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar) ",
                     "shelfmark": "GLAS",
                     "specimen_count": 1
@@ -248,7 +420,7 @@
             },
             {
                 "Bibliotheek Elsschot (Antwerpen)": {
-                    "status": "Op transport",
+                    "status": "Gereserveerd",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar) ",
                     "shelfmark": "GLAS",
                     "specimen_count": 1
@@ -266,7 +438,7 @@
             {
                 "Bibliotheek Park (Merksem)": {
                     "status": "Uitgeleend",
-                    "due_date": "03-05-2023",
+                    "due_date": "15-06-2023",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar) ",
                     "shelfmark": "GLAS",
                     "specimen_count": 1
@@ -306,7 +478,8 @@
             },
             {
                 "Bibliotheek Brederode (Antwerpen)": {
-                    "status": "Op transport",
+                    "status": "Uitgeleend",
+                    "due_date": "15-06-2023",
                     "sublocation": "Nederlandstalig",
                     "shelfmark": "HOOV",
                     "specimen_count": 1
@@ -323,7 +496,7 @@
             {
                 "Bibliotheek De Poort (Berchem)": {
                     "status": "Uitgeleend",
-                    "due_date": "28-04-2023",
+                    "due_date": "26-05-2023",
                     "sublocation": "Nederlandstalig",
                     "shelfmark": "HOOV",
                     "specimen_count": 1
@@ -392,7 +565,8 @@
             },
             {
                 "Bibliotheek Viswater (Berendrecht)": {
-                    "status": "Op transport",
+                    "status": "Uitgeleend",
+                    "due_date": "13-06-2023",
                     "sublocation": "Nederlandstalig",
                     "shelfmark": "HOOV",
                     "specimen_count": 1
@@ -424,7 +598,7 @@
             {
                 "Bibliotheek Bist (Wilrijk)": {
                     "status": "Uitgeleend",
-                    "due_date": "16-02-2023",
+                    "due_date": "13-06-2023",
                     "sublocation": "Adolescentenafdeling anderstalig Engels",
                     "shelfmark": "JACK",
                     "specimen_count": 2
@@ -441,7 +615,8 @@
             },
             {
                 "Bibliotheek De Poort (Berchem)": {
-                    "status": "Aanwezig",
+                    "status": "Uitgeleend",
+                    "due_date": "14-06-2023",
                     "sublocation": "Adolescentenafdeling anderstalig Engels",
                     "shelfmark": "JACK 1",
                     "specimen_count": 1
@@ -450,7 +625,6 @@
             {
                 "Bibliotheek Hoboken (Hoboken)": {
                     "status": "Aanwezig",
-                    "due_date": "25-05-2023",
                     "sublocation": "Adolescentenafdeling anderstalig Engels",
                     "shelfmark": "JACK 1",
                     "specimen_count": 2
@@ -472,15 +646,17 @@
         "locations": [
             {
                 "Bibliotheek Permeke (Antwerpen)": {
-                    "status": "Gereserveerd",
+                    "status": "Uitgeleend",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar)",
                     "shelfmark": "JACK 1",
+                    "due_date": "13-06-2023",
                     "specimen_count": 2
                 }
             },
             {
                 "Bibliotheek Arena (Deurne)": {
-                    "status": "Aanwezig",
+                    "status": "Uitgeleend",
+                    "due_date": "10-06-2023",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar)",
                     "shelfmark": "JACK 1",
                     "specimen_count": 1
@@ -497,7 +673,7 @@
             },
             {
                 "Bibliotheek Brederode (Antwerpen)": {
-                    "status": "Op transport",
+                    "status": "Aanwezig",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar)",
                     "shelfmark": "JACK 1",
                     "specimen_count": 1
@@ -506,9 +682,9 @@
             {
                 "Bibliotheek Couwelaar (Deurne)": {
                     "status": "Uitgeleend",
-                    "due_date": "01-06-2023",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar)",
                     "shelfmark": "JACK 1",
+                    "due_date": "01-06-2023",
                     "specimen_count": 2
                 }
             },
@@ -540,7 +716,8 @@
             },
             {
                 "Bibliotheek Hoboken (Hoboken)": {
-                    "status": "Aanwezig",
+                    "status": "Uitgeleend",
+                    "due_date": "16-06-2023",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar)",
                     "shelfmark": "JACK 1",
                     "specimen_count": 2
@@ -583,7 +760,8 @@
             },
             {
                 "Bibliotheek Viswater (Berendrecht)": {
-                    "status": "Aanwezig",
+                    "status": "Uitgeleend",
+                    "due_date": "14-06-2023",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar)",
                     "shelfmark": "JACK 1",
                     "specimen_count": 1
@@ -630,8 +808,7 @@
             },
             {
                 "Bibliotheek Hoboken (Hoboken)": {
-                    "status": "Uitgeleend",
-                    "due_date": "18-04-2023",
+                    "status": "Op transport",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar)",
                     "shelfmark": "MAFI",
                     "specimen_count": 1
@@ -644,10 +821,9 @@
         "locations": [
             {
                 "Bibliotheek Permeke (Antwerpen)": {
-                    "status": "Uitgeleend",
+                    "status": "Niet beschikbaar",
                     "sublocation": "Nederlandstalig",
                     "shelfmark": "REID",
-                    "due_date": "11-05-2023",
                     "specimen_count": 3
                 }
             },
@@ -704,7 +880,8 @@
             },
             {
                 "Bibliotheek Hoboken (Hoboken)": {
-                    "status": "Gereserveerd",
+                    "status": "Uitgeleend",
+                    "due_date": "13-06-2023",
                     "sublocation": "Nederlandstalig",
                     "shelfmark": "REID",
                     "specimen_count": 1
@@ -712,8 +889,7 @@
             },
             {
                 "Bibliotheek Kielpark (Antwerpen)": {
-                    "status": "Uitgeleend",
-                    "due_date": "10-05-2023",
+                    "status": "Op transport",
                     "sublocation": "Nederlandstalig",
                     "shelfmark": "REID",
                     "specimen_count": 1
@@ -783,8 +959,7 @@
                     "status": "Niet beschikbaar",
                     "sublocation": "Anderstalige literatuur Engels",
                     "shelfmark": "HOOV",
-                    "due_date": "25-05-2023",
-                    "specimen_count": 3
+                    "specimen_count": 2
                 }
             },
             {
@@ -823,7 +998,8 @@
             },
             {
                 "Bibliotheek Luchtbal (Antwerpen)": {
-                    "status": "Aanwezig",
+                    "status": "Uitgeleend",
+                    "due_date": "10-06-2023",
                     "sublocation": "Adolescentenafdeling anderstalig Engels",
                     "shelfmark": "HOOV",
                     "specimen_count": 1
@@ -831,10 +1007,11 @@
             },
             {
                 "Bibliotheek Park (Merksem)": {
-                    "status": "2 items uitgeleend",
+                    "status": "Aanwezig",
+                    "due_date": "14-06-2023",
                     "sublocation": "Adolescentenafdeling anderstalig Engels",
                     "shelfmark": "HOOV",
-                    "specimen_count": 1
+                    "specimen_count": 2
                 }
             },
             {
@@ -870,7 +1047,7 @@
             {
                 "Bibliotheek De Poort (Berchem)": {
                     "status": "Uitgeleend",
-                    "due_date": "06-05-2023",
+                    "due_date": "27-05-2023",
                     "sublocation": "Adolescentenafdeling anderstalig Engels",
                     "shelfmark": "JACK 2",
                     "specimen_count": 1
@@ -901,7 +1078,8 @@
         "locations": [
             {
                 "Bibliotheek Permeke (Antwerpen)": {
-                    "status": "Aanwezig",
+                    "status": "Uitgeleend",
+                    "due_date": "11-06-2023",
                     "sublocation": "ZIZO-Volwassenen : Kunst",
                     "shelfmark": "ROSA",
                     "specimen_count": 1
@@ -940,7 +1118,7 @@
             {
                 "Bibliotheek De Poort (Berchem)": {
                     "status": "Uitgeleend",
-                    "due_date": "06-05-2023",
+                    "due_date": "27-05-2023",
                     "sublocation": "Adolescentenafdeling anderstalig Engels",
                     "shelfmark": "JACK 3",
                     "specimen_count": 1
@@ -1011,7 +1189,7 @@
             },
             {
                 "Bibliotheek Kielpark (Antwerpen)": {
-                    "status": "Gereserveerd",
+                    "status": "Aanwezig",
                     "sublocation": "Anderstalige literatuur Engels",
                     "shelfmark": "HAZE",
                     "specimen_count": 1
@@ -1041,10 +1219,10 @@
         "locations": [
             {
                 "Bibliotheek Permeke (Antwerpen)": {
-                    "status": "Uitgeleend",
+                    "status": "Aanwezig",
+                    "due_date": "10-06-2023",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar) ",
                     "shelfmark": "BLAC",
-                    "due_date": "06-05-2023",
                     "specimen_count": 2
                 }
             },
@@ -1126,11 +1304,10 @@
         "locations": [
             {
                 "Bibliotheek Permeke (Antwerpen)": {
-                    "status": "Aanwezig",
-                    "due_date": "22-02-2023",
+                    "status": "2 items uitgeleend",
                     "sublocation": "Nederlandstalig",
                     "shelfmark": "HOOV",
-                    "specimen_count": 2
+                    "specimen_count": 1
                 }
             },
             {
@@ -1161,8 +1338,7 @@
             },
             {
                 "Bibliotheek Driehoek (Ekeren)": {
-                    "status": "Uitgeleend",
-                    "due_date": "06-06-2023",
+                    "status": "Aanwezig",
                     "sublocation": "Nederlandstalig",
                     "shelfmark": "HOOV",
                     "specimen_count": 1
@@ -1179,8 +1355,7 @@
             },
             {
                 "Bibliotheek Park (Merksem)": {
-                    "status": "Uitgeleend",
-                    "due_date": "03-05-2023",
+                    "status": "Aanwezig",
                     "sublocation": "Nederlandstalig",
                     "shelfmark": "HOOV",
                     "specimen_count": 1
@@ -1329,15 +1504,16 @@
         "locations": [
             {
                 "Bibliotheek Permeke (Antwerpen)": {
-                    "status": "3 items uitgeleend",
+                    "status": "2 items uitgeleend",
                     "sublocation": "Nederlandstalig",
                     "shelfmark": "REID",
-                    "specimen_count": 1
+                    "specimen_count": 2
                 }
             },
             {
                 "Bibliotheek Arena (Deurne)": {
-                    "status": "Aanwezig",
+                    "status": "Uitgeleend",
+                    "due_date": "14-06-2023",
                     "sublocation": "Nederlandstalig",
                     "shelfmark": "REID",
                     "specimen_count": 1
@@ -1396,7 +1572,7 @@
             },
             {
                 "Centrale": {
-                    "status": "Aanwezig",
+                    "status": "Gereserveerd",
                     "sublocation": "Nederlandstalig",
                     "shelfmark": "REID",
                     "specimen_count": 1
@@ -1484,7 +1660,8 @@
             },
             {
                 "Bibliotheek Arena (Deurne)": {
-                    "status": "Aanwezig",
+                    "status": "Uitgeleend",
+                    "due_date": "10-06-2023",
                     "sublocation": "Adolescentenafdeling",
                     "shelfmark": "E MCMA",
                     "specimen_count": 2
@@ -1502,9 +1679,9 @@
             {
                 "Bibliotheek De Poort (Berchem)": {
                     "status": "Uitgeleend",
-                    "due_date": "26-05-2023",
                     "sublocation": "Adolescentenafdeling",
                     "shelfmark": "E MCMA",
+                    "due_date": "26-05-2023",
                     "specimen_count": 2
                 }
             },
@@ -1559,16 +1736,17 @@
         "locations": [
             {
                 "Bibliotheek Permeke (Antwerpen)": {
-                    "status": "Aanwezig",
-                    "due_date": "07-05-2023",
+                    "status": "2 items uitgeleend",
+                    "due_date": "14-05-2023",
                     "sublocation": "Nederlandstalig",
                     "shelfmark": "MILL",
-                    "specimen_count": 4
+                    "specimen_count": 3
                 }
             },
             {
                 "Bibliotheek Arena (Deurne)": {
-                    "status": "Aanwezig",
+                    "status": "Uitgeleend",
+                    "due_date": "14-06-2023",
                     "sublocation": "Nederlandstalig",
                     "shelfmark": "MILL",
                     "specimen_count": 1
@@ -1576,7 +1754,7 @@
             },
             {
                 "Bibliotheek Bist (Wilrijk)": {
-                    "status": "Gereserveerd",
+                    "status": "Aanwezig",
                     "sublocation": "Nederlandstalig",
                     "shelfmark": "MILL",
                     "specimen_count": 1
@@ -1704,7 +1882,7 @@
         "locations": [
             {
                 "Bibliotheek Permeke (Antwerpen)": {
-                    "status": "2 items uitgeleend",
+                    "status": "2 items op transport",
                     "sublocation": "Adolescentenafdeling anderstalig Engels",
                     "shelfmark": "HOOV",
                     "specimen_count": 1
@@ -1712,7 +1890,7 @@
             },
             {
                 "Bibliotheek Hoboken (Hoboken)": {
-                    "status": "2 items uitgeleend",
+                    "status": "2 items op transport",
                     "sublocation": "Adolescentenafdeling anderstalig Engels",
                     "shelfmark": "HOOV",
                     "specimen_count": 1
@@ -1720,7 +1898,7 @@
             },
             {
                 "Centrale": {
-                    "status": "2 items uitgeleend",
+                    "status": "2 items op transport",
                     "sublocation": "Wisselfonds Engelstalige literatuur Engels",
                     "shelfmark": "HOOV",
                     "specimen_count": 1
@@ -1751,8 +1929,7 @@
             },
             {
                 "Bibliotheek Couwelaar (Deurne)": {
-                    "status": "Uitgeleend",
-                    "due_date": "29-04-2023",
+                    "status": "Aanwezig",
                     "sublocation": "Adolescentenafdeling anderstalig Engels",
                     "shelfmark": "SILV",
                     "specimen_count": 1
@@ -1761,7 +1938,7 @@
             {
                 "Bibliotheek De Poort (Berchem)": {
                     "status": "Uitgeleend",
-                    "due_date": "09-05-2023",
+                    "due_date": "30-05-2023",
                     "sublocation": "Adolescentenafdeling anderstalig Engels",
                     "shelfmark": "SILV",
                     "specimen_count": 1
@@ -1796,7 +1973,7 @@
             {
                 "Bibliotheek Kielpark (Antwerpen)": {
                     "status": "Uitgeleend",
-                    "due_date": "04-05-2023",
+                    "due_date": "25-05-2023",
                     "sublocation": "Adolescentenafdeling anderstalig Engels",
                     "shelfmark": "SILV",
                     "specimen_count": 1
@@ -1812,8 +1989,7 @@
             },
             {
                 "Bibliotheek Park (Merksem)": {
-                    "status": "Uitgeleend",
-                    "due_date": "02-05-2023",
+                    "status": "Aanwezig",
                     "sublocation": "Adolescentenafdeling anderstalig Engels",
                     "shelfmark": "SILV",
                     "specimen_count": 1
@@ -1961,7 +2137,7 @@
             {
                 "Bibliotheek Driehoek (Ekeren)": {
                     "status": "Uitgeleend",
-                    "due_date": "05-05-2023",
+                    "due_date": "16-06-2023",
                     "sublocation": "Anderstalige literatuur ",
                     "shelfmark": "ARMA",
                     "specimen_count": 1
@@ -2008,8 +2184,7 @@
             },
             {
                 "Bibliotheek Bist (Wilrijk)": {
-                    "status": "Uitgeleend",
-                    "due_date": "06-05-2023",
+                    "status": "Aanwezig",
                     "sublocation": "Anderstalige literatuur Engels",
                     "shelfmark": "HAIG",
                     "specimen_count": 1
@@ -2026,8 +2201,7 @@
             },
             {
                 "Bibliotheek De Poort (Berchem)": {
-                    "status": "Uitgeleend",
-                    "due_date": "04-05-2023",
+                    "status": "Aanwezig",
                     "sublocation": "Anderstalige literatuur Engels",
                     "shelfmark": "HAIG",
                     "specimen_count": 1
@@ -2092,7 +2266,8 @@
             },
             {
                 "Bibliotheek Park (Merksem)": {
-                    "status": "Aanwezig",
+                    "status": "Uitgeleend",
+                    "due_date": "10-06-2023",
                     "sublocation": "Adolescentenafdeling anderstalig Engels",
                     "shelfmark": "GONG 1",
                     "specimen_count": 1
@@ -2245,8 +2420,7 @@
             },
             {
                 "Bibliotheek Brederode (Antwerpen)": {
-                    "status": "Uitgeleend",
-                    "due_date": "09-05-2023",
+                    "status": "Aanwezig",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar)",
                     "shelfmark": "JACK",
                     "specimen_count": 1
@@ -2254,8 +2428,7 @@
             },
             {
                 "Bibliotheek Couwelaar (Deurne)": {
-                    "status": "Uitgeleend",
-                    "due_date": "30-05-2023",
+                    "status": "Op transport",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar)",
                     "shelfmark": "JACK",
                     "specimen_count": 1
@@ -2271,8 +2444,7 @@
             },
             {
                 "Bibliotheek Driehoek (Ekeren)": {
-                    "status": "Uitgeleend",
-                    "due_date": "29-04-2023",
+                    "status": "Aanwezig",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar)",
                     "shelfmark": "JACK",
                     "specimen_count": 1
@@ -2316,7 +2488,7 @@
             {
                 "Bibliotheek Park (Merksem)": {
                     "status": "Uitgeleend",
-                    "due_date": "10-05-2023",
+                    "due_date": "31-05-2023",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar)",
                     "shelfmark": "JACK",
                     "specimen_count": 1
@@ -2363,8 +2535,7 @@
             },
             {
                 "Bibliotheek Bist (Wilrijk)": {
-                    "status": "Uitgeleend",
-                    "due_date": "09-05-2023",
+                    "status": "Aanwezig",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar)",
                     "shelfmark": "MCMA",
                     "specimen_count": 1
@@ -2380,7 +2551,7 @@
             },
             {
                 "Bibliotheek Couwelaar (Deurne)": {
-                    "status": "Op transport",
+                    "status": "Aanwezig",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar)",
                     "shelfmark": "MCMA",
                     "specimen_count": 1
@@ -2438,8 +2609,7 @@
             },
             {
                 "Bibliotheek Park (Merksem)": {
-                    "status": "Uitgeleend",
-                    "due_date": "19-05-2023",
+                    "status": "Aanwezig",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar)",
                     "shelfmark": "MCMA",
                     "specimen_count": 1
@@ -2478,7 +2648,7 @@
             {
                 "Bibliotheek Permeke (Antwerpen)": {
                     "status": "Uitgeleend",
-                    "due_date": "04-05-2023",
+                    "due_date": "25-05-2023",
                     "sublocation": "Adolescentenafdeling anderstalig Engels",
                     "shelfmark": "THAO",
                     "specimen_count": 1
@@ -2508,7 +2678,8 @@
         "locations": [
             {
                 "Bibliotheek Permeke (Antwerpen)": {
-                    "status": "Aanwezig",
+                    "status": "Uitgeleend",
+                    "due_date": "14-06-2023",
                     "sublocation": "Nederlandstalig",
                     "shelfmark": "HOOV",
                     "specimen_count": 1
@@ -2517,7 +2688,7 @@
             {
                 "Bibliotheek Bist (Wilrijk)": {
                     "status": "Uitgeleend",
-                    "due_date": "19-05-2023",
+                    "due_date": "16-06-2023",
                     "sublocation": "Nederlandstalig",
                     "shelfmark": "HOOV",
                     "specimen_count": 1
@@ -2533,8 +2704,7 @@
             },
             {
                 "Bibliotheek De Poort (Berchem)": {
-                    "status": "Uitgeleend",
-                    "due_date": "10-05-2023",
+                    "status": "Aanwezig",
                     "sublocation": "Nederlandstalig",
                     "shelfmark": "HOOV",
                     "specimen_count": 1
@@ -2542,8 +2712,7 @@
             },
             {
                 "Bibliotheek Driehoek (Ekeren)": {
-                    "status": "Uitgeleend",
-                    "due_date": "03-05-2023",
+                    "status": "Aanwezig",
                     "sublocation": "Nederlandstalig",
                     "shelfmark": "HOOV",
                     "specimen_count": 1
@@ -2569,7 +2738,8 @@
             },
             {
                 "Bibliotheek Kielpark (Antwerpen)": {
-                    "status": "Gereserveerd",
+                    "status": "Uitgeleend",
+                    "due_date": "13-06-2023",
                     "sublocation": "Nederlandstalig",
                     "shelfmark": "HOOV",
                     "specimen_count": 1
@@ -2625,7 +2795,8 @@
         "locations": [
             {
                 "Bibliotheek Arena (Deurne)": {
-                    "status": "Aanwezig",
+                    "status": "Uitgeleend",
+                    "due_date": "14-06-2023",
                     "sublocation": "Adolescentenafdeling anderstalig Engels",
                     "shelfmark": "MCQU",
                     "specimen_count": 1
@@ -2650,7 +2821,7 @@
             },
             {
                 "Bibliotheek Vrede (Borgerhout)": {
-                    "status": "Aanwezig",
+                    "status": "Gereserveerd",
                     "sublocation": "Adolescentenafdeling anderstalig Engels",
                     "shelfmark": "MCQU",
                     "specimen_count": 1
@@ -2725,8 +2896,7 @@
             },
             {
                 "Bibliotheek Park (Merksem)": {
-                    "status": "Uitgeleend",
-                    "due_date": "04-05-2023",
+                    "status": "Aanwezig",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar)",
                     "shelfmark": "BLAC",
                     "specimen_count": 1
@@ -2963,7 +3133,7 @@
             {
                 "Bibliotheek Permeke (Antwerpen)": {
                     "status": "Uitgeleend",
-                    "due_date": "17-05-2023",
+                    "due_date": "14-06-2023",
                     "sublocation": "Anderstalige literatuur Engels",
                     "shelfmark": "E MCMA",
                     "specimen_count": 1
@@ -3088,8 +3258,7 @@
             },
             {
                 "Bibliotheek De Poort (Berchem)": {
-                    "status": "Uitgeleend",
-                    "due_date": "02-06-2023",
+                    "status": "Niet beschikbaar",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar)",
                     "shelfmark": "BARN",
                     "specimen_count": 1
@@ -3186,7 +3355,7 @@
             },
             {
                 "Bibliotheek Couwelaar (Deurne)": {
-                    "status": "Op transport",
+                    "status": "Aanwezig",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar)",
                     "shelfmark": "KLUN",
                     "specimen_count": 1
@@ -3268,7 +3437,8 @@
             },
             {
                 "Bibliotheek Vrede (Borgerhout)": {
-                    "status": "Aanwezig",
+                    "status": "Uitgeleend",
+                    "due_date": "10-06-2023",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar)",
                     "shelfmark": "KLUN",
                     "specimen_count": 1
@@ -3282,7 +3452,7 @@
             {
                 "Bibliotheek Permeke (Antwerpen)": {
                     "status": "Uitgeleend",
-                    "due_date": "08-06-2023",
+                    "due_date": "29-06-2023",
                     "sublocation": "Nederlandstalig",
                     "shelfmark": "LEON",
                     "specimen_count": 1
@@ -3328,10 +3498,10 @@
         "locations": [
             {
                 "Bibliotheek Permeke (Antwerpen)": {
-                    "status": "Aanwezig",
-                    "due_date": "26-04-2023",
+                    "status": "Uitgeleend",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar)",
                     "shelfmark": "MCMA",
+                    "due_date": "10-06-2023",
                     "specimen_count": 2
                 }
             },
@@ -3492,8 +3662,7 @@
             },
             {
                 "Bibliotheek De Poort (Berchem)": {
-                    "status": "Uitgeleend",
-                    "due_date": "04-05-2023",
+                    "status": "Aanwezig",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar)",
                     "shelfmark": "BLAC",
                     "specimen_count": 1
@@ -3501,8 +3670,7 @@
             },
             {
                 "Bibliotheek Driehoek (Ekeren)": {
-                    "status": "Uitgeleend",
-                    "due_date": "01-06-2023",
+                    "status": "Aanwezig",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar)",
                     "shelfmark": "BLAC",
                     "specimen_count": 1
@@ -3519,8 +3687,7 @@
             },
             {
                 "Bibliotheek Park (Merksem)": {
-                    "status": "Uitgeleend",
-                    "due_date": "19-05-2023",
+                    "status": "Aanwezig",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar)",
                     "shelfmark": "BLAC",
                     "specimen_count": 1
@@ -3595,7 +3762,8 @@
             },
             {
                 "Bibliotheek Bist (Wilrijk)": {
-                    "status": "Aanwezig",
+                    "status": "Uitgeleend",
+                    "due_date": "02-08-2023",
                     "sublocation": "Nederlandstalige jeugdfictie (9-11 jaar)",
                     "shelfmark": "HUNT 6",
                     "specimen_count": 1
@@ -3709,7 +3877,8 @@
             },
             {
                 "Bibliotheek Luchtbal (Antwerpen)": {
-                    "status": "Gereserveerd",
+                    "status": "Uitgeleend",
+                    "due_date": "13-06-2023",
                     "sublocation": "Adolescentenafdeling anderstalig Engels",
                     "shelfmark": "BARD 1",
                     "specimen_count": 1
@@ -3749,10 +3918,10 @@
         "locations": [
             {
                 "Bibliotheek Permeke (Antwerpen)": {
-                    "status": "Aanwezig",
+                    "status": "3 items aanwezig",
                     "sublocation": "Nederlandstalig",
                     "shelfmark": "SCHW",
-                    "specimen_count": 2
+                    "specimen_count": 1
                 }
             },
             {
@@ -3815,8 +3984,7 @@
             },
             {
                 "Bibliotheek Kielpark (Antwerpen)": {
-                    "status": "Uitgeleend",
-                    "due_date": "18-04-2023",
+                    "status": "Aanwezig",
                     "sublocation": "Nederlandstalig",
                     "shelfmark": "SCHW",
                     "specimen_count": 1
@@ -3824,10 +3992,11 @@
             },
             {
                 "Bibliotheek Park (Merksem)": {
-                    "status": "2 items uitgeleend",
+                    "status": "Aanwezig",
+                    "due_date": "31-05-2023",
                     "sublocation": "Nederlandstalig",
                     "shelfmark": "SCHW",
-                    "specimen_count": 1
+                    "specimen_count": 2
                 }
             }
         ],
@@ -3872,7 +4041,7 @@
             },
             {
                 "Bibliotheek Couwelaar (Deurne)": {
-                    "status": "Aanwezig",
+                    "status": "Op transport",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar)",
                     "shelfmark": "THAO",
                     "specimen_count": 1
@@ -3880,7 +4049,8 @@
             },
             {
                 "Bibliotheek De Poort (Berchem)": {
-                    "status": "Aanwezig",
+                    "status": "Uitgeleend",
+                    "due_date": "16-06-2023",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar)",
                     "shelfmark": "THAO",
                     "specimen_count": 1
@@ -3980,7 +4150,8 @@
         "locations": [
             {
                 "Bibliotheek Couwelaar (Deurne)": {
-                    "status": "Op transport",
+                    "status": "Uitgeleend",
+                    "due_date": "14-06-2023",
                     "sublocation": "Nederlandstalig",
                     "shelfmark": "DOUG",
                     "specimen_count": 1
@@ -4002,7 +4173,8 @@
             },
             {
                 "Bibliotheek Arena (Deurne)": {
-                    "status": "Aanwezig",
+                    "status": "Uitgeleend",
+                    "due_date": "14-06-2023",
                     "sublocation": "Nederlandstalig",
                     "shelfmark": "HAIG",
                     "specimen_count": 1
@@ -4011,7 +4183,7 @@
             {
                 "Bibliotheek Bist (Wilrijk)": {
                     "status": "Uitgeleend",
-                    "due_date": "16-05-2023",
+                    "due_date": "16-06-2023",
                     "sublocation": "Nederlandstalig",
                     "shelfmark": "HAIG",
                     "specimen_count": 1
@@ -4029,9 +4201,9 @@
             {
                 "Bibliotheek Couwelaar (Deurne)": {
                     "status": "Uitgeleend",
-                    "due_date": "25-05-2023",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar)",
                     "shelfmark": "HAIG",
+                    "due_date": "25-05-2023",
                     "specimen_count": 2
                 }
             },
@@ -4136,7 +4308,7 @@
             },
             {
                 "Bibliotheek Arena (Deurne)": {
-                    "status": "Aanwezig",
+                    "status": "Op transport",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar)",
                     "shelfmark": "BARD",
                     "specimen_count": 1
@@ -4177,8 +4349,7 @@
             },
             {
                 "Bibliotheek Elsschot (Antwerpen)": {
-                    "status": "Uitgeleend",
-                    "due_date": "19-04-2023",
+                    "status": "Aanwezig",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar)",
                     "shelfmark": "BARD",
                     "specimen_count": 1
@@ -4211,7 +4382,8 @@
             },
             {
                 "Bibliotheek Vrede (Borgerhout)": {
-                    "status": "Aanwezig",
+                    "status": "Uitgeleend",
+                    "due_date": "10-06-2023",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar)",
                     "shelfmark": "BARD",
                     "specimen_count": 1
@@ -4268,7 +4440,8 @@
             },
             {
                 "Bibliotheek De Poort (Berchem)": {
-                    "status": "Aanwezig",
+                    "status": "Uitgeleend",
+                    "due_date": "16-06-2023",
                     "sublocation": "Adolescentenafdeling anderstalig Engels",
                     "shelfmark": "BARN 1",
                     "specimen_count": 1
@@ -4285,7 +4458,8 @@
             },
             {
                 "Bibliotheek Hoboken (Hoboken)": {
-                    "status": "Op transport",
+                    "status": "Uitgeleend",
+                    "due_date": "16-06-2023",
                     "sublocation": "Adolescentenafdeling anderstalig Engels",
                     "shelfmark": "BARN 1",
                     "specimen_count": 1
@@ -4315,8 +4489,7 @@
         "locations": [
             {
                 "Bibliotheek Permeke (Antwerpen)": {
-                    "status": "Uitgeleend",
-                    "due_date": "04-05-2023",
+                    "status": "Aanwezig",
                     "sublocation": "Nederlandstalig",
                     "shelfmark": "HAZE",
                     "specimen_count": 1
@@ -4342,7 +4515,7 @@
             {
                 "Bibliotheek Couwelaar (Deurne)": {
                     "status": "Uitgeleend",
-                    "due_date": "29-04-2023",
+                    "due_date": "13-06-2023",
                     "sublocation": "Nederlandstalig",
                     "shelfmark": "HAZE",
                     "specimen_count": 1
@@ -4367,7 +4540,7 @@
             },
             {
                 "Bibliotheek Elsschot (Antwerpen)": {
-                    "status": "Op transport",
+                    "status": "Aanwezig",
                     "sublocation": "Nederlandstalig",
                     "shelfmark": "HAZE",
                     "specimen_count": 1
@@ -4384,8 +4557,7 @@
             },
             {
                 "Bibliotheek Kielpark (Antwerpen)": {
-                    "status": "Uitgeleend",
-                    "due_date": "08-05-2023",
+                    "status": "Aanwezig",
                     "sublocation": "Nederlandstalig",
                     "shelfmark": "HAZE",
                     "specimen_count": 1
@@ -4411,7 +4583,8 @@
             },
             {
                 "Bibliotheek Viswater (Berendrecht)": {
-                    "status": "Aanwezig",
+                    "status": "Uitgeleend",
+                    "due_date": "15-06-2023",
                     "sublocation": "Nederlandstalig",
                     "shelfmark": "HAZE",
                     "specimen_count": 1
@@ -4488,10 +4661,11 @@
         "locations": [
             {
                 "Bibliotheek Permeke (Antwerpen)": {
-                    "status": "2 items uitgeleend",
+                    "status": "Uitgeleend",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar)",
                     "shelfmark": "MCMA",
-                    "specimen_count": 1
+                    "due_date": "30-05-2023",
+                    "specimen_count": 2
                 }
             },
             {
@@ -4579,7 +4753,8 @@
             },
             {
                 "Bibliotheek Park (Merksem)": {
-                    "status": "Aanwezig",
+                    "status": "Uitgeleend",
+                    "due_date": "14-06-2023",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar)",
                     "shelfmark": "MCMA",
                     "specimen_count": 1
@@ -4665,8 +4840,7 @@
             },
             {
                 "Bibliotheek Bist (Wilrijk)": {
-                    "status": "Uitgeleend",
-                    "due_date": "03-05-2023",
+                    "status": "Aanwezig",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar)",
                     "shelfmark": "MCQU",
                     "specimen_count": 1
@@ -4706,8 +4880,7 @@
             },
             {
                 "Bibliotheek Hoboken (Hoboken)": {
-                    "status": "Uitgeleend",
-                    "due_date": "27-05-2023",
+                    "status": "Aanwezig",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar)",
                     "shelfmark": "MCQU",
                     "specimen_count": 1
@@ -4937,7 +5110,8 @@
             },
             {
                 "Bibliotheek Driehoek (Ekeren)": {
-                    "status": "Op transport",
+                    "status": "Uitgeleend",
+                    "due_date": "16-06-2023",
                     "sublocation": "Adolescentenafdeling anderstalig Engels",
                     "shelfmark": "BARN",
                     "specimen_count": 1
@@ -4945,8 +5119,7 @@
             },
             {
                 "Bibliotheek Hoboken (Hoboken)": {
-                    "status": "Uitgeleend",
-                    "due_date": "02-06-2023",
+                    "status": "Aanwezig",
                     "sublocation": "Adolescentenafdeling anderstalig Engels",
                     "shelfmark": "BARN",
                     "specimen_count": 1
@@ -4995,8 +5168,7 @@
             },
             {
                 "Bibliotheek Brederode (Antwerpen)": {
-                    "status": "Uitgeleend",
-                    "due_date": "05-06-2023",
+                    "status": "Aanwezig",
                     "sublocation": "Nederlandstalig",
                     "shelfmark": "BROW",
                     "specimen_count": 1
@@ -5130,7 +5302,8 @@
         "locations": [
             {
                 "Bibliotheek Permeke (Antwerpen)": {
-                    "status": "Aanwezig",
+                    "status": "Uitgeleend",
+                    "due_date": "16-06-2023",
                     "sublocation": "Nederlandstalig",
                     "shelfmark": "ROBE",
                     "specimen_count": 1
@@ -5148,7 +5321,7 @@
             {
                 "Bibliotheek Bist (Wilrijk)": {
                     "status": "Uitgeleend",
-                    "due_date": "11-05-2023",
+                    "due_date": "15-06-2023",
                     "sublocation": "Nederlandstalig",
                     "shelfmark": "ROBE",
                     "specimen_count": 1
@@ -5156,7 +5329,8 @@
             },
             {
                 "Bibliotheek Couwelaar (Deurne)": {
-                    "status": "Aanwezig",
+                    "status": "Uitgeleend",
+                    "due_date": "10-06-2023",
                     "sublocation": "Nederlandstalig",
                     "shelfmark": "ROBE",
                     "specimen_count": 1
@@ -5281,7 +5455,8 @@
             },
             {
                 "Bibliotheek Park (Merksem)": {
-                    "status": "Aanwezig",
+                    "status": "Uitgeleend",
+                    "due_date": "14-06-2023",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar)",
                     "shelfmark": "MCMA",
                     "specimen_count": 1
@@ -5303,8 +5478,7 @@
             },
             {
                 "Bibliotheek Hoboken (Hoboken)": {
-                    "status": "Uitgeleend",
-                    "due_date": "01-06-2023",
+                    "status": "Op transport",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar)",
                     "shelfmark": "MAAS",
                     "specimen_count": 1
@@ -5317,8 +5491,7 @@
         "locations": [
             {
                 "Bibliotheek Permeke (Antwerpen)": {
-                    "status": "Uitgeleend",
-                    "due_date": "08-06-2023",
+                    "status": "Op transport",
                     "sublocation": "Nederlandstalig",
                     "shelfmark": "KENN",
                     "specimen_count": 1
@@ -5451,10 +5624,11 @@
         "locations": [
             {
                 "Bibliotheek Permeke (Antwerpen)": {
-                    "status": "2 items uitgeleend",
+                    "status": "Uitgeleend",
                     "sublocation": "Nederlandstalig",
                     "shelfmark": "BARD",
-                    "specimen_count": 1
+                    "due_date": "16-06-2023",
+                    "specimen_count": 2
                 }
             },
             {
@@ -5483,7 +5657,8 @@
             },
             {
                 "Bibliotheek Driehoek (Ekeren)": {
-                    "status": "Aanwezig",
+                    "status": "Uitgeleend",
+                    "due_date": "15-06-2023",
                     "sublocation": "Nederlandstalig",
                     "shelfmark": "BARD",
                     "specimen_count": 1
@@ -5593,10 +5768,9 @@
         "locations": [
             {
                 "Bibliotheek Permeke (Antwerpen)": {
-                    "status": "Uitgeleend",
+                    "status": "Aanwezig",
                     "sublocation": "Nederlandstalig",
                     "shelfmark": "HENR",
-                    "due_date": "02-05-2023",
                     "specimen_count": 2
                 }
             },
@@ -5759,8 +5933,7 @@
             },
             {
                 "Bibliotheek Hoboken (Hoboken)": {
-                    "status": "Uitgeleend",
-                    "due_date": "12-04-2023",
+                    "status": "Aanwezig",
                     "sublocation": "Nederlandstalige jeugdfictie (12-14 jaar)",
                     "shelfmark": "COUS",
                     "specimen_count": 1
@@ -5768,7 +5941,8 @@
             },
             {
                 "Bibliotheek Luchtbal (Antwerpen)": {
-                    "status": "Vermist",
+                    "status": "Uitgeleend",
+                    "due_date": "15-06-2023",
                     "sublocation": "Nederlandstalige jeugdfictie (12-14 jaar)",
                     "shelfmark": "COUS",
                     "specimen_count": 1
@@ -5892,8 +6066,7 @@
             },
             {
                 "Bibliotheek Arena (Deurne)": {
-                    "status": "Uitgeleend",
-                    "due_date": "08-05-2023",
+                    "status": "Aanwezig",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar)",
                     "shelfmark": "SCHW",
                     "specimen_count": 1
@@ -5917,8 +6090,7 @@
             },
             {
                 "Bibliotheek Couwelaar (Deurne)": {
-                    "status": "Uitgeleend",
-                    "due_date": "09-06-2023",
+                    "status": "Aanwezig",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar)",
                     "shelfmark": "SCHW",
                     "specimen_count": 1
@@ -6027,7 +6199,8 @@
         "locations": [
             {
                 "Bibliotheek Permeke (Antwerpen)": {
-                    "status": "Aanwezig",
+                    "status": "Uitgeleend",
+                    "due_date": "16-06-2023",
                     "sublocation": "Adolescentenafdeling anderstalig Engels",
                     "shelfmark": "LOCK",
                     "specimen_count": 1
@@ -6071,8 +6244,7 @@
             },
             {
                 "Bibliotheek Hoboken (Hoboken)": {
-                    "status": "Uitgeleend",
-                    "due_date": "27-04-2023",
+                    "status": "Op transport",
                     "sublocation": "Adolescentenafdeling anderstalig Engels",
                     "shelfmark": "LOCK",
                     "specimen_count": 1
@@ -6111,10 +6283,10 @@
         "locations": [
             {
                 "Bibliotheek Permeke (Antwerpen)": {
-                    "status": "Aanwezig",
-                    "due_date": "12-05-2023",
+                    "status": "Uitgeleend",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar)",
                     "shelfmark": "BARD",
+                    "due_date": "16-06-2023",
                     "specimen_count": 2
                 }
             },
@@ -6129,7 +6301,7 @@
             },
             {
                 "Bibliotheek Bist (Wilrijk)": {
-                    "status": "Op transport",
+                    "status": "Aanwezig",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar)",
                     "shelfmark": "BARD",
                     "specimen_count": 1
@@ -6178,7 +6350,8 @@
             },
             {
                 "Bibliotheek Hoboken (Hoboken)": {
-                    "status": "Aanwezig",
+                    "status": "Uitgeleend",
+                    "due_date": "16-06-2023",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar)",
                     "shelfmark": "BARD",
                     "specimen_count": 1
@@ -6249,10 +6422,11 @@
             },
             {
                 "Bibliotheek De Poort (Berchem)": {
-                    "status": "2 items uitgeleend",
+                    "status": "Niet beschikbaar",
+                    "due_date": "08-06-2023",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar)",
                     "shelfmark": "BARN",
-                    "specimen_count": 1
+                    "specimen_count": 2
                 }
             },
             {
@@ -6266,10 +6440,11 @@
             },
             {
                 "Bibliotheek Elsschot (Antwerpen)": {
-                    "status": "2 items aanwezig",
+                    "status": "Uitgeleend",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar)",
                     "shelfmark": "BARN",
-                    "specimen_count": 1
+                    "due_date": "14-06-2023",
+                    "specimen_count": 2
                 }
             },
             {
@@ -6330,7 +6505,7 @@
                     "status": "Uitgeleend",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar)",
                     "shelfmark": "BARD",
-                    "due_date": "12-05-2023",
+                    "due_date": "02-06-2023",
                     "specimen_count": 2
                 }
             },
@@ -6344,7 +6519,7 @@
             },
             {
                 "Bibliotheek Brederode (Antwerpen)": {
-                    "status": "Op transport",
+                    "status": "Gereserveerd",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar)",
                     "shelfmark": "BARD",
                     "specimen_count": 1
@@ -6352,7 +6527,7 @@
             },
             {
                 "Bibliotheek Couwelaar (Deurne)": {
-                    "status": "Aanwezig",
+                    "status": "Op transport",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar)",
                     "shelfmark": "BARD",
                     "specimen_count": 1
@@ -6385,7 +6560,8 @@
             },
             {
                 "Bibliotheek Hoboken (Hoboken)": {
-                    "status": "Aanwezig",
+                    "status": "Uitgeleend",
+                    "due_date": "10-06-2023",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar)",
                     "shelfmark": "BARD",
                     "specimen_count": 1
@@ -6393,8 +6569,7 @@
             },
             {
                 "Bibliotheek Kielpark (Antwerpen)": {
-                    "status": "Uitgeleend",
-                    "due_date": "19-04-2023",
+                    "status": "Niet beschikbaar",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar)",
                     "shelfmark": "BARD",
                     "specimen_count": 1
@@ -6426,7 +6601,7 @@
                     "status": "Uitgeleend",
                     "sublocation": "Nederlandstalige jeugdfictie (9-11 jaar)",
                     "shelfmark": "ALMO",
-                    "due_date": "07-05-2023",
+                    "due_date": "30-05-2023",
                     "specimen_count": 2
                 }
             },
@@ -6459,17 +6634,16 @@
                     "status": "Uitgeleend",
                     "sublocation": "Nederlandstalige jeugdfictie (9-11 jaar)",
                     "shelfmark": "ALMO",
-                    "due_date": "01-06-2023",
+                    "due_date": "22-06-2023",
                     "specimen_count": 2
                 }
             },
             {
                 "Bibliotheek De Poort (Berchem)": {
-                    "status": "Aanwezig",
-                    "due_date": "03-06-2023",
+                    "status": "2 items aanwezig",
                     "sublocation": "Nederlandstalige jeugdfictie (9-11 jaar)",
                     "shelfmark": "ALMO",
-                    "specimen_count": 2
+                    "specimen_count": 1
                 }
             },
             {
@@ -6523,7 +6697,7 @@
             {
                 "Bibliotheek Park (Merksem)": {
                     "status": "Uitgeleend",
-                    "due_date": "06-05-2023",
+                    "due_date": "27-05-2023",
                     "sublocation": "Nederlandstalige jeugdfictie (9-11 jaar)",
                     "shelfmark": "ALMO",
                     "specimen_count": 1
@@ -6577,7 +6751,8 @@
             },
             {
                 "Bibliotheek De Poort (Berchem)": {
-                    "status": "Aanwezig",
+                    "status": "Uitgeleend",
+                    "due_date": "13-06-2023",
                     "sublocation": "Nederlandstalige jeugdfictie (12-14 jaar)",
                     "shelfmark": "SMAL 2",
                     "specimen_count": 1
@@ -6736,7 +6911,8 @@
         "locations": [
             {
                 "Bibliotheek Permeke (Antwerpen)": {
-                    "status": "Aanwezig",
+                    "status": "Uitgeleend",
+                    "due_date": "16-06-2023",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar)",
                     "shelfmark": "LOCK",
                     "specimen_count": 1
@@ -6744,7 +6920,7 @@
             },
             {
                 "Bibliotheek Arena (Deurne)": {
-                    "status": "Op transport",
+                    "status": "Aanwezig",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar)",
                     "shelfmark": "LOCK",
                     "specimen_count": 1
@@ -6803,7 +6979,7 @@
             },
             {
                 "Bibliotheek Kielpark (Antwerpen)": {
-                    "status": "Op transport",
+                    "status": "Gereserveerd",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar)",
                     "shelfmark": "LOCK",
                     "specimen_count": 1
@@ -6841,8 +7017,7 @@
         "locations": [
             {
                 "Bibliotheek Permeke (Antwerpen)": {
-                    "status": "Uitgeleend",
-                    "due_date": "30-04-2023",
+                    "status": "Aanwezig",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar)",
                     "shelfmark": "MCMA",
                     "specimen_count": 1
@@ -6980,8 +7155,7 @@
             },
             {
                 "Bibliotheek Bist (Wilrijk)": {
-                    "status": "Uitgeleend",
-                    "due_date": "29-04-2023",
+                    "status": "Aanwezig",
                     "sublocation": "Nederlandstalig",
                     "shelfmark": "MILL",
                     "specimen_count": 1
@@ -7002,9 +7176,10 @@
         "locations": [
             {
                 "Bibliotheek Permeke (Antwerpen)": {
-                    "status": "Op transport",
+                    "status": "Uitgeleend",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar)",
                     "shelfmark": "NOVI 1",
+                    "due_date": "15-06-2023",
                     "specimen_count": 2
                 }
             },
@@ -7154,7 +7329,7 @@
         "locations": [
             {
                 "Bibliotheek Permeke (Antwerpen)": {
-                    "status": "Op transport",
+                    "status": "Aanwezig",
                     "sublocation": "Nederlandstalig",
                     "shelfmark": "THOR",
                     "specimen_count": 1
@@ -7188,7 +7363,8 @@
             },
             {
                 "Bibliotheek Park (Merksem)": {
-                    "status": "Gereserveerd",
+                    "status": "Uitgeleend",
+                    "due_date": "13-06-2023",
                     "sublocation": "Nederlandstalig",
                     "shelfmark": "THOR",
                     "specimen_count": 1
@@ -7196,8 +7372,7 @@
             },
             {
                 "Bibliotheek Viswater (Berendrecht)": {
-                    "status": "Uitgeleend",
-                    "due_date": "25-05-2023",
+                    "status": "Aanwezig",
                     "sublocation": "Nederlandstalig",
                     "shelfmark": "THOR",
                     "specimen_count": 1
@@ -7210,7 +7385,8 @@
         "locations": [
             {
                 "Bibliotheek Permeke (Antwerpen)": {
-                    "status": "Aanwezig",
+                    "status": "Uitgeleend",
+                    "due_date": "13-06-2023",
                     "sublocation": "Anderstalige literatuur Engels",
                     "shelfmark": "E HENR",
                     "specimen_count": 1
@@ -7245,8 +7421,7 @@
             },
             {
                 "Bibliotheek Park (Merksem)": {
-                    "status": "Uitgeleend",
-                    "due_date": "03-05-2023",
+                    "status": "Aanwezig",
                     "sublocation": "Anderstalige literatuur ",
                     "shelfmark": "HENR",
                     "specimen_count": 1
@@ -7313,7 +7488,8 @@
             },
             {
                 "Bibliotheek Couwelaar (Deurne)": {
-                    "status": "Aanwezig",
+                    "status": "Uitgeleend",
+                    "due_date": "13-06-2023",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar)",
                     "shelfmark": "HALL",
                     "specimen_count": 1
@@ -7379,7 +7555,7 @@
             {
                 "Bibliotheek Vrede (Borgerhout)": {
                     "status": "Uitgeleend",
-                    "due_date": "25-04-2023",
+                    "due_date": "24-05-2023",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar)",
                     "shelfmark": "HALL",
                     "specimen_count": 1
@@ -7434,8 +7610,7 @@
             },
             {
                 "Bibliotheek Park (Merksem)": {
-                    "status": "Uitgeleend",
-                    "due_date": "02-05-2023",
+                    "status": "Aanwezig",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar)",
                     "shelfmark": "PESS",
                     "specimen_count": 1
@@ -7555,10 +7730,11 @@
         "locations": [
             {
                 "Bibliotheek Permeke (Antwerpen)": {
-                    "status": "2 items uitgeleend",
+                    "status": "Aanwezig",
+                    "due_date": "13-05-2023",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar)",
                     "shelfmark": "THOM",
-                    "specimen_count": 1
+                    "specimen_count": 2
                 }
             },
             {
@@ -7701,7 +7877,8 @@
             },
             {
                 "Bibliotheek De Poort (Berchem)": {
-                    "status": "Aanwezig",
+                    "status": "Uitgeleend",
+                    "due_date": "14-06-2023",
                     "sublocation": "Nederlandstalig",
                     "shelfmark": "NONI",
                     "specimen_count": 1
@@ -7725,8 +7902,7 @@
             },
             {
                 "Bibliotheek Hoboken (Hoboken)": {
-                    "status": "Uitgeleend",
-                    "due_date": "24-05-2023",
+                    "status": "Aanwezig",
                     "sublocation": "Nederlandstalig",
                     "shelfmark": "NONI",
                     "specimen_count": 1
@@ -7796,7 +7972,7 @@
             {
                 "Bibliotheek Driehoek (Ekeren)": {
                     "status": "Uitgeleend",
-                    "due_date": "06-05-2023",
+                    "due_date": "27-05-2023",
                     "sublocation": "ZIZO-Volwassenen : Wetenschap en techniek",
                     "shelfmark": "LORD",
                     "specimen_count": 1
@@ -8108,7 +8284,8 @@
             },
             {
                 "Bibliotheek Kielpark (Antwerpen)": {
-                    "status": "Op transport",
+                    "status": "Uitgeleend",
+                    "due_date": "15-06-2023",
                     "sublocation": "Nederlandstalig",
                     "shelfmark": "HOAN",
                     "specimen_count": 1
@@ -8218,7 +8395,7 @@
             },
             {
                 "Bibliotheek Hoboken (Hoboken)": {
-                    "status": "Niet beschikbaar",
+                    "status": "Aanwezig",
                     "sublocation": "Jeugd - Informatief ZIZO - Natuur-Planten-Dieren",
                     "shelfmark": null,
                     "specimen_count": 1
@@ -8273,8 +8450,7 @@
             },
             {
                 "Bibliotheek De Poort (Berchem)": {
-                    "status": "Uitgeleend",
-                    "due_date": "07-06-2023",
+                    "status": "Aanwezig",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar)",
                     "shelfmark": "YOUN",
                     "specimen_count": 1
@@ -8299,8 +8475,7 @@
             },
             {
                 "Bibliotheek Park (Merksem)": {
-                    "status": "Uitgeleend",
-                    "due_date": "19-05-2023",
+                    "status": "Aanwezig",
                     "sublocation": "Nederlandstalige jeugdfictie (vanaf 15 jaar)",
                     "shelfmark": "YOUN",
                     "specimen_count": 1
