@@ -131,7 +131,11 @@ fetch("api_books.json")
         const clickedBookDiv = event.target.closest(".book-div");
         if (clickedBookDiv) {
             const infoAvailabilityDiv = clickedBookDiv.querySelector(".book-info-availability");
+            if (infoAvailabilityDiv.style.visibility === "visible") {
+            infoAvailabilityDiv.style.visibility = "hidden";
+            } else {
             infoAvailabilityDiv.style.visibility = "visible";
+            }
         }
         }
     }
