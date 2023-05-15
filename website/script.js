@@ -61,6 +61,9 @@ fetch("api_books.json")
                         const summary = document.createElement("p");
                         summary.classList.add("book-summary");
                         summary.textContent = book.summary;
+                        if (summary.textContent.length > 200) {
+                            summary.textContent = summary.textContent.substring(0, 200) + "...";
+                        }
                         infoDiv.appendChild(summary);
                     }
 
