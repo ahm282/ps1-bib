@@ -127,8 +127,11 @@ fetch("api_books.json")
     });
 
     function toggleBookDiv(event) {
-        const bookDivs = document.querySelectorAll(".book-info-availability");
-        bookDivs.forEach((bookDiv) => {
-        bookDiv.style.visibility = "visible";
-        });
+        if (event.detail === 2) {
+        const clickedBookDiv = event.target.closest(".book-div");
+        if (clickedBookDiv) {
+            const infoAvailabilityDiv = clickedBookDiv.querySelector(".book-info-availability");
+            infoAvailabilityDiv.style.visibility = "visible";
+        }
+        }
     }
