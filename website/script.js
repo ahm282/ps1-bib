@@ -125,3 +125,10 @@ fetch("api_books.json")
                 }
             });
     });
+
+    function toggleBookDiv(event) {
+        const bookDivs = document.querySelectorAll(".book-info-availability");
+        bookDivs.forEach((bookDiv) => {
+        bookDiv.style.visibility = "visible";
+        });
+    }

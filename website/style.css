@@ -62,6 +62,7 @@ a {
     padding-bottom: 50px;
 
     border-bottom: 2px solid #B3B3B3;
+
 }
 
 .positioning-div {
@@ -109,6 +110,7 @@ a {
     background-color: rgba(0, 0, 0, 0.5);
     backdrop-filter: blur(8px);
     border-radius: 7px;
+    visibility: hidden;
 }
 
 .book-title {
